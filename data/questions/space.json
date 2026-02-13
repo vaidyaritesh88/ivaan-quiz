@@ -1,0 +1,455 @@
+{
+  "topic": "space",
+  "questions": [
+    {
+      "id": "space-001",
+      "ageGroup": ["5-7"],
+      "question": "Which planet is closest to the Sun?",
+      "options": ["Earth", "Mercury", "Venus", "Mars"],
+      "correctIndex": 1,
+      "explanation": "Mercury is the closest planet to the Sun. It is also the smallest planet in our solar system.",
+      "funFact": "Mercury has no atmosphere, so it has no weather!"
+    },
+    {
+      "id": "space-002",
+      "ageGroup": ["5-7"],
+      "question": "What is the name of the star closest to Earth?",
+      "options": ["Polaris", "Sirius", "The Sun", "Alpha Centauri"],
+      "correctIndex": 2,
+      "explanation": "The Sun is our closest star. It gives us light and warmth every day.",
+      "funFact": "The Sun is so big that about 1.3 million Earths could fit inside it!"
+    },
+    {
+      "id": "space-003",
+      "ageGroup": ["5-7"],
+      "question": "How many planets are there in our solar system?",
+      "options": ["7", "8", "9", "10"],
+      "correctIndex": 1,
+      "explanation": "There are 8 planets in our solar system. Pluto was reclassified as a dwarf planet in 2006.",
+      "funFact": "You can remember the planets in order with: My Very Excited Mother Just Served Us Nachos!"
+    },
+    {
+      "id": "space-004",
+      "ageGroup": ["5-7"],
+      "question": "Which planet is known as the Red Planet?",
+      "options": ["Jupiter", "Venus", "Mars", "Saturn"],
+      "correctIndex": 2,
+      "explanation": "Mars is called the Red Planet because its surface is covered with reddish dust and rocks.",
+      "funFact": "Mars has the tallest volcano in the solar system called Olympus Mons!"
+    },
+    {
+      "id": "space-005",
+      "ageGroup": ["5-7"],
+      "question": "What shape is the Earth?",
+      "options": ["Flat like a plate", "A perfect cube", "Roughly a sphere", "Shaped like an egg"],
+      "correctIndex": 2,
+      "explanation": "Earth is roughly a sphere, slightly flattened at the poles and bulging at the equator.",
+      "funFact": "From space, Earth looks blue because of all the water on its surface!"
+    },
+    {
+      "id": "space-006",
+      "ageGroup": ["5-7"],
+      "question": "What does the Moon orbit around?",
+      "options": ["The Sun", "Mars", "Earth", "Jupiter"],
+      "correctIndex": 2,
+      "explanation": "The Moon orbits around the Earth. It takes about 27 days to complete one orbit.",
+      "funFact": "The Moon is the only place beyond Earth where humans have walked!"
+    },
+    {
+      "id": "space-007",
+      "ageGroup": ["5-7"],
+      "question": "Which planet has big beautiful rings around it?",
+      "options": ["Mars", "Earth", "Neptune", "Saturn"],
+      "correctIndex": 3,
+      "explanation": "Saturn is famous for its bright and beautiful rings made of ice and rock.",
+      "funFact": "Saturn is so light that if you could find a bathtub big enough, it would float in water!"
+    },
+    {
+      "id": "space-008",
+      "ageGroup": ["5-7"],
+      "question": "What do we call a person who travels to space?",
+      "options": ["Pilot", "Astronaut", "Scientist", "Explorer"],
+      "correctIndex": 1,
+      "explanation": "A person who travels to space is called an astronaut. In India, they are also called vyomanauts.",
+      "funFact": "Astronauts grow about 2 inches taller in space because gravity does not squeeze their spine!"
+    },
+    {
+      "id": "space-009",
+      "ageGroup": ["5-7"],
+      "question": "Which is the biggest planet in our solar system?",
+      "options": ["Saturn", "Neptune", "Jupiter", "Uranus"],
+      "correctIndex": 2,
+      "explanation": "Jupiter is the largest planet in our solar system. It is so big that all other planets could fit inside it.",
+      "funFact": "Jupiter has a giant storm called the Great Red Spot that has been raging for hundreds of years!"
+    },
+    {
+      "id": "space-010",
+      "ageGroup": ["5-7"],
+      "question": "What colour does the Sun appear to us during the day?",
+      "options": ["Red", "Blue", "White-Yellow", "Green"],
+      "correctIndex": 2,
+      "explanation": "The Sun appears white-yellow to us during the day. It is actually white but our atmosphere makes it look slightly yellow.",
+      "funFact": "Never look directly at the Sun because its light is so strong it can hurt your eyes!"
+    },
+    {
+      "id": "space-011",
+      "ageGroup": ["5-7"],
+      "question": "Which planet do we live on?",
+      "options": ["Mars", "Venus", "Earth", "Jupiter"],
+      "correctIndex": 2,
+      "explanation": "We live on planet Earth. It is the third planet from the Sun.",
+      "funFact": "Earth is the only planet in our solar system that has liquid water on its surface!"
+    },
+    {
+      "id": "space-012",
+      "ageGroup": ["5-7"],
+      "question": "What lights up the Moon at night?",
+      "options": ["The Moon makes its own light", "The Sun's light reflects off it", "Stars light it up", "Earth lights it up"],
+      "correctIndex": 1,
+      "explanation": "The Moon does not make its own light. It shines because sunlight bounces off its surface.",
+      "funFact": "The Moon has dark spots called 'seas' but they have no water at all!"
+    },
+    {
+      "id": "space-013",
+      "ageGroup": ["5-7"],
+      "question": "What do we call the group of stars that form a pattern in the sky?",
+      "options": ["Galaxy", "Constellation", "Nebula", "Asteroid"],
+      "correctIndex": 1,
+      "explanation": "A constellation is a group of stars that form a recognisable pattern in the sky, like a connect-the-dots picture.",
+      "funFact": "There are 88 official constellations in the sky, and people have been naming them for thousands of years!"
+    },
+    {
+      "id": "space-014",
+      "ageGroup": ["5-7"],
+      "question": "Which planet is the hottest in our solar system?",
+      "options": ["Mercury", "Venus", "Mars", "Jupiter"],
+      "correctIndex": 1,
+      "explanation": "Venus is the hottest planet even though Mercury is closer to the Sun. Venus has thick clouds that trap heat.",
+      "funFact": "Venus is so hot that it could melt lead!"
+    },
+    {
+      "id": "space-015",
+      "ageGroup": ["5-7"],
+      "question": "What is a shooting star actually?",
+      "options": ["A falling star", "A piece of rock burning in the atmosphere", "A tiny spaceship", "A firefly in the sky"],
+      "correctIndex": 1,
+      "explanation": "A shooting star is actually a small piece of space rock that burns up as it enters Earth's atmosphere.",
+      "funFact": "Millions of shooting stars happen every day, but most are too small to see!"
+    },
+    {
+      "id": "space-016",
+      "ageGroup": ["5-7"],
+      "question": "Does the Sun move around the Earth or does the Earth move around the Sun?",
+      "options": ["The Sun moves around the Earth", "The Earth moves around the Sun", "They both stay still", "They move around each other equally"],
+      "correctIndex": 1,
+      "explanation": "The Earth orbits around the Sun. It takes one full year for Earth to complete one orbit.",
+      "funFact": "The Earth travels around the Sun at about 107,000 kilometres per hour!"
+    },
+    {
+      "id": "space-017",
+      "ageGroup": ["5-7", "8-10"],
+      "question": "What causes day and night on Earth?",
+      "options": ["The Sun moving around Earth", "Earth spinning on its axis", "The Moon blocking the Sun", "Clouds covering the sky"],
+      "correctIndex": 1,
+      "explanation": "Day and night happen because the Earth rotates on its axis. The side facing the Sun has daytime while the other side has nighttime.",
+      "funFact": "One full spin of the Earth takes about 24 hours, which is why we have 24 hours in a day!"
+    },
+    {
+      "id": "space-018",
+      "ageGroup": ["5-7", "8-10"],
+      "question": "What is the name of our galaxy?",
+      "options": ["Andromeda", "Milky Way", "Whirlpool", "Pinwheel"],
+      "correctIndex": 1,
+      "explanation": "Our galaxy is called the Milky Way. It contains billions of stars including our Sun.",
+      "funFact": "The Milky Way got its name because it looks like a milky band of light across the night sky!"
+    },
+    {
+      "id": "space-019",
+      "ageGroup": ["5-7"],
+      "question": "Which of these is NOT a planet in our solar system?",
+      "options": ["Saturn", "Pluto", "Neptune", "Uranus"],
+      "correctIndex": 1,
+      "explanation": "Pluto is no longer classified as a planet. In 2006, scientists reclassified it as a dwarf planet.",
+      "funFact": "Pluto is smaller than Earth's Moon!"
+    },
+    {
+      "id": "space-020",
+      "ageGroup": ["5-7"],
+      "question": "What do astronauts wear when they go outside a spacecraft?",
+      "options": ["A raincoat", "A spacesuit", "A diving suit", "A lab coat"],
+      "correctIndex": 1,
+      "explanation": "Astronauts wear spacesuits to protect them in space. Spacesuits provide air, keep the right temperature, and protect from harmful radiation.",
+      "funFact": "A spacesuit costs about 12 million US dollars to make!"
+    },
+    {
+      "id": "space-021",
+      "ageGroup": ["8-10"],
+      "question": "What is the name of India's space agency?",
+      "options": ["NASA", "ESA", "ISRO", "JAXA"],
+      "correctIndex": 2,
+      "explanation": "ISRO stands for Indian Space Research Organisation. It was founded in 1969 and is headquartered in Bengaluru.",
+      "funFact": "ISRO launched 104 satellites in a single mission in 2017, setting a world record at that time!"
+    },
+    {
+      "id": "space-022",
+      "ageGroup": ["8-10"],
+      "question": "What was the name of India's Mars mission?",
+      "options": ["Chandrayaan", "Mangalyaan", "Gaganyaan", "Aditya"],
+      "correctIndex": 1,
+      "explanation": "Mangalyaan, also called the Mars Orbiter Mission, was India's first mission to Mars launched in 2013. India became the first country to reach Mars orbit on its first attempt.",
+      "funFact": "Mangalyaan cost less than the budget of many Hollywood movies!"
+    },
+    {
+      "id": "space-023",
+      "ageGroup": ["8-10"],
+      "question": "What did the Chandrayaan-3 mission achieve in 2023?",
+      "options": ["Orbited the Moon", "Landed near the Moon's south pole", "Landed on Mars", "Reached the Sun"],
+      "correctIndex": 1,
+      "explanation": "Chandrayaan-3 successfully soft-landed near the Moon's south pole in August 2023. India became the first country to land near the lunar south pole.",
+      "funFact": "The Chandrayaan-3 rover is named Pragyan, which means 'wisdom' in Sanskrit!"
+    },
+    {
+      "id": "space-024",
+      "ageGroup": ["8-10"],
+      "question": "What are asteroids mostly found between in our solar system?",
+      "options": ["Earth and Venus", "Mars and Jupiter", "Jupiter and Saturn", "Neptune and Pluto"],
+      "correctIndex": 1,
+      "explanation": "Most asteroids are found in the asteroid belt between Mars and Jupiter. This region contains millions of rocky objects.",
+      "funFact": "The largest asteroid, Ceres, is so big it is also classified as a dwarf planet!"
+    },
+    {
+      "id": "space-025",
+      "ageGroup": ["8-10"],
+      "question": "What is the International Space Station (ISS)?",
+      "options": ["A satellite that takes photos", "A laboratory orbiting Earth where astronauts live", "A rocket launchpad in the ocean", "A telescope in space"],
+      "correctIndex": 1,
+      "explanation": "The ISS is a large spacecraft that orbits Earth. Astronauts live and work there conducting scientific experiments.",
+      "funFact": "The ISS orbits Earth about 16 times every single day, which means astronauts see 16 sunrises and sunsets daily!"
+    },
+    {
+      "id": "space-026",
+      "ageGroup": ["8-10"],
+      "question": "Who was the first Indian to travel to space?",
+      "options": ["Kalpana Chawla", "Rakesh Sharma", "Sunita Williams", "Vikram Sarabhai"],
+      "correctIndex": 1,
+      "explanation": "Rakesh Sharma became the first Indian citizen to travel to space in 1984 aboard the Soviet Soyuz T-11 mission.",
+      "funFact": "When asked how India looked from space, Rakesh Sharma famously replied, 'Saare Jahan Se Achha!'"
+    },
+    {
+      "id": "space-027",
+      "ageGroup": ["8-10"],
+      "question": "What is a comet's tail made of?",
+      "options": ["Fire and smoke", "Gas and dust released by the comet", "Liquid water", "Broken pieces of rock"],
+      "correctIndex": 1,
+      "explanation": "A comet's tail is made of gas and dust that stream off as it gets closer to the Sun and heats up.",
+      "funFact": "A comet's tail always points away from the Sun, no matter which direction the comet is moving!"
+    },
+    {
+      "id": "space-028",
+      "ageGroup": ["8-10"],
+      "question": "Which planet rotates on its side, almost like a rolling ball?",
+      "options": ["Neptune", "Saturn", "Uranus", "Jupiter"],
+      "correctIndex": 2,
+      "explanation": "Uranus is tilted so far on its axis that it appears to roll around the Sun on its side. Its tilt is about 98 degrees.",
+      "funFact": "Because of its extreme tilt, some parts of Uranus get 42 years of continuous sunlight followed by 42 years of darkness!"
+    },
+    {
+      "id": "space-029",
+      "ageGroup": ["8-10"],
+      "question": "What is a satellite?",
+      "options": ["A type of star", "An object that orbits a planet or star", "A shooting star", "A type of rocket"],
+      "correctIndex": 1,
+      "explanation": "A satellite is any object that orbits around a larger body. The Moon is a natural satellite of Earth, and we also have thousands of human-made satellites.",
+      "funFact": "There are over 7,000 active satellites orbiting Earth right now!"
+    },
+    {
+      "id": "space-030",
+      "ageGroup": ["8-10"],
+      "question": "How long does it take sunlight to reach Earth?",
+      "options": ["1 second", "About 8 minutes", "1 hour", "1 day"],
+      "correctIndex": 1,
+      "explanation": "Light from the Sun takes about 8 minutes and 20 seconds to reach Earth, travelling at 300,000 kilometres per second.",
+      "funFact": "This means when you look at the Sun, you are actually seeing it as it was 8 minutes ago!"
+    },
+    {
+      "id": "space-031",
+      "ageGroup": ["8-10"],
+      "question": "What is the name of the first human to walk on the Moon?",
+      "options": ["Buzz Aldrin", "Yuri Gagarin", "Neil Armstrong", "Michael Collins"],
+      "correctIndex": 2,
+      "explanation": "Neil Armstrong became the first human to walk on the Moon on July 20, 1969, during the Apollo 11 mission.",
+      "funFact": "Neil Armstrong's footprints are still on the Moon because there is no wind or rain to wash them away!"
+    },
+    {
+      "id": "space-032",
+      "ageGroup": ["8-10"],
+      "question": "Which planet has the most moons in our solar system?",
+      "options": ["Jupiter", "Saturn", "Uranus", "Neptune"],
+      "correctIndex": 1,
+      "explanation": "Saturn has the most known moons with over 140 discovered so far, surpassing Jupiter's count.",
+      "funFact": "Saturn's moon Titan is bigger than the planet Mercury and has its own thick atmosphere!"
+    },
+    {
+      "id": "space-033",
+      "ageGroup": ["8-10", "11-13"],
+      "question": "What type of galaxy is the Milky Way?",
+      "options": ["Elliptical", "Irregular", "Spiral", "Ring"],
+      "correctIndex": 2,
+      "explanation": "The Milky Way is a barred spiral galaxy. It has a central bar-shaped structure with spiral arms extending outward.",
+      "funFact": "It would take about 100,000 years travelling at the speed of light to cross the Milky Way from one side to the other!"
+    },
+    {
+      "id": "space-034",
+      "ageGroup": ["8-10"],
+      "question": "What does ISRO's Aditya-L1 mission study?",
+      "options": ["The Moon", "Mars", "The Sun", "Jupiter"],
+      "correctIndex": 2,
+      "explanation": "Aditya-L1 is India's first space mission dedicated to studying the Sun. It was launched in September 2023.",
+      "funFact": "Aditya means 'Sun' in Sanskrit, and L1 refers to the Lagrange point 1, a special spot in space between Earth and the Sun!"
+    },
+    {
+      "id": "space-035",
+      "ageGroup": ["8-10"],
+      "question": "What makes up the rings of Saturn?",
+      "options": ["Coloured gases", "Pieces of ice and rock", "Liquid metal", "Cosmic dust only"],
+      "correctIndex": 1,
+      "explanation": "Saturn's rings are made up of billions of pieces of ice and rock, ranging in size from tiny grains to house-sized chunks.",
+      "funFact": "Even though Saturn's rings stretch out very wide, they are incredibly thin, sometimes only about 10 metres thick!"
+    },
+    {
+      "id": "space-036",
+      "ageGroup": ["8-10", "11-13"],
+      "question": "Why do astronauts float inside the International Space Station?",
+      "options": ["There is no gravity in space", "They are in free fall around Earth", "Their spacesuits make them float", "The ISS has anti-gravity machines"],
+      "correctIndex": 1,
+      "explanation": "Astronauts float because the ISS and everyone inside it are in a constant state of free fall around Earth. This creates the feeling of weightlessness.",
+      "funFact": "Gravity on the ISS is actually about 90% as strong as on Earth's surface, but you do not feel it because you are falling!"
+    },
+    {
+      "id": "space-037",
+      "ageGroup": ["8-10"],
+      "question": "What is the first human-made object to leave our solar system?",
+      "options": ["Hubble Telescope", "Voyager 1", "Apollo 11", "Mars Rover"],
+      "correctIndex": 1,
+      "explanation": "Voyager 1, launched in 1977, became the first human-made object to enter interstellar space in 2012.",
+      "funFact": "Voyager 1 carries a Golden Record with sounds and images from Earth, just in case aliens find it!"
+    },
+    {
+      "id": "space-038",
+      "ageGroup": ["8-10"],
+      "question": "Which planet spins the fastest in our solar system?",
+      "options": ["Earth", "Mars", "Saturn", "Jupiter"],
+      "correctIndex": 3,
+      "explanation": "Jupiter rotates the fastest of all the planets. One day on Jupiter is only about 10 hours long.",
+      "funFact": "Jupiter spins so fast that it bulges out at its equator, making it look slightly squashed!"
+    },
+    {
+      "id": "space-039",
+      "ageGroup": ["11-13"],
+      "question": "What is a light year?",
+      "options": ["The time it takes light to travel in one year", "The distance light travels in one year", "The brightness of a star", "A year on a planet near a star"],
+      "correctIndex": 1,
+      "explanation": "A light year is the distance that light travels in one year, which is about 9.46 trillion kilometres. It is a unit of distance, not time.",
+      "funFact": "The nearest star to our Sun, Proxima Centauri, is about 4.24 light years away!"
+    },
+    {
+      "id": "space-040",
+      "ageGroup": ["11-13"],
+      "question": "What happens at the centre of a black hole?",
+      "options": ["A bright star exists", "A point of infinite density called a singularity", "Empty space", "A white hole forms"],
+      "correctIndex": 1,
+      "explanation": "At the centre of a black hole is a singularity, a point where matter is thought to be infinitely dense and the laws of physics as we know them break down.",
+      "funFact": "The supermassive black hole at the centre of our Milky Way galaxy is called Sagittarius A* and has a mass of about 4 million Suns!"
+    },
+    {
+      "id": "space-041",
+      "ageGroup": ["11-13"],
+      "question": "What is the event horizon of a black hole?",
+      "options": ["The centre of the black hole", "The boundary beyond which nothing can escape", "The ring of light around it", "The area where stars are born"],
+      "correctIndex": 1,
+      "explanation": "The event horizon is the boundary around a black hole beyond which nothing, not even light, can escape its gravitational pull.",
+      "funFact": "If you could watch someone falling into a black hole, they would appear to slow down and freeze at the event horizon due to time dilation!"
+    },
+    {
+      "id": "space-042",
+      "ageGroup": ["11-13"],
+      "question": "What force keeps planets in orbit around the Sun?",
+      "options": ["Magnetic force", "Gravity", "Nuclear force", "Centrifugal force"],
+      "correctIndex": 1,
+      "explanation": "Gravity is the force that keeps planets in orbit around the Sun. The Sun's massive gravity pulls on all objects in the solar system.",
+      "funFact": "Gravity travels at the speed of light, so if the Sun suddenly disappeared, Earth would continue orbiting for about 8 minutes before flying off in a straight line!"
+    },
+    {
+      "id": "space-043",
+      "ageGroup": ["11-13"],
+      "question": "What is a neutron star?",
+      "options": ["A star made entirely of neutrons left after a supernova", "A star that produces no light", "A newborn star", "A star orbiting a black hole"],
+      "correctIndex": 0,
+      "explanation": "A neutron star is the collapsed core of a massive star that has exploded as a supernova. It is incredibly dense and composed mostly of neutrons.",
+      "funFact": "A teaspoon of neutron star material would weigh about 6 billion tonnes on Earth!"
+    },
+    {
+      "id": "space-044",
+      "ageGroup": ["11-13"],
+      "question": "What is redshift in astronomy?",
+      "options": ["When stars turn red before dying", "The stretching of light from objects moving away from us", "When planets appear red through telescopes", "The red colour of Mars"],
+      "correctIndex": 1,
+      "explanation": "Redshift occurs when light from an object moving away from us gets stretched to longer, redder wavelengths. It is key evidence that the universe is expanding.",
+      "funFact": "Edwin Hubble used redshift to discover that galaxies are moving away from us, which led to the Big Bang theory!"
+    },
+    {
+      "id": "space-045",
+      "ageGroup": ["11-13"],
+      "question": "What is the Kuiper Belt?",
+      "options": ["A ring of asteroids between Mars and Jupiter", "A region of icy bodies beyond Neptune's orbit", "A band of satellites around Earth", "A dust cloud near the Sun"],
+      "correctIndex": 1,
+      "explanation": "The Kuiper Belt is a vast region of icy bodies and dwarf planets that extends beyond the orbit of Neptune. Pluto is one of its most famous members.",
+      "funFact": "The Kuiper Belt is estimated to contain hundreds of thousands of icy objects larger than 100 kilometres across!"
+    },
+    {
+      "id": "space-046",
+      "ageGroup": ["11-13"],
+      "question": "What is the cosmic microwave background radiation?",
+      "options": ["Radiation from the Sun", "Radio waves from black holes", "The afterglow of the Big Bang", "Radiation from nuclear reactors in space"],
+      "correctIndex": 2,
+      "explanation": "The cosmic microwave background radiation is the faint glow of light left over from the early universe, about 380,000 years after the Big Bang.",
+      "funFact": "About 1% of the static you see on an old untuned television is actually caused by cosmic microwave background radiation!"
+    },
+    {
+      "id": "space-047",
+      "ageGroup": ["11-13"],
+      "question": "What is the Hertzsprung-Russell diagram used for?",
+      "options": ["Mapping the positions of planets", "Classifying stars by luminosity and temperature", "Tracking asteroid paths", "Measuring distances between galaxies"],
+      "correctIndex": 1,
+      "explanation": "The Hertzsprung-Russell diagram plots stars according to their luminosity and surface temperature. It helps astronomers understand stellar evolution.",
+      "funFact": "Most stars, including our Sun, fall on a band called the Main Sequence on the HR diagram, where they spend most of their lives!"
+    },
+    {
+      "id": "space-048",
+      "ageGroup": ["11-13"],
+      "question": "What is dark matter?",
+      "options": ["Matter that is very dark in colour", "Invisible matter that exerts gravitational effects", "Burnt-out stars", "The material inside black holes"],
+      "correctIndex": 1,
+      "explanation": "Dark matter is a mysterious form of matter that does not emit or absorb light but exerts gravitational effects on visible matter. It makes up about 27% of the universe.",
+      "funFact": "Scientists estimate that dark matter and dark energy together make up about 95% of the universe, and we still do not fully understand either of them!"
+    },
+    {
+      "id": "space-049",
+      "ageGroup": ["11-13", "8-10"],
+      "question": "What is a supernova?",
+      "options": ["A new star being born", "The explosive death of a massive star", "A very bright comet", "A collision between two planets"],
+      "correctIndex": 1,
+      "explanation": "A supernova is the powerful explosion that occurs when a massive star reaches the end of its life. It can briefly outshine an entire galaxy.",
+      "funFact": "The heavy elements in your body, like iron in your blood and calcium in your bones, were all created inside exploding stars billions of years ago!"
+    },
+    {
+      "id": "space-050",
+      "ageGroup": ["11-13"],
+      "question": "What is the observable universe's estimated age?",
+      "options": ["4.6 billion years", "9.2 billion years", "13.8 billion years", "20 billion years"],
+      "correctIndex": 2,
+      "explanation": "The universe is estimated to be about 13.8 billion years old, based on observations of the cosmic microwave background radiation and the expansion rate of the universe.",
+      "funFact": "The observable universe is about 93 billion light years across, which is much larger than 13.8 billion light years because space itself has been expanding!"
+    }
+  ]
+}

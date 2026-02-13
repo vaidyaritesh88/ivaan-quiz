@@ -1,0 +1,455 @@
+{
+  "topic": "authors",
+  "questions": [
+    {
+      "id": "authors-001",
+      "ageGroup": ["5-7"],
+      "question": "Who wrote 'Charlie and the Chocolate Factory'?",
+      "options": ["Enid Blyton", "Roald Dahl", "Dr. Seuss", "Ruskin Bond"],
+      "correctIndex": 1,
+      "explanation": "Roald Dahl wrote 'Charlie and the Chocolate Factory'. He was a British author famous for his imaginative children's books.",
+      "funFact": "Roald Dahl was also a spy and a fighter pilot before becoming a writer!"
+    },
+    {
+      "id": "authors-002",
+      "ageGroup": ["5-7"],
+      "question": "Who wrote 'The Cat in the Hat'?",
+      "options": ["Dr. Seuss", "Eric Carle", "Roald Dahl", "A.A. Milne"],
+      "correctIndex": 0,
+      "explanation": "Dr. Seuss wrote 'The Cat in the Hat'. His real name was Theodor Seuss Geisel, and he wrote many beloved rhyming books for children.",
+      "funFact": "Dr. Seuss wrote 'The Cat in the Hat' using only 236 different words!"
+    },
+    {
+      "id": "authors-003",
+      "ageGroup": ["5-7"],
+      "question": "Which book was written by Eric Carle?",
+      "options": ["Goodnight Moon", "The Very Hungry Caterpillar", "Where the Wild Things Are", "Green Eggs and Ham"],
+      "correctIndex": 1,
+      "explanation": "Eric Carle wrote and illustrated 'The Very Hungry Caterpillar'. It is one of the best-selling children's picture books of all time.",
+      "funFact": "Eric Carle made the pictures in his books by cutting and pasting colourful tissue paper!"
+    },
+    {
+      "id": "authors-004",
+      "ageGroup": ["5-7"],
+      "question": "Ruskin Bond is famous for writing which book?",
+      "options": ["The Jungle Book", "The Blue Umbrella", "Heidi", "Pinocchio"],
+      "correctIndex": 1,
+      "explanation": "Ruskin Bond wrote 'The Blue Umbrella', a story about a little girl named Binya and her beautiful blue umbrella in the hills of India.",
+      "funFact": "Ruskin Bond has lived in the hills of Mussoorie, India, for over 50 years and loves writing about nature!"
+    },
+    {
+      "id": "authors-005",
+      "ageGroup": ["5-7"],
+      "question": "Who wrote the 'Famous Five' series?",
+      "options": ["Roald Dahl", "Enid Blyton", "Ruskin Bond", "Dr. Seuss"],
+      "correctIndex": 1,
+      "explanation": "Enid Blyton wrote the 'Famous Five' series about a group of children and their dog who go on exciting adventures.",
+      "funFact": "Enid Blyton wrote over 700 books in her lifetime, which is more than most authors ever write!"
+    },
+    {
+      "id": "authors-006",
+      "ageGroup": ["5-7"],
+      "question": "Who wrote 'Green Eggs and Ham'?",
+      "options": ["Eric Carle", "A.A. Milne", "Dr. Seuss", "Enid Blyton"],
+      "correctIndex": 2,
+      "explanation": "Dr. Seuss wrote 'Green Eggs and Ham'. It is a fun rhyming story about trying new foods.",
+      "funFact": "Dr. Seuss wrote 'Green Eggs and Ham' using only 50 different words because of a bet with his publisher!"
+    },
+    {
+      "id": "authors-007",
+      "ageGroup": ["5-7"],
+      "question": "Who created the character Winnie-the-Pooh?",
+      "options": ["Roald Dahl", "Beatrix Potter", "A.A. Milne", "Lewis Carroll"],
+      "correctIndex": 2,
+      "explanation": "A.A. Milne created Winnie-the-Pooh. The character was inspired by a teddy bear owned by his son, Christopher Robin.",
+      "funFact": "The real Winnie was a bear at the London Zoo that Christopher Robin loved to visit!"
+    },
+    {
+      "id": "authors-008",
+      "ageGroup": ["5-7"],
+      "question": "Which author wrote 'The Tale of Peter Rabbit'?",
+      "options": ["Beatrix Potter", "Enid Blyton", "Eric Carle", "Dr. Seuss"],
+      "correctIndex": 0,
+      "explanation": "Beatrix Potter wrote and illustrated 'The Tale of Peter Rabbit', a story about a naughty little rabbit who sneaks into Mr. McGregor's garden.",
+      "funFact": "Beatrix Potter had a real pet rabbit named Peter that she used to take for walks on a leash!"
+    },
+    {
+      "id": "authors-009",
+      "ageGroup": ["5-7"],
+      "question": "Roald Dahl wrote which of these books?",
+      "options": ["The Gruffalo", "Matilda", "Curious George", "Goodnight Moon"],
+      "correctIndex": 1,
+      "explanation": "Roald Dahl wrote 'Matilda', the story of a brilliant little girl with magical powers who loves reading books.",
+      "funFact": "Roald Dahl always wrote in a special shed in his garden, sitting in an old armchair with a board across his lap!"
+    },
+    {
+      "id": "authors-010",
+      "ageGroup": ["5-7"],
+      "question": "Who wrote 'Where the Wild Things Are'?",
+      "options": ["Dr. Seuss", "Maurice Sendak", "Eric Carle", "Roald Dahl"],
+      "correctIndex": 1,
+      "explanation": "Maurice Sendak wrote and illustrated 'Where the Wild Things Are', a story about a boy named Max who sails to an island of wild creatures.",
+      "funFact": "When the book first came out, some grown-ups thought it was too scary for kids, but children absolutely loved it!"
+    },
+    {
+      "id": "authors-011",
+      "ageGroup": ["5-7"],
+      "question": "Which author wrote stories about Mowgli, a boy raised by wolves?",
+      "options": ["Ruskin Bond", "Rudyard Kipling", "Roald Dahl", "R.K. Narayan"],
+      "correctIndex": 1,
+      "explanation": "Rudyard Kipling wrote 'The Jungle Book' which has stories about Mowgli, a boy raised by wolves in the Indian jungle.",
+      "funFact": "Rudyard Kipling was born in Mumbai, India, and many of his stories are set in the jungles of India!"
+    },
+    {
+      "id": "authors-012",
+      "ageGroup": ["5-7"],
+      "question": "Who wrote 'James and the Giant Peach'?",
+      "options": ["Enid Blyton", "A.A. Milne", "Roald Dahl", "Beatrix Potter"],
+      "correctIndex": 2,
+      "explanation": "Roald Dahl wrote 'James and the Giant Peach', an adventure about a boy who travels inside an enormous magical peach.",
+      "funFact": "Roald Dahl's favourite food was chocolate, which is why he wrote a whole book about a chocolate factory!"
+    },
+    {
+      "id": "authors-013",
+      "ageGroup": ["5-7", "8-10"],
+      "question": "Who wrote 'The Room on the Roof'?",
+      "options": ["R.K. Narayan", "Rabindranath Tagore", "Ruskin Bond", "Premchand"],
+      "correctIndex": 2,
+      "explanation": "Ruskin Bond wrote 'The Room on the Roof' when he was just 17 years old. It is set in the town of Dehradun in India.",
+      "funFact": "Ruskin Bond won his first literary prize for 'The Room on the Roof' when he was only 21 years old!"
+    },
+    {
+      "id": "authors-014",
+      "ageGroup": ["5-7"],
+      "question": "Enid Blyton wrote which of these adventure series?",
+      "options": ["Goosebumps", "The Secret Seven", "Captain Underpants", "Diary of a Wimpy Kid"],
+      "correctIndex": 1,
+      "explanation": "Enid Blyton wrote 'The Secret Seven' series about a group of seven children who solve mysteries together.",
+      "funFact": "Enid Blyton could type so fast that she sometimes finished an entire book in just five days!"
+    },
+    {
+      "id": "authors-015",
+      "ageGroup": ["5-7"],
+      "question": "Who wrote 'The Gruffalo'?",
+      "options": ["Julia Donaldson", "Roald Dahl", "Eric Carle", "Dr. Seuss"],
+      "correctIndex": 0,
+      "explanation": "Julia Donaldson wrote 'The Gruffalo', a clever rhyming story about a mouse who invents a scary creature to protect itself.",
+      "funFact": "Julia Donaldson based 'The Gruffalo' on an ancient Chinese story about a fox who tricks a tiger!"
+    },
+    {
+      "id": "authors-016",
+      "ageGroup": ["5-7", "8-10"],
+      "question": "Who wrote 'Totto-Chan: The Little Girl at the Window'?",
+      "options": ["Ruskin Bond", "Tetsuko Kuroyanagi", "Enid Blyton", "Sudha Murty"],
+      "correctIndex": 1,
+      "explanation": "Tetsuko Kuroyanagi wrote 'Totto-Chan', based on her own childhood experiences at a very special school in Japan.",
+      "funFact": "The school in the book used old train carriages as classrooms, and the children could choose what subject to study first each day!"
+    },
+    {
+      "id": "authors-017",
+      "ageGroup": ["5-7"],
+      "question": "Which author created the 'Curious George' stories?",
+      "options": ["Dr. Seuss", "H.A. Rey", "Maurice Sendak", "Eric Carle"],
+      "correctIndex": 1,
+      "explanation": "H.A. Rey and his wife Margret Rey created the 'Curious George' stories about a mischievous little monkey.",
+      "funFact": "H.A. Rey and Margret escaped Paris on bicycles during World War II, carrying the Curious George manuscript with them!"
+    },
+    {
+      "id": "authors-018",
+      "ageGroup": ["5-7"],
+      "question": "Sudha Murty is known for writing which type of children's books?",
+      "options": ["Science fiction stories", "Indian folktales and grandma stories", "Mystery novels", "Comic books"],
+      "correctIndex": 1,
+      "explanation": "Sudha Murty is a beloved Indian author known for books like 'Grandma's Bag of Stories' that retell Indian folktales for children.",
+      "funFact": "Sudha Murty was the first female engineer hired at TELCO (now Tata Motors) in India!"
+    },
+    {
+      "id": "authors-019",
+      "ageGroup": ["5-7", "8-10"],
+      "question": "Who wrote 'The Giving Tree'?",
+      "options": ["Maurice Sendak", "Shel Silverstein", "Dr. Seuss", "Eric Carle"],
+      "correctIndex": 1,
+      "explanation": "Shel Silverstein wrote 'The Giving Tree', a touching story about the friendship between a boy and a tree.",
+      "funFact": "Shel Silverstein was also a cartoonist, songwriter, and poet. He even wrote a song that became a number one hit!"
+    },
+    {
+      "id": "authors-020",
+      "ageGroup": ["5-7"],
+      "question": "Who wrote 'One Fish Two Fish Red Fish Blue Fish'?",
+      "options": ["Eric Carle", "Dr. Seuss", "Roald Dahl", "Julia Donaldson"],
+      "correctIndex": 1,
+      "explanation": "Dr. Seuss wrote 'One Fish Two Fish Red Fish Blue Fish', a fun and silly rhyming book that helps children learn to read.",
+      "funFact": "Dr. Seuss drew all his own illustrations, and his characters like the Lorax and the Grinch have become world-famous!"
+    },
+    {
+      "id": "authors-021",
+      "ageGroup": ["8-10"],
+      "question": "Who wrote the Harry Potter series?",
+      "options": ["Rick Riordan", "C.S. Lewis", "J.K. Rowling", "Roald Dahl"],
+      "correctIndex": 2,
+      "explanation": "J.K. Rowling wrote the Harry Potter series, one of the best-selling book series in history, about a boy wizard and his adventures at Hogwarts.",
+      "funFact": "J.K. Rowling came up with the idea for Harry Potter while sitting on a delayed train from Manchester to London!"
+    },
+    {
+      "id": "authors-022",
+      "ageGroup": ["8-10"],
+      "question": "R.K. Narayan is famous for creating which fictional town?",
+      "options": ["Gotham City", "Narnia", "Malgudi", "Hogwarts"],
+      "correctIndex": 2,
+      "explanation": "R.K. Narayan created the fictional town of Malgudi, which appears in many of his stories including 'Swami and Friends' and 'Malgudi Days'.",
+      "funFact": "R.K. Narayan's brother R.K. Laxman was a famous cartoonist who created the character 'Common Man'!"
+    },
+    {
+      "id": "authors-023",
+      "ageGroup": ["8-10"],
+      "question": "Who wrote 'Diary of a Wimpy Kid'?",
+      "options": ["Jeff Kinney", "Dav Pilkey", "R.L. Stine", "Rick Riordan"],
+      "correctIndex": 0,
+      "explanation": "Jeff Kinney wrote the 'Diary of a Wimpy Kid' series, funny illustrated novels about the life of middle schooler Greg Heffley.",
+      "funFact": "Jeff Kinney spent eight years working on the first Diary of a Wimpy Kid book before it was published!"
+    },
+    {
+      "id": "authors-024",
+      "ageGroup": ["8-10"],
+      "question": "Who wrote the 'Percy Jackson' series?",
+      "options": ["J.K. Rowling", "Rick Riordan", "Jeff Kinney", "C.S. Lewis"],
+      "correctIndex": 1,
+      "explanation": "Rick Riordan wrote the 'Percy Jackson and the Olympians' series about a boy who discovers he is the son of a Greek god.",
+      "funFact": "Rick Riordan created Percy Jackson as bedtime stories for his son, who has ADHD and dyslexia, just like Percy!"
+    },
+    {
+      "id": "authors-025",
+      "ageGroup": ["8-10"],
+      "question": "Which book did Lewis Carroll write?",
+      "options": ["The Wizard of Oz", "Peter Pan", "Alice's Adventures in Wonderland", "The Chronicles of Narnia"],
+      "correctIndex": 2,
+      "explanation": "Lewis Carroll wrote 'Alice's Adventures in Wonderland', a fantastical story about a girl who falls down a rabbit hole into a strange world.",
+      "funFact": "Lewis Carroll was actually a mathematics teacher at Oxford University whose real name was Charles Lutwidge Dodgson!"
+    },
+    {
+      "id": "authors-026",
+      "ageGroup": ["8-10"],
+      "question": "Who wrote 'The Chronicles of Narnia'?",
+      "options": ["J.R.R. Tolkien", "C.S. Lewis", "Lewis Carroll", "J.K. Rowling"],
+      "correctIndex": 1,
+      "explanation": "C.S. Lewis wrote 'The Chronicles of Narnia', a series of seven fantasy novels set in the magical land of Narnia.",
+      "funFact": "C.S. Lewis and J.R.R. Tolkien (who wrote 'The Lord of the Rings') were close friends and used to read each other's stories!"
+    },
+    {
+      "id": "authors-027",
+      "ageGroup": ["8-10"],
+      "question": "Who wrote 'Swami and Friends'?",
+      "options": ["Ruskin Bond", "Premchand", "R.K. Narayan", "Rabindranath Tagore"],
+      "correctIndex": 2,
+      "explanation": "R.K. Narayan wrote 'Swami and Friends', a charming novel about a boy named Swaminathan and his friends in the fictional town of Malgudi.",
+      "funFact": "The famous English author Graham Greene helped R.K. Narayan get 'Swami and Friends' published in England!"
+    },
+    {
+      "id": "authors-028",
+      "ageGroup": ["8-10"],
+      "question": "Who wrote the 'Goosebumps' series?",
+      "options": ["Jeff Kinney", "Rick Riordan", "R.L. Stine", "Roald Dahl"],
+      "correctIndex": 2,
+      "explanation": "R.L. Stine wrote the 'Goosebumps' series, a collection of spooky and thrilling stories for young readers.",
+      "funFact": "R.L. Stine has written over 300 books and is sometimes called the Stephen King of children's literature!"
+    },
+    {
+      "id": "authors-029",
+      "ageGroup": ["8-10"],
+      "question": "Rudyard Kipling wrote which of these stories?",
+      "options": ["Treasure Island", "The Jungle Book", "Robinson Crusoe", "Gulliver's Travels"],
+      "correctIndex": 1,
+      "explanation": "Rudyard Kipling wrote 'The Jungle Book', which includes the famous stories of Mowgli, Baloo the bear, and Bagheera the panther.",
+      "funFact": "Rudyard Kipling was the first English-language writer to receive the Nobel Prize in Literature, and he was also the youngest at that time!"
+    },
+    {
+      "id": "authors-030",
+      "ageGroup": ["8-10"],
+      "question": "Who wrote 'Captain Underpants'?",
+      "options": ["Jeff Kinney", "Dav Pilkey", "R.L. Stine", "Dr. Seuss"],
+      "correctIndex": 1,
+      "explanation": "Dav Pilkey wrote the 'Captain Underpants' series about two boys who hypnotize their principal into becoming a superhero.",
+      "funFact": "Dav Pilkey created Captain Underpants when he was in second grade! His teacher told him he would never make a living drawing silly comics."
+    },
+    {
+      "id": "authors-031",
+      "ageGroup": ["8-10"],
+      "question": "Who wrote 'Charlotte's Web'?",
+      "options": ["Roald Dahl", "E.B. White", "Beatrix Potter", "Enid Blyton"],
+      "correctIndex": 1,
+      "explanation": "E.B. White wrote 'Charlotte's Web', a beautiful story about the friendship between a pig named Wilbur and a spider named Charlotte.",
+      "funFact": "E.B. White got the idea for Charlotte's Web by watching a spider spin a web in his barn on his farm in Maine!"
+    },
+    {
+      "id": "authors-032",
+      "ageGroup": ["8-10", "11-13"],
+      "question": "Who wrote 'The Hobbit'?",
+      "options": ["C.S. Lewis", "J.K. Rowling", "J.R.R. Tolkien", "Rick Riordan"],
+      "correctIndex": 2,
+      "explanation": "J.R.R. Tolkien wrote 'The Hobbit', an adventure about a hobbit named Bilbo Baggins who goes on a quest with dwarves and a wizard.",
+      "funFact": "Tolkien invented entire languages for the elves and other creatures in his books, including alphabets and grammar rules!"
+    },
+    {
+      "id": "authors-033",
+      "ageGroup": ["8-10"],
+      "question": "Sudha Murty wrote which of these books?",
+      "options": ["Malgudi Days", "The Magic Drum and Other Favourite Stories", "The Blue Umbrella", "Totto-Chan"],
+      "correctIndex": 1,
+      "explanation": "Sudha Murty wrote 'The Magic Drum and Other Favourite Stories', a collection of Indian folktales retold for children.",
+      "funFact": "Sudha Murty writes in both English and Kannada and has donated crores of rupees to build libraries and schools across India!"
+    },
+    {
+      "id": "authors-034",
+      "ageGroup": ["8-10"],
+      "question": "Who wrote 'Pippi Longstocking'?",
+      "options": ["Enid Blyton", "Roald Dahl", "Astrid Lindgren", "Beatrix Potter"],
+      "correctIndex": 2,
+      "explanation": "Astrid Lindgren wrote 'Pippi Longstocking', about the adventures of a super-strong girl who lives alone with a monkey and a horse.",
+      "funFact": "Astrid Lindgren first made up Pippi Longstocking stories to tell her daughter when she was sick in bed!"
+    },
+    {
+      "id": "authors-035",
+      "ageGroup": ["8-10", "11-13"],
+      "question": "Who wrote 'Treasure Island'?",
+      "options": ["Mark Twain", "Robert Louis Stevenson", "Rudyard Kipling", "Charles Dickens"],
+      "correctIndex": 1,
+      "explanation": "Robert Louis Stevenson wrote 'Treasure Island', a thrilling pirate adventure about a boy named Jim Hawkins who finds a treasure map.",
+      "funFact": "Robert Louis Stevenson drew a watercolour map of an imaginary island with his stepson, and that map inspired the entire story!"
+    },
+    {
+      "id": "authors-036",
+      "ageGroup": ["8-10"],
+      "question": "Who wrote 'The Wonderful Wizard of Oz'?",
+      "options": ["Lewis Carroll", "L. Frank Baum", "C.S. Lewis", "J.M. Barrie"],
+      "correctIndex": 1,
+      "explanation": "L. Frank Baum wrote 'The Wonderful Wizard of Oz', the story of Dorothy and her dog Toto who get swept away to the magical Land of Oz.",
+      "funFact": "L. Frank Baum said the name 'Oz' came to him when he looked at his filing cabinet and saw the drawer labelled 'O-Z'!"
+    },
+    {
+      "id": "authors-037",
+      "ageGroup": ["8-10"],
+      "question": "Who wrote 'The BFG'?",
+      "options": ["J.K. Rowling", "Roald Dahl", "C.S. Lewis", "Enid Blyton"],
+      "correctIndex": 1,
+      "explanation": "Roald Dahl wrote 'The BFG' (The Big Friendly Giant), about a kind giant who catches and delivers good dreams to children.",
+      "funFact": "Roald Dahl dedicated 'The BFG' to his daughter Olivia, and the character Sophie was named after his granddaughter!"
+    },
+    {
+      "id": "authors-038",
+      "ageGroup": ["8-10"],
+      "question": "Who wrote 'The Wind in the Willows'?",
+      "options": ["Kenneth Grahame", "Beatrix Potter", "A.A. Milne", "Enid Blyton"],
+      "correctIndex": 0,
+      "explanation": "Kenneth Grahame wrote 'The Wind in the Willows', a story about the adventures of Mole, Rat, Toad, and Badger along the river bank.",
+      "funFact": "Kenneth Grahame first told these stories as bedtime tales for his son, and later wrote them down as letters!"
+    },
+    {
+      "id": "authors-039",
+      "ageGroup": ["11-13"],
+      "question": "Who wrote 'Gitanjali', a collection of poems that won the Nobel Prize?",
+      "options": ["Premchand", "R.K. Narayan", "Rabindranath Tagore", "Sarojini Naidu"],
+      "correctIndex": 2,
+      "explanation": "Rabindranath Tagore wrote 'Gitanjali' (Song Offerings), a collection of poems. He became the first non-European to win the Nobel Prize in Literature in 1913.",
+      "funFact": "Tagore also composed the national anthems of two countries: India ('Jana Gana Mana') and Bangladesh ('Amar Sonar Bangla')!"
+    },
+    {
+      "id": "authors-040",
+      "ageGroup": ["11-13"],
+      "question": "Who wrote 'The Adventures of Tom Sawyer'?",
+      "options": ["Charles Dickens", "Mark Twain", "Robert Louis Stevenson", "Rudyard Kipling"],
+      "correctIndex": 1,
+      "explanation": "Mark Twain wrote 'The Adventures of Tom Sawyer', about a mischievous boy growing up along the Mississippi River in America.",
+      "funFact": "Mark Twain's real name was Samuel Clemens. 'Mark Twain' was a riverboat term meaning the water was two fathoms deep!"
+    },
+    {
+      "id": "authors-041",
+      "ageGroup": ["11-13"],
+      "question": "Premchand is best known for writing which novel?",
+      "options": ["Devdas", "Godan", "Guide", "Gitanjali"],
+      "correctIndex": 1,
+      "explanation": "Munshi Premchand wrote 'Godan' (The Gift of a Cow), considered one of the greatest Hindi novels ever written, about the struggles of an Indian farmer.",
+      "funFact": "Premchand is called the 'Emperor of Hindi Literature' and wrote over 300 short stories during his career!"
+    },
+    {
+      "id": "authors-042",
+      "ageGroup": ["11-13"],
+      "question": "Who wrote 'Romeo and Juliet'?",
+      "options": ["Charles Dickens", "Jane Austen", "William Shakespeare", "Mark Twain"],
+      "correctIndex": 2,
+      "explanation": "William Shakespeare wrote 'Romeo and Juliet', one of the most famous love stories ever written, set in Verona, Italy.",
+      "funFact": "Shakespeare invented over 1,700 words we still use today, including 'eyeball', 'bedroom', and 'lonely'!"
+    },
+    {
+      "id": "authors-043",
+      "ageGroup": ["11-13"],
+      "question": "Who wrote 'Oliver Twist'?",
+      "options": ["Mark Twain", "William Shakespeare", "Jane Austen", "Charles Dickens"],
+      "correctIndex": 3,
+      "explanation": "Charles Dickens wrote 'Oliver Twist', a novel about an orphan boy's life on the streets of London.",
+      "funFact": "Charles Dickens had to work in a shoe polish factory as a child when his father went to prison for debt, which inspired many of his stories!"
+    },
+    {
+      "id": "authors-044",
+      "ageGroup": ["11-13"],
+      "question": "Who wrote 'Pride and Prejudice'?",
+      "options": ["Charlotte Bronte", "Jane Austen", "Charles Dickens", "William Shakespeare"],
+      "correctIndex": 1,
+      "explanation": "Jane Austen wrote 'Pride and Prejudice', a novel about Elizabeth Bennet and Mr. Darcy set in early 19th century England.",
+      "funFact": "Jane Austen started writing 'Pride and Prejudice' when she was only 21 years old, and she published all her books anonymously as 'A Lady'!"
+    },
+    {
+      "id": "authors-045",
+      "ageGroup": ["11-13"],
+      "question": "Rabindranath Tagore wrote which of these?",
+      "options": ["Godan", "The Guide", "The Home and the World", "Train to Pakistan"],
+      "correctIndex": 2,
+      "explanation": "Rabindranath Tagore wrote 'The Home and the World' (Ghare-Baire), a novel set during the Swadeshi movement in Bengal.",
+      "funFact": "Tagore gave up his knighthood in 1919 as a protest against the Jallianwala Bagh massacre!"
+    },
+    {
+      "id": "authors-046",
+      "ageGroup": ["11-13"],
+      "question": "Who wrote 'A Midsummer Night's Dream'?",
+      "options": ["Mark Twain", "William Shakespeare", "Charles Dickens", "Robert Louis Stevenson"],
+      "correctIndex": 1,
+      "explanation": "William Shakespeare wrote 'A Midsummer Night's Dream', a comedy about fairies, magic, and mixed-up lovers in an enchanted forest.",
+      "funFact": "Nobody knows Shakespeare's exact birthday, but it is traditionally celebrated on 23rd April, which is also the date he died!"
+    },
+    {
+      "id": "authors-047",
+      "ageGroup": ["11-13"],
+      "question": "Who wrote 'The Guide'?",
+      "options": ["R.K. Narayan", "Premchand", "Ruskin Bond", "Vikram Seth"],
+      "correctIndex": 0,
+      "explanation": "R.K. Narayan wrote 'The Guide', a novel about a tour guide named Raju who is mistaken for a holy man. It won the Sahitya Akademi Award.",
+      "funFact": "R.K. Narayan never learned to drive a car or ride a bicycle. He walked everywhere in Mysore, which gave him ideas for his stories!"
+    },
+    {
+      "id": "authors-048",
+      "ageGroup": ["11-13"],
+      "question": "Who wrote 'A Christmas Carol'?",
+      "options": ["William Shakespeare", "Jane Austen", "Charles Dickens", "Mark Twain"],
+      "correctIndex": 2,
+      "explanation": "Charles Dickens wrote 'A Christmas Carol', the story of the grumpy Ebenezer Scrooge who is visited by three ghosts on Christmas Eve.",
+      "funFact": "Dickens wrote 'A Christmas Carol' in just six weeks, and it was so popular that it helped revive the celebration of Christmas in England!"
+    },
+    {
+      "id": "authors-049",
+      "ageGroup": ["11-13", "8-10"],
+      "question": "Who wrote 'The Adventures of Huckleberry Finn'?",
+      "options": ["Robert Louis Stevenson", "Rudyard Kipling", "Mark Twain", "Charles Dickens"],
+      "correctIndex": 2,
+      "explanation": "Mark Twain wrote 'The Adventures of Huckleberry Finn', often called one of the greatest American novels, about a boy's journey down the Mississippi River.",
+      "funFact": "Mark Twain's house had one of the first telephones ever installed in a private home, and he hated it because people kept calling him!"
+    },
+    {
+      "id": "authors-050",
+      "ageGroup": ["11-13"],
+      "question": "Sarojini Naidu, known as the 'Nightingale of India', was famous for which type of writing?",
+      "options": ["Novels", "Poetry", "Plays", "Science fiction"],
+      "correctIndex": 1,
+      "explanation": "Sarojini Naidu was a celebrated Indian poet who wrote beautiful poems in English. Her collections include 'The Golden Threshold' and 'The Bird of Time'.",
+      "funFact": "Sarojini Naidu was also a freedom fighter and became the first woman Governor of an Indian state (Uttar Pradesh)!"
+    }
+  ]
+}

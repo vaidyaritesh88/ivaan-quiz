@@ -1,0 +1,243 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+  <meta name="theme-color" content="#4A90D9">
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-status-bar-style" content="default">
+  <link rel="manifest" href="manifest.json">
+  <link rel="stylesheet" href="css/styles.css">
+  <link rel="stylesheet" href="css/animations.css">
+  <title>Ivaan's Quiz Challenge</title>
+</head>
+<body>
+  <div id="app">
+
+    <!-- Screen 1: Home -->
+    <section id="screen-home" class="screen active">
+      <div class="home-container">
+        <div class="home-trophy">&#127942;</div>
+        <h1 class="home-title">Ivaan's Quiz<br>Challenge!</h1>
+        <p class="home-subtitle">Learn, Play &amp; Become a Champion</p>
+        <button class="btn btn-primary btn-large pulse" id="btn-start">
+          &#127775; Start Quiz
+        </button>
+        <button class="btn btn-ghost" id="btn-high-scores">
+          &#127941; High Scores
+        </button>
+        <button class="btn btn-ghost" id="btn-settings">
+          &#9881;&#65039; Parent Settings
+        </button>
+      </div>
+    </section>
+
+    <!-- Screen 2: Topic Selection -->
+    <section id="screen-topic-select" class="screen">
+      <div class="screen-header">
+        <button class="btn-back" id="btn-back-topics">&#8592;</button>
+        <h2>Choose a Topic</h2>
+      </div>
+      <div class="topic-grid" id="topic-grid">
+        <!-- Populated by JS -->
+      </div>
+      <div class="screen-footer">
+        <button class="btn btn-primary" id="btn-topic-next" disabled>Next &#8594;</button>
+      </div>
+    </section>
+
+    <!-- Screen 3: Quiz Configuration -->
+    <section id="screen-quiz-config" class="screen">
+      <div class="screen-header">
+        <button class="btn-back" id="btn-back-config">&#8592;</button>
+        <h2>Set Up Your Quiz</h2>
+      </div>
+      <div class="config-container">
+        <div class="config-section">
+          <h3>&#127891; Age Group</h3>
+          <div class="config-options" id="age-options">
+            <button class="config-btn selected" data-age="5-7">
+              <span class="config-btn-label">5-7 years</span>
+              <span class="config-btn-desc">Easy &amp; Fun!</span>
+            </button>
+            <button class="config-btn" data-age="8-10">
+              <span class="config-btn-label">8-10 years</span>
+              <span class="config-btn-desc">A Bit Trickier!</span>
+            </button>
+            <button class="config-btn" data-age="11-13">
+              <span class="config-btn-label">11-13 years</span>
+              <span class="config-btn-desc">Challenge Mode!</span>
+            </button>
+          </div>
+        </div>
+        <div class="config-section">
+          <h3>&#10067; Number of Questions</h3>
+          <div class="config-pills" id="count-options">
+            <button class="pill selected" data-count="10">10</button>
+            <button class="pill" data-count="15">15</button>
+            <button class="pill" data-count="20">20</button>
+            <button class="pill" data-count="25">25</button>
+            <button class="pill" data-count="30">30</button>
+          </div>
+        </div>
+      </div>
+      <div class="screen-footer">
+        <button class="btn btn-primary btn-large" id="btn-start-quiz">
+          &#127922; Start Quiz!
+        </button>
+      </div>
+    </section>
+
+    <!-- Screen 4: Quiz -->
+    <section id="screen-quiz" class="screen">
+      <div class="quiz-header">
+        <div class="quiz-progress-bar">
+          <div class="quiz-progress-fill" id="quiz-progress"></div>
+        </div>
+        <div class="quiz-info">
+          <span id="quiz-topic-badge" class="topic-badge"></span>
+          <span id="quiz-counter">Question 1 of 10</span>
+          <span id="quiz-score-display">&#11088; 0</span>
+        </div>
+      </div>
+      <div class="quiz-body">
+        <div class="streak-banner hidden" id="streak-banner">
+          &#128293; <span id="streak-count">0</span> in a row!
+        </div>
+        <div class="question-card" id="question-card">
+          <p class="question-text" id="question-text"></p>
+        </div>
+        <div class="options-container" id="options-container">
+          <!-- 4 option buttons populated by JS -->
+        </div>
+        <div class="explanation-card hidden" id="explanation-card">
+          <div class="explanation-result" id="explanation-result"></div>
+          <p class="explanation-text" id="explanation-text"></p>
+          <div class="fun-fact" id="fun-fact"></div>
+        </div>
+        <button class="btn btn-primary btn-next hidden" id="btn-next-question">
+          Next Question &#8594;
+        </button>
+      </div>
+    </section>
+
+    <!-- Screen 5: Results -->
+    <section id="screen-results" class="screen">
+      <div class="results-container">
+        <div class="results-header">
+          <div class="results-emoji" id="results-emoji"></div>
+          <h2 class="results-title" id="results-title"></h2>
+        </div>
+        <div class="results-score-card">
+          <div class="results-score" id="results-score"></div>
+          <div class="results-stars" id="results-stars"></div>
+          <div class="results-message" id="results-message"></div>
+          <div class="results-streak" id="results-streak"></div>
+        </div>
+        <div class="results-actions">
+          <button class="btn btn-primary" id="btn-review">&#128196; Review Answers</button>
+          <button class="btn btn-secondary" id="btn-play-again">&#128260; Play Again</button>
+          <button class="btn btn-secondary" id="btn-new-topic">&#127912; New Topic</button>
+          <button class="btn btn-ghost" id="btn-share">&#128228; Share Score</button>
+          <button class="btn btn-ghost" id="btn-home">&#127968; Home</button>
+        </div>
+      </div>
+      <!-- Review Panel -->
+      <div class="review-panel hidden" id="review-panel">
+        <div class="screen-header">
+          <button class="btn-back" id="btn-back-review">&#8592; Back to Results</button>
+          <h2>Answer Review</h2>
+        </div>
+        <div class="review-list" id="review-list">
+          <!-- Populated by JS -->
+        </div>
+      </div>
+    </section>
+
+    <!-- Screen 6: Parent Settings -->
+    <section id="screen-settings" class="screen">
+      <div class="screen-header">
+        <button class="btn-back" id="btn-back-settings">&#8592;</button>
+        <h2>&#9881;&#65039; Parent Settings</h2>
+      </div>
+      <div class="settings-container">
+        <div class="config-section">
+          <h3>&#10133; Add Custom Questions</h3>
+          <p class="settings-desc">Add your own questions to any topic. Custom questions are saved on this device.</p>
+
+          <label class="form-label">Topic</label>
+          <select class="form-select" id="settings-topic">
+            <!-- Populated by JS -->
+          </select>
+
+          <label class="form-label">Age Group</label>
+          <select class="form-select" id="settings-age">
+            <option value="5-7">5-7 years</option>
+            <option value="8-10">8-10 years</option>
+            <option value="11-13">11-13 years</option>
+          </select>
+
+          <label class="form-label">Question</label>
+          <textarea class="form-input" id="settings-question" rows="2" placeholder="e.g. What is the capital of France?"></textarea>
+
+          <label class="form-label">Option A (Correct Answer)</label>
+          <input class="form-input" id="settings-opt-a" type="text" placeholder="Correct answer">
+
+          <label class="form-label">Option B</label>
+          <input class="form-input" id="settings-opt-b" type="text" placeholder="Wrong answer">
+
+          <label class="form-label">Option C</label>
+          <input class="form-input" id="settings-opt-c" type="text" placeholder="Wrong answer">
+
+          <label class="form-label">Option D</label>
+          <input class="form-input" id="settings-opt-d" type="text" placeholder="Wrong answer">
+
+          <label class="form-label">Explanation</label>
+          <textarea class="form-input" id="settings-explanation" rows="2" placeholder="Why is this the correct answer?"></textarea>
+
+          <label class="form-label">Fun Fact (optional)</label>
+          <input class="form-input" id="settings-funfact" type="text" placeholder="A fun fact related to this question">
+
+          <button class="btn btn-primary" id="btn-add-question" style="margin-top:16px">
+            &#10133; Add Question
+          </button>
+          <div class="settings-message hidden" id="settings-message"></div>
+        </div>
+
+        <div class="config-section">
+          <h3>&#128203; Custom Questions Added</h3>
+          <div id="custom-questions-summary">
+            <!-- Populated by JS -->
+          </div>
+          <button class="btn btn-ghost" id="btn-clear-custom" style="margin-top:12px; color: var(--color-error);">
+            &#128465; Clear All Custom Questions
+          </button>
+        </div>
+
+        <div class="config-section">
+          <h3>&#128465; Reset Data</h3>
+          <button class="btn btn-ghost" id="btn-clear-scores" style="color: var(--color-error);">
+            Clear All High Scores
+          </button>
+        </div>
+      </div>
+    </section>
+
+    <!-- High Scores Modal -->
+    <div class="modal hidden" id="modal-high-scores">
+      <div class="modal-content">
+        <div class="modal-header">
+          <h2>&#127941; High Scores</h2>
+          <button class="btn-close" id="btn-close-scores">&times;</button>
+        </div>
+        <div class="modal-body" id="high-scores-list">
+          <!-- Populated by JS -->
+        </div>
+      </div>
+    </div>
+
+  </div>
+
+  <script type="module" src="js/app.js"></script>
+</body>
+</html>

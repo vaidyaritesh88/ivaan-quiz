@@ -1,0 +1,455 @@
+{
+  "topic": "indian-personalities",
+  "questions": [
+    {
+      "id": "indian-personalities-001",
+      "ageGroup": ["5-7"],
+      "question": "Who is known as the Father of the Nation in India?",
+      "options": ["Jawaharlal Nehru", "Mahatma Gandhi", "Subhash Chandra Bose", "Sardar Patel"],
+      "correctIndex": 1,
+      "explanation": "Mahatma Gandhi is known as the Father of the Nation. He led India's freedom movement using non-violence and truth.",
+      "funFact": "Gandhi's birthday, October 2nd, is celebrated as the International Day of Non-Violence worldwide!"
+    },
+    {
+      "id": "indian-personalities-002",
+      "ageGroup": ["5-7"],
+      "question": "Who was the first Prime Minister of India?",
+      "options": ["Mahatma Gandhi", "Sardar Patel", "Jawaharlal Nehru", "Rajendra Prasad"],
+      "correctIndex": 2,
+      "explanation": "Jawaharlal Nehru became the first Prime Minister of India on August 15, 1947, when India gained independence.",
+      "funFact": "Nehru loved children so much that his birthday, November 14th, is celebrated as Children's Day in India!"
+    },
+    {
+      "id": "indian-personalities-003",
+      "ageGroup": ["5-7"],
+      "question": "Which Indian cricketer is called the 'God of Cricket'?",
+      "options": ["Virat Kohli", "MS Dhoni", "Sachin Tendulkar", "Kapil Dev"],
+      "correctIndex": 2,
+      "explanation": "Sachin Tendulkar is called the God of Cricket. He scored more runs in international cricket than anyone else in history.",
+      "funFact": "Sachin started playing cricket when he was just 11 years old and played his first international match at age 16!"
+    },
+    {
+      "id": "indian-personalities-004",
+      "ageGroup": ["5-7"],
+      "question": "Who wrote the book 'Wings of Fire'?",
+      "options": ["Jawaharlal Nehru", "Rabindranath Tagore", "APJ Abdul Kalam", "Mahatma Gandhi"],
+      "correctIndex": 2,
+      "explanation": "APJ Abdul Kalam wrote 'Wings of Fire.' He was a great scientist who later became the President of India.",
+      "funFact": "Kalam loved playing a musical instrument called the veena and enjoyed spending time with children!"
+    },
+    {
+      "id": "indian-personalities-005",
+      "ageGroup": ["5-7"],
+      "question": "Which kind lady helped sick and poor people in Kolkata and won the Nobel Peace Prize?",
+      "options": ["Sarojini Naidu", "Mother Teresa", "Indira Gandhi", "Savitribai Phule"],
+      "correctIndex": 1,
+      "explanation": "Mother Teresa devoted her life to caring for the sick, poor, and homeless in Kolkata. She won the Nobel Peace Prize in 1979.",
+      "funFact": "Mother Teresa came to India from a small country called North Macedonia when she was just 18 years old!"
+    },
+    {
+      "id": "indian-personalities-006",
+      "ageGroup": ["5-7"],
+      "question": "What did Mahatma Gandhi teach people to use instead of fighting?",
+      "options": ["Swords", "Non-violence and peace", "Magic", "Running away"],
+      "correctIndex": 1,
+      "explanation": "Mahatma Gandhi believed in non-violence, which he called 'ahimsa.' He showed the world that peace is stronger than fighting.",
+      "funFact": "Gandhi used a simple spinning wheel called a 'charkha' to make his own clothes as a symbol of self-reliance!"
+    },
+    {
+      "id": "indian-personalities-007",
+      "ageGroup": ["5-7"],
+      "question": "APJ Abdul Kalam is known as the 'Missile Man of India.' What was his job before becoming President?",
+      "options": ["Doctor", "Scientist", "Teacher", "Soldier"],
+      "correctIndex": 1,
+      "explanation": "APJ Abdul Kalam was a brilliant scientist who helped India build rockets and missiles before becoming the 11th President of India.",
+      "funFact": "As a child, Kalam used to sell newspapers to help his family earn money!"
+    },
+    {
+      "id": "indian-personalities-008",
+      "ageGroup": ["5-7"],
+      "question": "What sport is Sachin Tendulkar famous for?",
+      "options": ["Football", "Hockey", "Cricket", "Tennis"],
+      "correctIndex": 2,
+      "explanation": "Sachin Tendulkar is famous for playing cricket. He is considered one of the greatest batsmen in cricket history.",
+      "funFact": "Sachin hit 100 centuries (100 runs in one match) in international cricket — no one else has done that!"
+    },
+    {
+      "id": "indian-personalities-009",
+      "ageGroup": ["5-7"],
+      "question": "Which famous Indian leader always wore a white cap called the 'Gandhi topi'?",
+      "options": ["Subhash Chandra Bose", "Bhagat Singh", "Jawaharlal Nehru", "Sardar Patel"],
+      "correctIndex": 2,
+      "explanation": "Jawaharlal Nehru was known for wearing his signature white cap, which became known as the 'Nehru cap.'",
+      "funFact": "Nehru also always wore a fresh red rose on his jacket every single day!"
+    },
+    {
+      "id": "indian-personalities-010",
+      "ageGroup": ["5-7"],
+      "question": "Who is called the 'Nightingale of India' because of her beautiful poetry?",
+      "options": ["Lata Mangeshkar", "Sarojini Naidu", "Mother Teresa", "Indira Gandhi"],
+      "correctIndex": 1,
+      "explanation": "Sarojini Naidu was called the Nightingale of India for her beautiful poems. She was also a brave freedom fighter.",
+      "funFact": "Sarojini Naidu wrote her first poem when she was just 12 years old!"
+    },
+    {
+      "id": "indian-personalities-011",
+      "ageGroup": ["5-7", "8-10"],
+      "question": "Who is known as the 'Iron Man of India' for uniting all the states?",
+      "options": ["Mahatma Gandhi", "Jawaharlal Nehru", "Sardar Vallabhbhai Patel", "Bhagat Singh"],
+      "correctIndex": 2,
+      "explanation": "Sardar Vallabhbhai Patel united over 500 princely states into one India after independence. That is why he is called the Iron Man of India.",
+      "funFact": "The Statue of Unity in Gujarat, the world's tallest statue at 182 meters, was built in his honour!"
+    },
+    {
+      "id": "indian-personalities-012",
+      "ageGroup": ["5-7"],
+      "question": "Which Indian singer was called the 'Melody Queen' and sang thousands of songs?",
+      "options": ["Asha Bhosle", "Lata Mangeshkar", "Sarojini Naidu", "MS Subbulakshmi"],
+      "correctIndex": 1,
+      "explanation": "Lata Mangeshkar was called the Melody Queen of India. She sang songs in over 36 languages during her amazing career.",
+      "funFact": "Lata Mangeshkar recorded more songs than almost any other singer in the world — over 25,000 songs!"
+    },
+    {
+      "id": "indian-personalities-013",
+      "ageGroup": ["5-7"],
+      "question": "What did Jawaharlal Nehru call the children of India?",
+      "options": ["Little stars", "Future leaders", "The flowers of India", "Young warriors"],
+      "correctIndex": 0,
+      "explanation": "Jawaharlal Nehru lovingly called children the 'little stars' and believed they were the future of the country.",
+      "funFact": "Nehru wrote a famous book called 'Letters from a Father to His Daughter' for his daughter Indira when she was just 10!"
+    },
+    {
+      "id": "indian-personalities-014",
+      "ageGroup": ["5-7"],
+      "question": "Which brave Indian queen fought against the British on a horse?",
+      "options": ["Sarojini Naidu", "Rani Lakshmibai", "Indira Gandhi", "Savitribai Phule"],
+      "correctIndex": 1,
+      "explanation": "Rani Lakshmibai of Jhansi was a brave queen who fought against the British in 1857. She is a symbol of courage in India.",
+      "funFact": "Rani Lakshmibai was trained in horse riding, sword fighting, and archery as a child — she could ride a horse with a sword in each hand!"
+    },
+    {
+      "id": "indian-personalities-015",
+      "ageGroup": ["5-7"],
+      "question": "What was Mahatma Gandhi's full name?",
+      "options": ["Mohandas Karamchand Gandhi", "Rajiv Mohan Gandhi", "Devdas Ratilal Gandhi", "Kasturba Mohan Gandhi"],
+      "correctIndex": 0,
+      "explanation": "Mahatma Gandhi's full name was Mohandas Karamchand Gandhi. 'Mahatma' is a title meaning 'Great Soul.'",
+      "funFact": "Gandhi studied law in London, England, and once tried to learn to dance and play the violin there!"
+    },
+    {
+      "id": "indian-personalities-016",
+      "ageGroup": ["5-7"],
+      "question": "Which Indian athlete won a gold medal in javelin throw at the Olympics?",
+      "options": ["PV Sindhu", "Mary Kom", "Neeraj Chopra", "Sachin Tendulkar"],
+      "correctIndex": 2,
+      "explanation": "Neeraj Chopra won the gold medal in javelin throw at the 2020 Tokyo Olympics, making all of India proud.",
+      "funFact": "Neeraj started practicing javelin throw when he was just 13 years old at a stadium near his village in Haryana!"
+    },
+    {
+      "id": "indian-personalities-017",
+      "ageGroup": ["5-7", "8-10"],
+      "question": "Who was the first Indian to go to space?",
+      "options": ["APJ Abdul Kalam", "Rakesh Sharma", "Vikram Sarabhai", "Sunita Williams"],
+      "correctIndex": 1,
+      "explanation": "Rakesh Sharma became the first Indian to travel to space in 1984. He spent 8 days aboard a space station.",
+      "funFact": "When the Prime Minister asked Rakesh Sharma how India looked from space, he replied 'Saare Jahan Se Accha' — the best in the world!"
+    },
+    {
+      "id": "indian-personalities-018",
+      "ageGroup": ["5-7"],
+      "question": "What did Mother Teresa do to help people?",
+      "options": ["Built rockets", "Cared for the sick and poor", "Played cricket", "Wrote poems"],
+      "correctIndex": 1,
+      "explanation": "Mother Teresa spent her life caring for the sick, poor, and dying people. She started the Missionaries of Charity in Kolkata.",
+      "funFact": "Mother Teresa was awarded the Nobel Peace Prize in 1979 and she wore a simple white sari with blue borders every day!"
+    },
+    {
+      "id": "indian-personalities-019",
+      "ageGroup": ["5-7"],
+      "question": "Which Indian leader said 'Do or Die' during the freedom movement?",
+      "options": ["Bhagat Singh", "Subhash Chandra Bose", "Mahatma Gandhi", "Jawaharlal Nehru"],
+      "correctIndex": 2,
+      "explanation": "Mahatma Gandhi gave the famous slogan 'Do or Die' during the Quit India Movement in 1942 to inspire people to fight for freedom.",
+      "funFact": "Gandhi also led the famous Salt March in 1930, walking 385 kilometres to the sea to make salt and protest unfair British laws!"
+    },
+    {
+      "id": "indian-personalities-020",
+      "ageGroup": ["5-7"],
+      "question": "Which Indian badminton player won a silver medal at the Olympics?",
+      "options": ["Saina Nehwal", "PV Sindhu", "Mary Kom", "Sania Mirza"],
+      "correctIndex": 1,
+      "explanation": "PV Sindhu won a silver medal at the 2016 Rio Olympics and a bronze at the 2020 Tokyo Olympics in badminton.",
+      "funFact": "Sindhu used to travel over 50 kilometres every day from her home to her training centre as a young girl!"
+    },
+    {
+      "id": "indian-personalities-021",
+      "ageGroup": ["8-10"],
+      "question": "Subhash Chandra Bose founded which famous army to fight for India's freedom?",
+      "options": ["Indian National Army", "British Indian Army", "Azad Hind Army", "Maratha Army"],
+      "correctIndex": 0,
+      "explanation": "Subhash Chandra Bose founded the Indian National Army (also called Azad Hind Fauj) to fight for India's independence from British rule.",
+      "funFact": "Bose's famous slogan was 'Give me blood, and I shall give you freedom!' He was also called 'Netaji' meaning respected leader!"
+    },
+    {
+      "id": "indian-personalities-022",
+      "ageGroup": ["8-10"],
+      "question": "At what age was Bhagat Singh when he sacrificed his life for India's freedom?",
+      "options": ["20 years", "23 years", "25 years", "30 years"],
+      "correctIndex": 1,
+      "explanation": "Bhagat Singh was just 23 years old when he was executed by the British on March 23, 1931. He is one of India's youngest freedom fighters.",
+      "funFact": "Bhagat Singh loved reading and had a huge collection of books — he reportedly read over 300 books during his time in jail!"
+    },
+    {
+      "id": "indian-personalities-023",
+      "ageGroup": ["8-10"],
+      "question": "Which Indian scientist won the Nobel Prize in Physics for his work on how light behaves?",
+      "options": ["Homi Bhabha", "Vikram Sarabhai", "CV Raman", "APJ Abdul Kalam"],
+      "correctIndex": 2,
+      "explanation": "CV Raman won the Nobel Prize in Physics in 1930 for the 'Raman Effect,' which explains how light changes when it passes through different materials.",
+      "funFact": "February 28th is celebrated as National Science Day in India to honour CV Raman's discovery of the Raman Effect!"
+    },
+    {
+      "id": "indian-personalities-024",
+      "ageGroup": ["8-10"],
+      "question": "Who is known as the father of the Indian nuclear programme?",
+      "options": ["Vikram Sarabhai", "CV Raman", "Homi J. Bhabha", "APJ Abdul Kalam"],
+      "correctIndex": 2,
+      "explanation": "Homi J. Bhabha is called the father of the Indian nuclear programme. He set up India's atomic energy research and built the foundation for nuclear science in India.",
+      "funFact": "Bhabha was also a talented painter and loved classical music — he believed science and art go hand in hand!"
+    },
+    {
+      "id": "indian-personalities-025",
+      "ageGroup": ["8-10"],
+      "question": "Mary Kom is a champion in which sport?",
+      "options": ["Wrestling", "Boxing", "Weightlifting", "Judo"],
+      "correctIndex": 1,
+      "explanation": "Mary Kom is one of the greatest female boxers in the world. She has won six World Boxing Championship gold medals.",
+      "funFact": "Mary Kom started boxing secretly because her father, a wrestler, was worried she might get hurt!"
+    },
+    {
+      "id": "indian-personalities-026",
+      "ageGroup": ["8-10"],
+      "question": "Which Indian poet wrote the national anthem 'Jana Gana Mana'?",
+      "options": ["Bankim Chandra Chattopadhyay", "Rabindranath Tagore", "Sarojini Naidu", "Mirza Ghalib"],
+      "correctIndex": 1,
+      "explanation": "Rabindranath Tagore wrote 'Jana Gana Mana,' which became India's national anthem. He was a poet, writer, and artist.",
+      "funFact": "Tagore was the first non-European to win the Nobel Prize in Literature in 1913 for his collection of poems called 'Gitanjali'!"
+    },
+    {
+      "id": "indian-personalities-027",
+      "ageGroup": ["8-10"],
+      "question": "What was Subhash Chandra Bose's famous greeting to his soldiers?",
+      "options": ["Vande Mataram", "Jai Hind", "Inquilab Zindabad", "Bharat Mata Ki Jai"],
+      "correctIndex": 1,
+      "explanation": "Subhash Chandra Bose popularised the greeting 'Jai Hind,' meaning 'Victory to India.' It became a patriotic slogan used across the country.",
+      "funFact": "Bose escaped British house arrest in India in 1941 by disguising himself and secretly travelling through Afghanistan to reach Germany!"
+    },
+    {
+      "id": "indian-personalities-028",
+      "ageGroup": ["8-10"],
+      "question": "Which Indian woman was the first female teacher in India?",
+      "options": ["Sarojini Naidu", "Indira Gandhi", "Savitribai Phule", "Rani Lakshmibai"],
+      "correctIndex": 2,
+      "explanation": "Savitribai Phule became India's first female teacher in 1848. Along with her husband Jyotirao Phule, she opened schools for girls when girls were not allowed to study.",
+      "funFact": "People used to throw stones and mud at Savitribai on her way to school, but she bravely carried an extra sari and kept going!"
+    },
+    {
+      "id": "indian-personalities-029",
+      "ageGroup": ["8-10"],
+      "question": "How many World Boxing Championship gold medals has Mary Kom won?",
+      "options": ["Three", "Four", "Five", "Six"],
+      "correctIndex": 3,
+      "explanation": "Mary Kom has won six World Boxing Championship gold medals, making her one of the most successful boxers in history.",
+      "funFact": "A Bollywood movie called 'Mary Kom' was made about her inspiring life, and she is also a member of the Rajya Sabha!"
+    },
+    {
+      "id": "indian-personalities-030",
+      "ageGroup": ["8-10"],
+      "question": "What was the name of the movement where Gandhi asked people to make their own salt?",
+      "options": ["Quit India Movement", "Non-Cooperation Movement", "Salt March", "Civil Disobedience Movement"],
+      "correctIndex": 2,
+      "explanation": "The Salt March of 1930, also called the Dandi March, was when Gandhi walked 385 km to the sea to make salt and protest the unfair British salt tax.",
+      "funFact": "Thousands of people joined Gandhi during the march, and by the time he reached Dandi, the group had grown to tens of thousands!"
+    },
+    {
+      "id": "indian-personalities-031",
+      "ageGroup": ["8-10"],
+      "question": "Which Indian leader said the famous words 'Tryst with Destiny' on the night India became independent?",
+      "options": ["Mahatma Gandhi", "Jawaharlal Nehru", "Sardar Patel", "BR Ambedkar"],
+      "correctIndex": 1,
+      "explanation": "Jawaharlal Nehru delivered the 'Tryst with Destiny' speech at midnight on August 14-15, 1947, when India gained independence.",
+      "funFact": "While Nehru gave his speech in Delhi, Mahatma Gandhi was in Kolkata and spent that night fasting and praying for peace!"
+    },
+    {
+      "id": "indian-personalities-032",
+      "ageGroup": ["8-10"],
+      "question": "PV Sindhu became only the second Indian to win an individual Olympic medal in which sport?",
+      "options": ["Tennis", "Badminton", "Table Tennis", "Squash"],
+      "correctIndex": 1,
+      "explanation": "PV Sindhu won a silver medal in badminton at the 2016 Rio Olympics, becoming one of India's most celebrated athletes.",
+      "funFact": "Sindhu's full name is Pusarla Venkata Sindhu, and both her parents were national-level volleyball players!"
+    },
+    {
+      "id": "indian-personalities-033",
+      "ageGroup": ["8-10"],
+      "question": "Which Indian freedom fighter threw a bomb in the Central Legislative Assembly to protest against unjust laws?",
+      "options": ["Chandrashekhar Azad", "Bhagat Singh", "Subhash Chandra Bose", "Ram Prasad Bismil"],
+      "correctIndex": 1,
+      "explanation": "Bhagat Singh and Batukeshwar Dutt threw smoke bombs in the Central Legislative Assembly in 1929 to protest unjust British laws. They did not try to hurt anyone.",
+      "funFact": "Bhagat Singh purposely did not run after throwing the bombs — he wanted to be arrested so he could make his voice heard in court!"
+    },
+    {
+      "id": "indian-personalities-034",
+      "ageGroup": ["8-10"],
+      "question": "Neeraj Chopra won India's first Olympic gold medal in which athletics event?",
+      "options": ["100 metre sprint", "Shot put", "Javelin throw", "Long jump"],
+      "correctIndex": 2,
+      "explanation": "Neeraj Chopra won gold in the javelin throw at the 2020 Tokyo Olympics with a throw of 87.58 metres. It was India's first Olympic gold in athletics.",
+      "funFact": "As a child, Neeraj was overweight, and his family enrolled him in sports to help him get fit — that is how he discovered javelin throw!"
+    },
+    {
+      "id": "indian-personalities-035",
+      "ageGroup": ["8-10"],
+      "question": "Which Indian woman wrote the song 'Vande Mataram' that inspired freedom fighters?",
+      "options": ["No woman wrote it — Bankim Chandra Chattopadhyay wrote it", "Sarojini Naidu", "Savitribai Phule", "Mahasweta Devi"],
+      "correctIndex": 0,
+      "explanation": "Bankim Chandra Chattopadhyay wrote 'Vande Mataram' in his novel Anandamath in 1882. It became a rallying cry during the freedom movement.",
+      "funFact": "The song 'Vande Mataram' means 'I bow to thee, Mother' and refers to India as a mother goddess!"
+    },
+    {
+      "id": "indian-personalities-036",
+      "ageGroup": ["8-10"],
+      "question": "Which famous Indian queen is remembered for her bravery in the Revolt of 1857?",
+      "options": ["Rani Padmini", "Rani Lakshmibai", "Rani Durgavati", "Ahilyabai Holkar"],
+      "correctIndex": 1,
+      "explanation": "Rani Lakshmibai of Jhansi fought bravely against the British during the Revolt of 1857. She died fighting on the battlefield at just 29 years old.",
+      "funFact": "Rani Lakshmibai is said to have ridden into battle with her adopted son tied to her back so she could fight with both hands!"
+    },
+    {
+      "id": "indian-personalities-037",
+      "ageGroup": ["8-10", "11-13"],
+      "question": "Which scientist is known as the father of the Indian space programme?",
+      "options": ["Homi Bhabha", "CV Raman", "Vikram Sarabhai", "Satish Dhawan"],
+      "correctIndex": 2,
+      "explanation": "Vikram Sarabhai is the father of the Indian space programme. He founded the Indian Space Research Organisation (ISRO) and made India a space-faring nation.",
+      "funFact": "India's first rocket parts were transported on a bicycle and a bullock cart to the launch site in Thumba, Kerala!"
+    },
+    {
+      "id": "indian-personalities-038",
+      "ageGroup": ["8-10"],
+      "question": "Rabindranath Tagore won the Nobel Prize for which famous book of poems?",
+      "options": ["The Home and the World", "Gitanjali", "Gora", "Chokher Bali"],
+      "correctIndex": 1,
+      "explanation": "Rabindranath Tagore won the Nobel Prize in Literature in 1913 for 'Gitanjali,' a collection of deeply spiritual poems.",
+      "funFact": "Tagore did not like going to school as a child and was mostly educated at home — he later started his own school called Shantiniketan!"
+    },
+    {
+      "id": "indian-personalities-039",
+      "ageGroup": ["11-13"],
+      "question": "BR Ambedkar is remembered as the chief architect of which important document?",
+      "options": ["Indian Penal Code", "Constitution of India", "Panchayati Raj Act", "Right to Information Act"],
+      "correctIndex": 1,
+      "explanation": "Dr. BR Ambedkar was the chairman of the drafting committee that wrote the Constitution of India, which is the supreme law of the country.",
+      "funFact": "Ambedkar had the most degrees of any Indian leader of his time — he earned doctorates from both Columbia University and the London School of Economics!"
+    },
+    {
+      "id": "indian-personalities-040",
+      "ageGroup": ["11-13"],
+      "question": "Swami Vivekananda became world-famous after his speech at which event in 1893?",
+      "options": ["United Nations Assembly", "World Parliament of Religions", "Indian National Congress", "Royal Society of London"],
+      "correctIndex": 1,
+      "explanation": "Swami Vivekananda delivered his legendary speech at the World Parliament of Religions in Chicago in 1893, beginning with 'Sisters and Brothers of America.'",
+      "funFact": "When Vivekananda said 'Sisters and Brothers of America,' the audience of 7,000 people gave him a standing ovation that lasted for two full minutes!"
+    },
+    {
+      "id": "indian-personalities-041",
+      "ageGroup": ["11-13"],
+      "question": "What social evil did BR Ambedkar fight against throughout his life?",
+      "options": ["Child marriage", "Caste discrimination", "Poverty", "Illiteracy"],
+      "correctIndex": 1,
+      "explanation": "BR Ambedkar fought against caste discrimination and untouchability. He dedicated his life to securing equal rights for all people regardless of their caste.",
+      "funFact": "As a child, Ambedkar was made to sit outside his classroom because of his caste — this experience drove him to fight for equality for millions of people!"
+    },
+    {
+      "id": "indian-personalities-042",
+      "ageGroup": ["11-13"],
+      "question": "Which Indian scientist's theoretical work on nuclear physics led to an important particle being named after him?",
+      "options": ["CV Raman", "Satyendra Nath Bose", "Homi Bhabha", "Vikram Sarabhai"],
+      "correctIndex": 1,
+      "explanation": "Satyendra Nath Bose's work in quantum physics led to the 'boson' particle being named after him. He collaborated with Albert Einstein on groundbreaking research.",
+      "funFact": "The famous Higgs Boson particle, often called the 'God Particle,' gets the 'boson' part of its name from Satyendra Nath Bose!"
+    },
+    {
+      "id": "indian-personalities-043",
+      "ageGroup": ["11-13"],
+      "question": "What did Savitribai Phule and Jyotirao Phule establish in 1848 that was revolutionary for its time?",
+      "options": ["A hospital for the poor", "One of India's first schools for girls", "A printing press", "A women's bank"],
+      "correctIndex": 1,
+      "explanation": "Savitribai and Jyotirao Phule opened one of India's first schools for girls in Pune in 1848, at a time when educating girls was strongly opposed by society.",
+      "funFact": "Savitribai Phule also opened a care centre for pregnant widows and worked to prevent infanticide — she adopted a widow's son and educated him to become a doctor!"
+    },
+    {
+      "id": "indian-personalities-044",
+      "ageGroup": ["11-13"],
+      "question": "Vikram Sarabhai convinced the Indian government to invest in space research for what main purpose?",
+      "options": ["Military defence", "Competing with other countries", "Using space technology for development and communication", "Tourism in space"],
+      "correctIndex": 2,
+      "explanation": "Vikram Sarabhai believed space technology should be used to solve real problems like communication, weather forecasting, and education in rural India.",
+      "funFact": "Sarabhai came from a famous industrialist family and could have lived a comfortable life, but he chose to dedicate himself to science and nation-building!"
+    },
+    {
+      "id": "indian-personalities-045",
+      "ageGroup": ["11-13"],
+      "question": "What was Swami Vivekananda's original name before he became a monk?",
+      "options": ["Narendranath Datta", "Gadadhar Chattopadhyay", "Mool Shankar", "Vishwanath Sharma"],
+      "correctIndex": 0,
+      "explanation": "Swami Vivekananda was born as Narendranath Datta. He became a monk and disciple of Ramakrishna Paramahamsa before taking the name Vivekananda.",
+      "funFact": "Vivekananda's birthday, January 12th, is celebrated as National Youth Day in India because he was a great inspiration to young people!"
+    },
+    {
+      "id": "indian-personalities-046",
+      "ageGroup": ["11-13"],
+      "question": "CV Raman's Nobel Prize-winning discovery, the Raman Effect, explains what phenomenon?",
+      "options": ["How sound travels through water", "How light scatters when passing through a transparent material", "How magnets attract metals", "How heat moves through solids"],
+      "correctIndex": 1,
+      "explanation": "The Raman Effect explains that when light passes through a transparent material, some of the light changes its wavelength. This discovery has applications in chemistry, physics, and medicine.",
+      "funFact": "CV Raman was so confident in his discovery that he booked tickets to the Nobel Prize ceremony in Sweden even before the winner was officially announced!"
+    },
+    {
+      "id": "indian-personalities-047",
+      "ageGroup": ["11-13"],
+      "question": "Which Indian reformer established the Ramakrishna Mission to serve people and spread spiritual knowledge?",
+      "options": ["Dayananda Saraswati", "Raja Ram Mohan Roy", "Swami Vivekananda", "Ishwar Chandra Vidyasagar"],
+      "correctIndex": 2,
+      "explanation": "Swami Vivekananda founded the Ramakrishna Mission in 1897 in honour of his guru Ramakrishna Paramahamsa. It works in education, healthcare, and disaster relief across India.",
+      "funFact": "Vivekananda walked across almost the entire length of India on foot to understand the lives of ordinary people before going to America!"
+    },
+    {
+      "id": "indian-personalities-048",
+      "ageGroup": ["11-13"],
+      "question": "Sardar Patel is compared to which famous European leader for uniting many small states into one nation?",
+      "options": ["Napoleon Bonaparte", "Winston Churchill", "Otto von Bismarck", "Charles de Gaulle"],
+      "correctIndex": 2,
+      "explanation": "Sardar Patel is often compared to Otto von Bismarck of Germany because both leaders united many small states into a single powerful nation through diplomacy and determination.",
+      "funFact": "Patel convinced 562 princely states to join India, mostly through peaceful negotiation — only a handful required any show of force!"
+    },
+    {
+      "id": "indian-personalities-049",
+      "ageGroup": ["11-13"],
+      "question": "Which Indian Nobel laureate's work at the Raman Research Institute continues to influence modern science?",
+      "options": ["Har Gobind Khorana", "CV Raman", "Subrahmanyan Chandrasekhar", "Amartya Sen"],
+      "correctIndex": 1,
+      "explanation": "CV Raman founded the Raman Research Institute in Bangalore in 1948. His discovery of the Raman Effect is still used today in fields ranging from medicine to environmental science.",
+      "funFact": "Raman resigned from his government job to pursue science full-time with a much lower salary — his passion for discovery was more important than money!"
+    },
+    {
+      "id": "indian-personalities-050",
+      "ageGroup": ["11-13"],
+      "question": "What was unique about BR Ambedkar's personal journey that made his achievements even more remarkable?",
+      "options": ["He was born into a royal family but gave up his wealth", "He overcame caste discrimination to become one of India's greatest scholars and leaders", "He was a freedom fighter who spent decades in prison", "He was a foreign-born citizen who chose India as his home"],
+      "correctIndex": 1,
+      "explanation": "BR Ambedkar was born into an untouchable Dalit family and faced severe caste discrimination. Despite this, he earned multiple doctorates abroad and shaped modern India's Constitution and laws.",
+      "funFact": "Ambedkar's personal library had over 50,000 books, making it one of the largest private libraries in the world at that time!"
+    }
+  ]
+}

@@ -1,0 +1,75 @@
+{
+  "topics": [
+    {
+      "id": "maths",
+      "name": "Maths",
+      "emoji": "\ud83d\udcaf",
+      "color": "#4A90D9",
+      "tagline": "Numbers are fun!",
+      "type": "generated"
+    },
+    {
+      "id": "authors",
+      "name": "Identify Authors",
+      "emoji": "\ud83d\udcda",
+      "color": "#9B59B6",
+      "tagline": "Who wrote that book?",
+      "type": "static",
+      "dataFile": "questions/authors.json"
+    },
+    {
+      "id": "space",
+      "name": "Space",
+      "emoji": "\ud83d\ude80",
+      "color": "#2C3E80",
+      "tagline": "Explore the universe!",
+      "type": "static",
+      "dataFile": "questions/space.json"
+    },
+    {
+      "id": "animals",
+      "name": "Animals",
+      "emoji": "\ud83d\udc3e",
+      "color": "#27AE60",
+      "tagline": "Wild and wonderful!",
+      "type": "static",
+      "dataFile": "questions/animals.json"
+    },
+    {
+      "id": "indian-monuments",
+      "name": "Indian Monuments",
+      "emoji": "\ud83c\udfdb\ufe0f",
+      "color": "#E67E22",
+      "tagline": "Amazing structures!",
+      "type": "static",
+      "dataFile": "questions/indian-monuments.json"
+    },
+    {
+      "id": "indian-states",
+      "name": "Indian States",
+      "emoji": "\ud83d\uddfa\ufe0f",
+      "color": "#E74C3C",
+      "tagline": "Know your country!",
+      "type": "static",
+      "dataFile": "questions/indian-states.json"
+    },
+    {
+      "id": "oceans",
+      "name": "Oceans",
+      "emoji": "\ud83c\udf0a",
+      "color": "#1ABC9C",
+      "tagline": "Dive into the deep!",
+      "type": "static",
+      "dataFile": "questions/oceans.json"
+    },
+    {
+      "id": "indian-personalities",
+      "name": "Indian Personalities",
+      "emoji": "\u2b50",
+      "color": "#F1C40F",
+      "tagline": "Great people of India!",
+      "type": "static",
+      "dataFile": "questions/indian-personalities.json"
+    }
+  ]
+}

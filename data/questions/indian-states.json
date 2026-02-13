@@ -1,0 +1,460 @@
+{
+  "topic": "indian-states",
+  "questions": [
+    {
+      "id": "indian-states-001",
+      "ageGroup": ["5-7"],
+      "question": "What is the capital of Maharashtra?",
+      "options": ["Pune", "Mumbai", "Nagpur", "Nashik"],
+      "correctIndex": 1,
+      "explanation": "Mumbai is the capital of Maharashtra. It is also the financial capital of India and home to Bollywood.",
+      "funFact": "Mumbai was originally a group of seven islands that were joined together over many years!"
+    },
+    {
+      "id": "indian-states-002",
+      "ageGroup": ["5-7"],
+      "question": "Which state is known as the 'Land of Kings'?",
+      "options": ["Gujarat", "Madhya Pradesh", "Rajasthan", "Punjab"],
+      "correctIndex": 2,
+      "explanation": "Rajasthan is called the 'Land of Kings' because it was home to many Rajput kings and has beautiful forts and palaces.",
+      "funFact": "Rajasthan is the largest state in India by area and is bigger than many countries in the world!"
+    },
+    {
+      "id": "indian-states-003",
+      "ageGroup": ["5-7"],
+      "question": "What is the capital of Tamil Nadu?",
+      "options": ["Madurai", "Coimbatore", "Chennai", "Salem"],
+      "correctIndex": 2,
+      "explanation": "Chennai is the capital of Tamil Nadu. It is a big city on the coast of the Bay of Bengal.",
+      "funFact": "Chennai was earlier called Madras and is famous for its long Marina Beach, one of the longest urban beaches in the world!"
+    },
+    {
+      "id": "indian-states-004",
+      "ageGroup": ["5-7"],
+      "question": "Which state is famous for the Taj Mahal?",
+      "options": ["Madhya Pradesh", "Rajasthan", "Uttar Pradesh", "Delhi"],
+      "correctIndex": 2,
+      "explanation": "The Taj Mahal is in Agra, which is in Uttar Pradesh. It was built by Emperor Shah Jahan.",
+      "funFact": "The Taj Mahal changes colour at different times of the day \u2014 it looks pinkish in the morning, white during the day, and golden at night under the moonlight!"
+    },
+    {
+      "id": "indian-states-005",
+      "ageGroup": ["5-7"],
+      "question": "What is the capital of Karnataka?",
+      "options": ["Mysuru", "Bengaluru", "Hubli", "Mangaluru"],
+      "correctIndex": 1,
+      "explanation": "Bengaluru is the capital of Karnataka. It is known as the IT capital of India because many technology companies are there.",
+      "funFact": "Bengaluru is called the 'Garden City' because it has so many parks and trees!"
+    },
+    {
+      "id": "indian-states-006",
+      "ageGroup": ["5-7"],
+      "question": "Which state is known for its beautiful backwaters and coconut trees?",
+      "options": ["Goa", "Karnataka", "Kerala", "Tamil Nadu"],
+      "correctIndex": 2,
+      "explanation": "Kerala is famous for its backwaters, coconut trees, and lush green scenery. It is called 'God's Own Country'.",
+      "funFact": "Kerala was the first state in India where 100% of people can read and write!"
+    },
+    {
+      "id": "indian-states-007",
+      "ageGroup": ["5-7"],
+      "question": "What is the capital of West Bengal?",
+      "options": ["Darjeeling", "Howrah", "Kolkata", "Siliguri"],
+      "correctIndex": 2,
+      "explanation": "Kolkata is the capital of West Bengal. It was the capital of India during the British period until 1911.",
+      "funFact": "Kolkata has the only operating tram network in all of India!"
+    },
+    {
+      "id": "indian-states-008",
+      "ageGroup": ["5-7"],
+      "question": "Which state is the smallest in India?",
+      "options": ["Sikkim", "Tripura", "Goa", "Mizoram"],
+      "correctIndex": 2,
+      "explanation": "Goa is the smallest state in India by area. It is located on the western coast along the Arabian Sea.",
+      "funFact": "Even though Goa is the smallest state, it has some of the most famous beaches in the world!"
+    },
+    {
+      "id": "indian-states-009",
+      "ageGroup": ["5-7"],
+      "question": "What is the capital of Punjab?",
+      "options": ["Amritsar", "Ludhiana", "Chandigarh", "Jalandhar"],
+      "correctIndex": 2,
+      "explanation": "Chandigarh is the capital of Punjab. Interestingly, it is also the capital of Haryana!",
+      "funFact": "Chandigarh is one of the best planned cities in India and was designed by a famous architect from France named Le Corbusier!"
+    },
+    {
+      "id": "indian-states-010",
+      "ageGroup": ["5-7"],
+      "question": "Which state is famous for its tea gardens?",
+      "options": ["Bihar", "Assam", "Odisha", "Jharkhand"],
+      "correctIndex": 1,
+      "explanation": "Assam is very famous for its tea gardens. Assam tea is enjoyed by people all over the world.",
+      "funFact": "Assam produces more than half of all the tea grown in India!"
+    },
+    {
+      "id": "indian-states-011",
+      "ageGroup": ["5-7"],
+      "question": "What is the capital of Rajasthan?",
+      "options": ["Jodhpur", "Udaipur", "Jaipur", "Jaisalmer"],
+      "correctIndex": 2,
+      "explanation": "Jaipur is the capital of Rajasthan. It is known as the 'Pink City' because many of its buildings are pink in colour.",
+      "funFact": "In 1876, the entire city of Jaipur was painted pink to welcome the Prince of Wales from England!"
+    },
+    {
+      "id": "indian-states-012",
+      "ageGroup": ["5-7"],
+      "question": "Which state is shaped like a long thin strip and is famous for beaches?",
+      "options": ["Kerala", "Goa", "Odisha", "Gujarat"],
+      "correctIndex": 1,
+      "explanation": "Goa is a small, narrow state on the western coast of India famous for its beautiful beaches and churches.",
+      "funFact": "Goa was ruled by the Portuguese for over 450 years before becoming part of India in 1961!"
+    },
+    {
+      "id": "indian-states-013",
+      "ageGroup": ["5-7", "8-10"],
+      "question": "What is the capital of Gujarat?",
+      "options": ["Surat", "Ahmedabad", "Gandhinagar", "Vadodara"],
+      "correctIndex": 2,
+      "explanation": "Gandhinagar is the capital of Gujarat. It is named after Mahatma Gandhi, who was born in Gujarat.",
+      "funFact": "Many people think Ahmedabad is the capital because it is the biggest city, but the capital is actually Gandhinagar, which is right next to it!"
+    },
+    {
+      "id": "indian-states-014",
+      "ageGroup": ["5-7"],
+      "question": "Which state is known for the lion?",
+      "options": ["Rajasthan", "Madhya Pradesh", "Gujarat", "Maharashtra"],
+      "correctIndex": 2,
+      "explanation": "Gujarat is the only place in the world outside Africa where you can find Asiatic lions. They live in the Gir Forest.",
+      "funFact": "There are about 700 Asiatic lions living in Gujarat's Gir Forest, and their numbers are growing every year!"
+    },
+    {
+      "id": "indian-states-015",
+      "ageGroup": ["5-7", "8-10"],
+      "question": "What is the capital of Uttar Pradesh?",
+      "options": ["Agra", "Lucknow", "Kanpur", "Varanasi"],
+      "correctIndex": 1,
+      "explanation": "Lucknow is the capital of Uttar Pradesh. It is known as the 'City of Nawabs' and is famous for its food and culture.",
+      "funFact": "Uttar Pradesh has the most people of any state in India \u2014 if it were a country, it would be the 5th most populated country in the world!"
+    },
+    {
+      "id": "indian-states-016",
+      "ageGroup": ["5-7"],
+      "question": "Which state is famous for the dance form Bharatanatyam?",
+      "options": ["Kerala", "Andhra Pradesh", "Karnataka", "Tamil Nadu"],
+      "correctIndex": 3,
+      "explanation": "Bharatanatyam is a classical dance form from Tamil Nadu. It is one of the oldest dance forms in India.",
+      "funFact": "Bharatanatyam is over 2,000 years old and was originally performed in temples!"
+    },
+    {
+      "id": "indian-states-017",
+      "ageGroup": ["5-7"],
+      "question": "What is the capital of Bihar?",
+      "options": ["Gaya", "Patna", "Bhagalpur", "Muzaffarpur"],
+      "correctIndex": 1,
+      "explanation": "Patna is the capital of Bihar. It is one of the oldest continuously inhabited cities in the world.",
+      "funFact": "The ancient name of Patna was Pataliputra, and it was the capital of the great Maurya Empire over 2,000 years ago!"
+    },
+    {
+      "id": "indian-states-018",
+      "ageGroup": ["5-7"],
+      "question": "Which Indian state is famous for Kathakali dance?",
+      "options": ["Tamil Nadu", "Karnataka", "Kerala", "Andhra Pradesh"],
+      "correctIndex": 2,
+      "explanation": "Kathakali is a famous classical dance form from Kerala. Dancers wear very colourful costumes and heavy makeup.",
+      "funFact": "Kathakali dancers spend hours putting on their makeup and costumes \u2014 sometimes it takes 3 to 4 hours just to get ready!"
+    },
+    {
+      "id": "indian-states-019",
+      "ageGroup": ["5-7", "8-10"],
+      "question": "What is the capital of Madhya Pradesh?",
+      "options": ["Indore", "Bhopal", "Gwalior", "Jabalpur"],
+      "correctIndex": 1,
+      "explanation": "Bhopal is the capital of Madhya Pradesh. It is known as the 'City of Lakes' because it has many beautiful lakes.",
+      "funFact": "Madhya Pradesh is called the 'Heart of India' because it is located right in the centre of the country!"
+    },
+    {
+      "id": "indian-states-020",
+      "ageGroup": ["5-7"],
+      "question": "Which state is famous for the Bihu dance and festival?",
+      "options": ["West Bengal", "Manipur", "Assam", "Meghalaya"],
+      "correctIndex": 2,
+      "explanation": "Bihu is a very popular festival and dance in Assam. It celebrates the Assamese New Year and the harvest season.",
+      "funFact": "During Bihu, people in Assam make special sweets called pitha from rice and coconut!"
+    },
+    {
+      "id": "indian-states-021",
+      "ageGroup": ["8-10"],
+      "question": "What is the capital of Telangana?",
+      "options": ["Warangal", "Hyderabad", "Karimnagar", "Nizamabad"],
+      "correctIndex": 1,
+      "explanation": "Hyderabad is the capital of Telangana. After Telangana was formed in 2014, Hyderabad served as the joint capital of both Telangana and Andhra Pradesh for 10 years.",
+      "funFact": "Hyderabad is called the 'City of Pearls' because it was once the global centre of the pearl trade!"
+    },
+    {
+      "id": "indian-states-022",
+      "ageGroup": ["8-10"],
+      "question": "What is the capital of Andhra Pradesh?",
+      "options": ["Visakhapatnam", "Vijayawada", "Amaravati", "Tirupati"],
+      "correctIndex": 2,
+      "explanation": "Amaravati is the designated capital of Andhra Pradesh. The state got a new capital after Hyderabad went to Telangana.",
+      "funFact": "The name Amaravati means 'place of immortals' and the area has a history going back to ancient Buddhist times!"
+    },
+    {
+      "id": "indian-states-023",
+      "ageGroup": ["8-10"],
+      "question": "Which state has the one-horned rhinoceros as its state animal?",
+      "options": ["West Bengal", "Assam", "Meghalaya", "Arunachal Pradesh"],
+      "correctIndex": 1,
+      "explanation": "The one-horned rhinoceros is the state animal of Assam. Kaziranga National Park in Assam is home to two-thirds of the world's one-horned rhinos.",
+      "funFact": "The Indian one-horned rhino can weigh as much as a car \u2014 about 2,000 kilograms!"
+    },
+    {
+      "id": "indian-states-024",
+      "ageGroup": ["8-10"],
+      "question": "Which river flows through the state of Odisha and is known as the 'Sorrow of Odisha'?",
+      "options": ["Godavari", "Krishna", "Mahanadi", "Brahmani"],
+      "correctIndex": 2,
+      "explanation": "The Mahanadi river flows through Odisha and was called the 'Sorrow of Odisha' because it used to cause terrible floods.",
+      "funFact": "The Hirakud Dam on the Mahanadi is one of the longest dams in the world, stretching about 26 kilometres!"
+    },
+    {
+      "id": "indian-states-025",
+      "ageGroup": ["8-10"],
+      "question": "What is the state animal of Madhya Pradesh?",
+      "options": ["Lion", "Elephant", "Barasingha", "Tiger"],
+      "correctIndex": 2,
+      "explanation": "The Barasingha (swamp deer) is the state animal of Madhya Pradesh. It is found in Kanha National Park.",
+      "funFact": "Barasingha means 'twelve-horned' in Hindi because the male deer can have antlers with 12 or more points!"
+    },
+    {
+      "id": "indian-states-026",
+      "ageGroup": ["8-10"],
+      "question": "What is the capital of Odisha?",
+      "options": ["Puri", "Cuttack", "Bhubaneswar", "Rourkela"],
+      "correctIndex": 2,
+      "explanation": "Bhubaneswar is the capital of Odisha. It is known as the 'Temple City' because it has hundreds of ancient temples.",
+      "funFact": "Bhubaneswar once had over 700 temples, earning it the nickname 'Ekamra Kshetra' or the City of Temples!"
+    },
+    {
+      "id": "indian-states-027",
+      "ageGroup": ["8-10"],
+      "question": "Which state celebrates the famous Hornbill Festival?",
+      "options": ["Manipur", "Mizoram", "Nagaland", "Meghalaya"],
+      "correctIndex": 2,
+      "explanation": "The Hornbill Festival is celebrated in Nagaland every December. It showcases the culture and traditions of Naga tribes.",
+      "funFact": "The festival is named after the hornbill bird, which is one of the most admired birds in Nagaland and appears in many tribal folk stories!"
+    },
+    {
+      "id": "indian-states-028",
+      "ageGroup": ["8-10"],
+      "question": "Which state is the largest producer of spices in India?",
+      "options": ["Tamil Nadu", "Rajasthan", "Kerala", "Andhra Pradesh"],
+      "correctIndex": 2,
+      "explanation": "Kerala is the largest producer of spices in India. Pepper, cardamom, cinnamon, and cloves all grow abundantly there.",
+      "funFact": "Centuries ago, European explorers came all the way to Kerala looking for pepper, which was so valuable it was called 'Black Gold'!"
+    },
+    {
+      "id": "indian-states-029",
+      "ageGroup": ["8-10"],
+      "question": "What is the capital of Sikkim?",
+      "options": ["Pelling", "Namchi", "Gangtok", "Mangan"],
+      "correctIndex": 2,
+      "explanation": "Gangtok is the capital of Sikkim. It is a beautiful hill town surrounded by mountains and monasteries.",
+      "funFact": "Sikkim became the first fully organic state in India in 2016, meaning all farming there is done without chemical fertilizers!"
+    },
+    {
+      "id": "indian-states-030",
+      "ageGroup": ["8-10"],
+      "question": "Which famous river flows through Varanasi in Uttar Pradesh?",
+      "options": ["Yamuna", "Ganga", "Sarayu", "Gomti"],
+      "correctIndex": 1,
+      "explanation": "The Ganga (Ganges) river flows through Varanasi. Varanasi is one of the oldest living cities in the world.",
+      "funFact": "The Ganga river travels about 2,525 kilometres from the Himalayas to the Bay of Bengal, passing through five states!"
+    },
+    {
+      "id": "indian-states-031",
+      "ageGroup": ["8-10"],
+      "question": "Which state is known as the 'Spice Garden of India'?",
+      "options": ["Tamil Nadu", "Kerala", "Karnataka", "Goa"],
+      "correctIndex": 1,
+      "explanation": "Kerala is known as the 'Spice Garden of India' because it grows a wide variety of spices including pepper, cardamom, and cloves.",
+      "funFact": "The spice trade from Kerala is what attracted the Portuguese explorer Vasco da Gama to India in 1498!"
+    },
+    {
+      "id": "indian-states-032",
+      "ageGroup": ["8-10"],
+      "question": "What is the capital of Jharkhand?",
+      "options": ["Jamshedpur", "Dhanbad", "Ranchi", "Bokaro"],
+      "correctIndex": 2,
+      "explanation": "Ranchi is the capital of Jharkhand. Jharkhand was carved out of Bihar and became a separate state in the year 2000.",
+      "funFact": "Ranchi is known as the 'City of Waterfalls' because it has many beautiful waterfalls nearby, including the famous Hundru Falls!"
+    },
+    {
+      "id": "indian-states-033",
+      "ageGroup": ["8-10"],
+      "question": "Which state celebrates Onam, the harvest festival?",
+      "options": ["Karnataka", "Tamil Nadu", "Kerala", "Andhra Pradesh"],
+      "correctIndex": 2,
+      "explanation": "Onam is the biggest festival in Kerala. It celebrates the harvest season and the legendary King Mahabali.",
+      "funFact": "During Onam, families prepare a grand feast called Onam Sadhya that can have up to 26 different dishes, all served on a banana leaf!"
+    },
+    {
+      "id": "indian-states-034",
+      "ageGroup": ["8-10"],
+      "question": "What is the capital of Himachal Pradesh?",
+      "options": ["Manali", "Dharamshala", "Shimla", "Kullu"],
+      "correctIndex": 2,
+      "explanation": "Shimla is the capital of Himachal Pradesh. It was the summer capital of British India because of its cool weather.",
+      "funFact": "Shimla has a toy train called the Kalka-Shimla Railway that passes through 102 tunnels and is a UNESCO World Heritage Site!"
+    },
+    {
+      "id": "indian-states-035",
+      "ageGroup": ["8-10", "11-13"],
+      "question": "Which state is the largest in India by area?",
+      "options": ["Madhya Pradesh", "Maharashtra", "Rajasthan", "Uttar Pradesh"],
+      "correctIndex": 2,
+      "explanation": "Rajasthan is the largest state in India by area, covering about 342,239 square kilometres.",
+      "funFact": "The Thar Desert in Rajasthan is so big that it covers about 60% of the state and is home to many unique animals like the Great Indian Bustard!"
+    },
+    {
+      "id": "indian-states-036",
+      "ageGroup": ["8-10"],
+      "question": "What is the state bird of Rajasthan?",
+      "options": ["Peacock", "Great Indian Bustard", "Flamingo", "Sarus Crane"],
+      "correctIndex": 1,
+      "explanation": "The Great Indian Bustard is the state bird of Rajasthan. It is one of the heaviest flying birds in the world.",
+      "funFact": "The Great Indian Bustard is critically endangered, with fewer than 150 left in the wild, and most of them are found in Rajasthan!"
+    },
+    {
+      "id": "indian-states-037",
+      "ageGroup": ["8-10"],
+      "question": "Which state is famous for the Rann of Kutch, a vast white salt desert?",
+      "options": ["Rajasthan", "Gujarat", "Maharashtra", "Madhya Pradesh"],
+      "correctIndex": 1,
+      "explanation": "The Rann of Kutch is in Gujarat. During full moon nights, the white salt desert looks like a magical silver landscape.",
+      "funFact": "The Rann of Kutch is so flat and white that it can be seen from space, and during monsoon it turns into a shallow wetland!"
+    },
+    {
+      "id": "indian-states-038",
+      "ageGroup": ["8-10", "11-13"],
+      "question": "What is the capital of Arunachal Pradesh?",
+      "options": ["Tawang", "Itanagar", "Ziro", "Pasighat"],
+      "correctIndex": 1,
+      "explanation": "Itanagar is the capital of Arunachal Pradesh, a state in the far northeast of India. Arunachal Pradesh means 'Land of the Dawn-Lit Mountains'.",
+      "funFact": "Arunachal Pradesh is the first place in India to see the sunrise every day because it is the easternmost state!"
+    },
+    {
+      "id": "indian-states-039",
+      "ageGroup": ["11-13"],
+      "question": "In which year was Telangana formed as a separate state from Andhra Pradesh?",
+      "options": ["2000", "2009", "2014", "2019"],
+      "correctIndex": 2,
+      "explanation": "Telangana was formed on June 2, 2014, becoming the 29th state of India. It was carved out of the northwestern part of Andhra Pradesh.",
+      "funFact": "The Telangana movement for a separate state was one of the longest statehood movements in Indian history, lasting over 50 years!"
+    },
+    {
+      "id": "indian-states-040",
+      "ageGroup": ["11-13"],
+      "question": "Which state has the highest population density in India?",
+      "options": ["Uttar Pradesh", "Bihar", "West Bengal", "Kerala"],
+      "correctIndex": 1,
+      "explanation": "Bihar has the highest population density among Indian states, with over 1,100 people per square kilometre according to the 2011 Census.",
+      "funFact": "Despite being one of the most densely populated states, Bihar is also home to the ancient university of Nalanda, which was one of the first universities in the entire world!"
+    },
+    {
+      "id": "indian-states-041",
+      "ageGroup": ["11-13"],
+      "question": "Which Indian state has the most number of official languages?",
+      "options": ["Karnataka", "Jammu and Kashmir", "Manipur", "Assam"],
+      "correctIndex": 1,
+      "explanation": "Jammu and Kashmir recognises multiple official languages including Urdu, Kashmiri, Dogri, Hindi, and English, reflecting its diverse cultural heritage.",
+      "funFact": "India as a country recognises 22 official languages in its Constitution, making it one of the most linguistically diverse nations on Earth!"
+    },
+    {
+      "id": "indian-states-042",
+      "ageGroup": ["11-13"],
+      "question": "Which northeastern state is the only state in India with a majority Christian population?",
+      "options": ["Manipur", "Meghalaya", "Nagaland", "Mizoram"],
+      "correctIndex": 2,
+      "explanation": "Nagaland has the highest percentage of Christians among all Indian states, with about 88% of its population following Christianity.",
+      "funFact": "Nagaland is home to 16 major tribes, each with their own distinct language, dress, and traditions!"
+    },
+    {
+      "id": "indian-states-043",
+      "ageGroup": ["11-13"],
+      "question": "Which river forms a natural boundary between Karnataka and Andhra Pradesh?",
+      "options": ["Godavari", "Krishna", "Tungabhadra", "Cauvery"],
+      "correctIndex": 2,
+      "explanation": "The Tungabhadra River forms a natural boundary between parts of Karnataka and Andhra Pradesh. It is a tributary of the Krishna River.",
+      "funFact": "The ruins of Hampi, a UNESCO World Heritage Site and the capital of the Vijayanagara Empire, sit on the banks of the Tungabhadra River!"
+    },
+    {
+      "id": "indian-states-044",
+      "ageGroup": ["11-13"],
+      "question": "Which state has the longest coastline in India?",
+      "options": ["Maharashtra", "Tamil Nadu", "Gujarat", "Andhra Pradesh"],
+      "correctIndex": 2,
+      "explanation": "Gujarat has the longest coastline among Indian states at about 1,600 kilometres, stretching along the Arabian Sea.",
+      "funFact": "Gujarat's Alang ship-breaking yard is the largest in the world, where huge old ships are taken apart and recycled!"
+    },
+    {
+      "id": "indian-states-045",
+      "ageGroup": ["11-13"],
+      "question": "Tulu is a language spoken primarily in which Indian state?",
+      "options": ["Kerala", "Goa", "Karnataka", "Maharashtra"],
+      "correctIndex": 2,
+      "explanation": "Tulu is spoken mainly in the Dakshina Kannada and Udupi districts of Karnataka, in a region called Tulu Nadu.",
+      "funFact": "Tulu has its own ancient script called Tigalari, but today most Tulu speakers write using the Kannada script!"
+    },
+    {
+      "id": "indian-states-046",
+      "ageGroup": ["11-13"],
+      "question": "Which state was the last to be reorganised into a Union Territory in 2019?",
+      "options": ["Goa", "Sikkim", "Jammu and Kashmir", "Tripura"],
+      "correctIndex": 2,
+      "explanation": "In August 2019, Jammu and Kashmir was reorganised from a state into two Union Territories: Jammu & Kashmir and Ladakh.",
+      "funFact": "Ladakh, the other Union Territory created at the same time, contains the highest motorable road in the world at Umlingla Pass at 19,024 feet!"
+    },
+    {
+      "id": "indian-states-047",
+      "ageGroup": ["11-13"],
+      "question": "The Chilika Lake, the largest coastal lagoon in India, is in which state?",
+      "options": ["Andhra Pradesh", "West Bengal", "Odisha", "Tamil Nadu"],
+      "correctIndex": 2,
+      "explanation": "Chilika Lake is located in Odisha and is the largest coastal lagoon in India. It is a Ramsar wetland site of international importance.",
+      "funFact": "Every winter, over a million birds from as far as Siberia and Central Asia migrate to Chilika Lake, including beautiful pink flamingos!"
+    },
+    {
+      "id": "indian-states-048",
+      "ageGroup": ["11-13"],
+      "question": "Which state has the highest literacy rate in India?",
+      "options": ["Goa", "Kerala", "Mizoram", "Tripura"],
+      "correctIndex": 1,
+      "explanation": "Kerala has the highest literacy rate in India at about 96%. It was the first state to achieve 100% primary education.",
+      "funFact": "Kerala's focus on education goes back to the 19th century when the rulers of Travancore declared that the state should spend its resources on educating its people!"
+    },
+    {
+      "id": "indian-states-049",
+      "ageGroup": ["11-13"],
+      "question": "The Bodo language is primarily spoken in which Indian state?",
+      "options": ["Nagaland", "Meghalaya", "Assam", "Manipur"],
+      "correctIndex": 2,
+      "explanation": "Bodo is primarily spoken in Assam, mainly in the Bodoland Territorial Region. It is one of the 22 scheduled languages of India.",
+      "funFact": "The Bodo people have a vibrant spring festival called Bwisagu, which is celebrated with traditional dance, music, and feasting for a whole week!"
+    },
+    {
+      "id": "indian-states-050",
+      "ageGroup": ["11-13"],
+      "question": "Which three states were created in November 2000 from existing states?",
+      "options": [
+        "Telangana, Sikkim, Mizoram",
+        "Jharkhand, Chhattisgarh, Uttarakhand",
+        "Goa, Manipur, Meghalaya",
+        "Jharkhand, Telangana, Chhattisgarh"
+      ],
+      "correctIndex": 1,
+      "explanation": "Jharkhand (from Bihar), Chhattisgarh (from Madhya Pradesh), and Uttarakhand (from Uttar Pradesh) were all created in November 2000.",
+      "funFact": "Chhattisgarh is called the 'Rice Bowl of India' because it produces a huge amount of rice, while Jharkhand sits on some of the richest mineral deposits in the country!"
+    }
+  ]
+}

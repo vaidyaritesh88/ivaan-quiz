@@ -1,0 +1,455 @@
+{
+  "topic": "animals",
+  "questions": [
+    {
+      "id": "animals-001",
+      "ageGroup": ["5-7"],
+      "question": "What sound does a cow make?",
+      "options": ["Meow", "Moo", "Baa", "Oink"],
+      "correctIndex": 1,
+      "explanation": "A cow makes a 'Moo' sound. Cows use different moos to communicate with each other.",
+      "funFact": "Cows can recognize and remember over 100 other cows in their herd!"
+    },
+    {
+      "id": "animals-002",
+      "ageGroup": ["5-7"],
+      "question": "How many legs does a spider have?",
+      "options": ["4", "6", "8", "10"],
+      "correctIndex": 2,
+      "explanation": "Spiders have 8 legs. They belong to a group called arachnids, which is different from insects.",
+      "funFact": "Spiders can produce silk that is stronger than steel of the same thickness!"
+    },
+    {
+      "id": "animals-003",
+      "ageGroup": ["5-7"],
+      "question": "What is a baby cat called?",
+      "options": ["Puppy", "Kitten", "Cub", "Foal"],
+      "correctIndex": 1,
+      "explanation": "A baby cat is called a kitten. Kittens are born with their eyes closed and open them after about one week.",
+      "funFact": "Kittens sleep for about 18 hours a day to help their bodies grow!"
+    },
+    {
+      "id": "animals-004",
+      "ageGroup": ["5-7"],
+      "question": "Where do fish live?",
+      "options": ["In trees", "In water", "Underground", "In the sky"],
+      "correctIndex": 1,
+      "explanation": "Fish live in water. They breathe using special organs called gills that take oxygen from the water.",
+      "funFact": "There are more species of fish in the world than all mammals, birds, and reptiles combined!"
+    },
+    {
+      "id": "animals-005",
+      "ageGroup": ["5-7"],
+      "question": "Which animal is known as man's best friend?",
+      "options": ["Cat", "Parrot", "Dog", "Rabbit"],
+      "correctIndex": 2,
+      "explanation": "Dogs are called man's best friend because they have been loyal companions to humans for thousands of years.",
+      "funFact": "Dogs can understand up to 250 words and gestures, making them as smart as a 2-year-old child!"
+    },
+    {
+      "id": "animals-006",
+      "ageGroup": ["5-7"],
+      "question": "What is a baby dog called?",
+      "options": ["Kitten", "Joey", "Puppy", "Calf"],
+      "correctIndex": 2,
+      "explanation": "A baby dog is called a puppy. Puppies are usually born in groups called litters.",
+      "funFact": "Dalmatian puppies are born completely white and develop their spots as they grow older!"
+    },
+    {
+      "id": "animals-007",
+      "ageGroup": ["5-7"],
+      "question": "How many legs does a chicken have?",
+      "options": ["2", "4", "6", "8"],
+      "correctIndex": 0,
+      "explanation": "A chicken has 2 legs. Like all birds, chickens walk on two legs and have two wings.",
+      "funFact": "Chickens can run up to 14 kilometers per hour, which is faster than most people can jog!"
+    },
+    {
+      "id": "animals-008",
+      "ageGroup": ["5-7"],
+      "question": "Which animal says 'Quack quack'?",
+      "options": ["Hen", "Duck", "Goose", "Pigeon"],
+      "correctIndex": 1,
+      "explanation": "Ducks say 'Quack quack'. Ducks are water birds that can swim, walk, and fly.",
+      "funFact": "A duck's quack does not produce an echo, and scientists are still trying to figure out why!"
+    },
+    {
+      "id": "animals-009",
+      "ageGroup": ["5-7"],
+      "question": "What colour is a polar bear's fur?",
+      "options": ["Brown", "Black", "White", "Grey"],
+      "correctIndex": 2,
+      "explanation": "Polar bears have white fur that helps them blend in with the snow and ice in the Arctic.",
+      "funFact": "Underneath their white fur, polar bears actually have black skin to help absorb heat from the sun!"
+    },
+    {
+      "id": "animals-010",
+      "ageGroup": ["5-7"],
+      "question": "What is a baby horse called?",
+      "options": ["Calf", "Foal", "Lamb", "Kid"],
+      "correctIndex": 1,
+      "explanation": "A baby horse is called a foal. Foals can stand up and walk within an hour of being born!",
+      "funFact": "Horses can sleep both lying down and standing up!"
+    },
+    {
+      "id": "animals-011",
+      "ageGroup": ["5-7"],
+      "question": "Which animal has a long trunk?",
+      "options": ["Giraffe", "Rhinoceros", "Elephant", "Hippopotamus"],
+      "correctIndex": 2,
+      "explanation": "Elephants have a long trunk that they use for breathing, smelling, drinking water, and grabbing things.",
+      "funFact": "An elephant's trunk has over 40,000 muscles in it, which is more muscles than in the entire human body!"
+    },
+    {
+      "id": "animals-012",
+      "ageGroup": ["5-7"],
+      "question": "What does a hen give us?",
+      "options": ["Milk", "Wool", "Eggs", "Honey"],
+      "correctIndex": 2,
+      "explanation": "Hens give us eggs. A healthy hen can lay about one egg every day.",
+      "funFact": "The colour of a hen's egg depends on the breed of the hen, not on what it eats!"
+    },
+    {
+      "id": "animals-013",
+      "ageGroup": ["5-7"],
+      "question": "Which animal hops and carries its baby in a pouch?",
+      "options": ["Rabbit", "Kangaroo", "Frog", "Deer"],
+      "correctIndex": 1,
+      "explanation": "Kangaroos hop on their strong back legs and carry their babies (called joeys) in a pouch on their belly.",
+      "funFact": "A baby kangaroo is only about 2 centimeters long when it is born, which is smaller than a grape!"
+    },
+    {
+      "id": "animals-014",
+      "ageGroup": ["5-7"],
+      "question": "What is a baby cow called?",
+      "options": ["Lamb", "Calf", "Foal", "Chick"],
+      "correctIndex": 1,
+      "explanation": "A baby cow is called a calf. Calves can walk within a few hours of being born.",
+      "funFact": "Cows have best friends and get stressed when they are separated from them!"
+    },
+    {
+      "id": "animals-015",
+      "ageGroup": ["5-7"],
+      "question": "Which of these animals can fly?",
+      "options": ["Penguin", "Ostrich", "Eagle", "Kiwi"],
+      "correctIndex": 2,
+      "explanation": "Eagles are powerful flyers. Penguins, ostriches, and kiwis are all birds that cannot fly.",
+      "funFact": "Eagles have such amazing eyesight that they can spot a rabbit from over 3 kilometers away!"
+    },
+    {
+      "id": "animals-016",
+      "ageGroup": ["5-7"],
+      "question": "How many legs does a butterfly have?",
+      "options": ["2", "4", "6", "8"],
+      "correctIndex": 2,
+      "explanation": "Butterflies have 6 legs. All insects have exactly 6 legs, and butterflies are insects.",
+      "funFact": "Butterflies taste their food using their feet, not their tongue!"
+    },
+    {
+      "id": "animals-017",
+      "ageGroup": ["5-7"],
+      "question": "Which animal gives us milk that we drink?",
+      "options": ["Goat", "Horse", "Cow", "Sheep"],
+      "correctIndex": 2,
+      "explanation": "Cows give us the milk that most people drink every day. Goats and sheep also give milk, but cow's milk is the most common.",
+      "funFact": "A single cow can produce enough milk to fill about 200,000 glasses in its lifetime!"
+    },
+    {
+      "id": "animals-018",
+      "ageGroup": ["5-7", "8-10"],
+      "question": "What is the national bird of India?",
+      "options": ["Parrot", "Peacock", "Sparrow", "Kingfisher"],
+      "correctIndex": 1,
+      "explanation": "The peacock (Indian peafowl) is the national bird of India. It was declared the national bird in 1963.",
+      "funFact": "Only male peacocks have the beautiful, colorful tail feathers. Female peahens are brown and grey!"
+    },
+    {
+      "id": "animals-019",
+      "ageGroup": ["5-7"],
+      "question": "Which animal has black and white stripes?",
+      "options": ["Horse", "Donkey", "Zebra", "Deer"],
+      "correctIndex": 2,
+      "explanation": "Zebras have black and white stripes. Each zebra has a unique stripe pattern, just like human fingerprints.",
+      "funFact": "Scientists believe zebra stripes help confuse biting flies and keep the zebras cooler in the heat!"
+    },
+    {
+      "id": "animals-020",
+      "ageGroup": ["5-7"],
+      "question": "Where do penguins live in the wild?",
+      "options": ["Desert", "Jungle", "Cold icy places", "Mountains"],
+      "correctIndex": 2,
+      "explanation": "Most penguins live in cold icy places like Antarctica. They are specially adapted to survive in freezing temperatures.",
+      "funFact": "Emperor penguins can hold their breath for over 20 minutes while diving for fish!"
+    },
+    {
+      "id": "animals-021",
+      "ageGroup": ["8-10"],
+      "question": "Which of these animals is a reptile?",
+      "options": ["Frog", "Crocodile", "Whale", "Bat"],
+      "correctIndex": 1,
+      "explanation": "Crocodiles are reptiles. Reptiles have scaly skin, are cold-blooded, and most of them lay eggs.",
+      "funFact": "Crocodiles have been around for over 200 million years, which means they lived alongside dinosaurs!"
+    },
+    {
+      "id": "animals-022",
+      "ageGroup": ["8-10"],
+      "question": "Which of these animals is a mammal?",
+      "options": ["Snake", "Eagle", "Dolphin", "Frog"],
+      "correctIndex": 2,
+      "explanation": "Dolphins are mammals. Even though they live in water, they breathe air, are warm-blooded, and feed milk to their babies.",
+      "funFact": "Dolphins sleep with one eye open and half their brain awake so they can keep breathing!"
+    },
+    {
+      "id": "animals-023",
+      "ageGroup": ["8-10"],
+      "question": "Which big cat is found only in India's Gir Forest?",
+      "options": ["Bengal tiger", "Snow leopard", "Asiatic lion", "Clouded leopard"],
+      "correctIndex": 2,
+      "explanation": "The Asiatic lion is found only in the Gir Forest of Gujarat, India. It is different from the African lion.",
+      "funFact": "There are only about 700 Asiatic lions left in the wild, all living in and around Gir National Park!"
+    },
+    {
+      "id": "animals-024",
+      "ageGroup": ["8-10"],
+      "question": "What do herbivore animals eat?",
+      "options": ["Only meat", "Only plants", "Both meat and plants", "Only insects"],
+      "correctIndex": 1,
+      "explanation": "Herbivores eat only plants. Examples include cows, deer, elephants, and rabbits.",
+      "funFact": "A cow spends about 8 hours a day chewing its food, moving its jaw around 40,000 times!"
+    },
+    {
+      "id": "animals-025",
+      "ageGroup": ["8-10"],
+      "question": "What is the largest land animal in the world?",
+      "options": ["White rhinoceros", "African elephant", "Giraffe", "Hippopotamus"],
+      "correctIndex": 1,
+      "explanation": "The African elephant is the largest land animal. A fully grown male can weigh up to 6,000 kilograms.",
+      "funFact": "African elephants have ears shaped like the continent of Africa, while Asian elephants have ears shaped like India!"
+    },
+    {
+      "id": "animals-026",
+      "ageGroup": ["8-10"],
+      "question": "Which of these animals migrates the longest distance every year?",
+      "options": ["Monarch butterfly", "Arctic tern", "Wildebeest", "Salmon"],
+      "correctIndex": 1,
+      "explanation": "The Arctic tern migrates the longest distance of any animal, travelling from the Arctic to Antarctica and back every year, covering about 70,000 kilometers.",
+      "funFact": "In its lifetime, an Arctic tern flies enough distance to go to the moon and back three times!"
+    },
+    {
+      "id": "animals-027",
+      "ageGroup": ["8-10"],
+      "question": "What is the Bengal tiger's status on the conservation list?",
+      "options": ["Least Concern", "Vulnerable", "Endangered", "Extinct"],
+      "correctIndex": 2,
+      "explanation": "The Bengal tiger is listed as Endangered. India has been working hard on Project Tiger since 1973 to protect them.",
+      "funFact": "No two tigers have the same stripe pattern. Their stripes are like human fingerprints, each one is unique!"
+    },
+    {
+      "id": "animals-028",
+      "ageGroup": ["8-10"],
+      "question": "Which animal is known for changing its skin colour?",
+      "options": ["Gecko", "Iguana", "Chameleon", "Komodo dragon"],
+      "correctIndex": 2,
+      "explanation": "Chameleons can change their skin colour. They do this to communicate with other chameleons and to regulate their body temperature.",
+      "funFact": "Chameleons can move each of their eyes independently, so they can look in two different directions at the same time!"
+    },
+    {
+      "id": "animals-029",
+      "ageGroup": ["8-10"],
+      "question": "What type of animal is a frog?",
+      "options": ["Reptile", "Mammal", "Amphibian", "Fish"],
+      "correctIndex": 2,
+      "explanation": "Frogs are amphibians. Amphibians can live both on land and in water, and they go through a transformation called metamorphosis.",
+      "funFact": "Some frogs can freeze solid during winter and then thaw out and come back to life in spring!"
+    },
+    {
+      "id": "animals-030",
+      "ageGroup": ["8-10"],
+      "question": "Which Indian animal is also called the 'one-horned rhinoceros'?",
+      "options": ["African rhino", "Sumatran rhino", "Indian rhinoceros", "Javan rhino"],
+      "correctIndex": 2,
+      "explanation": "The Indian rhinoceros, found mainly in Assam's Kaziranga National Park, has only one horn, unlike African rhinos which have two.",
+      "funFact": "The Indian rhinoceros has thick skin that forms plate-like folds, making it look like it is wearing armour!"
+    },
+    {
+      "id": "animals-031",
+      "ageGroup": ["8-10"],
+      "question": "What is a group of wolves called?",
+      "options": ["Herd", "Flock", "Pack", "Swarm"],
+      "correctIndex": 2,
+      "explanation": "A group of wolves is called a pack. Wolf packs work together to hunt and protect each other.",
+      "funFact": "Wolves can hear sounds up to 10 kilometers away in an open area and can run at speeds up to 65 km/h!"
+    },
+    {
+      "id": "animals-032",
+      "ageGroup": ["8-10"],
+      "question": "What is the fastest land animal in the world?",
+      "options": ["Lion", "Cheetah", "Greyhound", "Pronghorn antelope"],
+      "correctIndex": 1,
+      "explanation": "The cheetah is the fastest land animal, reaching speeds of up to 112 kilometers per hour in short bursts.",
+      "funFact": "A cheetah can accelerate from 0 to 100 km/h in just 3 seconds, which is faster than most sports cars!"
+    },
+    {
+      "id": "animals-033",
+      "ageGroup": ["8-10"],
+      "question": "What do omnivore animals eat?",
+      "options": ["Only meat", "Only plants", "Both plants and meat", "Only fruits"],
+      "correctIndex": 2,
+      "explanation": "Omnivores eat both plants and meat. Examples include bears, pigs, and humans.",
+      "funFact": "Bears are omnivores and can eat up to 40 kilograms of food per day when preparing for winter hibernation!"
+    },
+    {
+      "id": "animals-034",
+      "ageGroup": ["8-10"],
+      "question": "Which bird is the largest in the world?",
+      "options": ["Emu", "Ostrich", "Albatross", "Condor"],
+      "correctIndex": 1,
+      "explanation": "The ostrich is the largest living bird. It can grow up to 2.7 meters tall and weigh up to 150 kilograms.",
+      "funFact": "An ostrich's eye is bigger than its brain, and its eyes are the largest of any land animal!"
+    },
+    {
+      "id": "animals-035",
+      "ageGroup": ["8-10", "11-13"],
+      "question": "How does the Indian elephant differ from the African elephant?",
+      "options": ["It is larger", "It has smaller ears", "It has longer tusks", "It has more toes"],
+      "correctIndex": 1,
+      "explanation": "Indian (Asian) elephants have smaller, rounder ears compared to the large, fan-shaped ears of African elephants. Asian elephants are also generally smaller.",
+      "funFact": "Indian elephants are so intelligent that they can recognize themselves in a mirror, something very few animals can do!"
+    },
+    {
+      "id": "animals-036",
+      "ageGroup": ["8-10"],
+      "question": "Which sea creature has three hearts?",
+      "options": ["Jellyfish", "Starfish", "Octopus", "Seahorse"],
+      "correctIndex": 2,
+      "explanation": "An octopus has three hearts. Two hearts pump blood to the gills, and one pumps blood to the rest of the body.",
+      "funFact": "An octopus has blue blood because it uses copper instead of iron to carry oxygen, which works better in cold water!"
+    },
+    {
+      "id": "animals-037",
+      "ageGroup": ["8-10"],
+      "question": "What is a baby frog called?",
+      "options": ["Larva", "Tadpole", "Froglet", "Newt"],
+      "correctIndex": 1,
+      "explanation": "A baby frog is called a tadpole. Tadpoles live in water and breathe through gills before they grow legs and become frogs.",
+      "funFact": "A single frog can lay up to 20,000 eggs at one time, but very few of them survive to become adult frogs!"
+    },
+    {
+      "id": "animals-038",
+      "ageGroup": ["8-10"],
+      "question": "Which animal uses echolocation to find its way in the dark?",
+      "options": ["Owl", "Bat", "Cat", "Raccoon"],
+      "correctIndex": 1,
+      "explanation": "Bats use echolocation, sending out sound waves that bounce off objects to help them navigate and find food in total darkness.",
+      "funFact": "Bats are the only mammals that can truly fly. Flying squirrels only glide, but bats actually flap their wings!"
+    },
+    {
+      "id": "animals-039",
+      "ageGroup": ["11-13"],
+      "question": "What is the role of a 'producer' in a food chain?",
+      "options": ["It hunts other animals", "It makes its own food using sunlight", "It breaks down dead matter", "It eats both plants and animals"],
+      "correctIndex": 1,
+      "explanation": "Producers, like plants and algae, make their own food using sunlight through photosynthesis. They form the base of every food chain.",
+      "funFact": "Phytoplankton, tiny ocean producers, generate about 50% of all the oxygen we breathe on Earth!"
+    },
+    {
+      "id": "animals-040",
+      "ageGroup": ["11-13"],
+      "question": "Which adaptation helps a camel survive in the desert?",
+      "options": ["Thick fur for warmth", "Humps that store fat for energy", "Webbed feet for swimming", "Large ears for hearing predators"],
+      "correctIndex": 1,
+      "explanation": "A camel's hump stores fat, not water, which the camel can convert into energy and water when food is scarce in the desert.",
+      "funFact": "Camels can drink up to 200 litres of water in just 15 minutes, and they can survive losing up to 25% of their body water!"
+    },
+    {
+      "id": "animals-041",
+      "ageGroup": ["11-13"],
+      "question": "What is the largest animal to have ever lived on Earth?",
+      "options": ["African elephant", "Tyrannosaurus rex", "Blue whale", "Megalodon shark"],
+      "correctIndex": 2,
+      "explanation": "The blue whale is the largest animal to have ever lived, even larger than any dinosaur. It can grow up to 30 meters long and weigh 150,000 kilograms.",
+      "funFact": "A blue whale's heart is so big that a small child could crawl through its arteries, and its heartbeat can be detected from 3 kilometers away!"
+    },
+    {
+      "id": "animals-042",
+      "ageGroup": ["11-13"],
+      "question": "What is the term for animals that are active at night and sleep during the day?",
+      "options": ["Diurnal", "Nocturnal", "Crepuscular", "Cathemeral"],
+      "correctIndex": 1,
+      "explanation": "Nocturnal animals are active at night and sleep during the day. Examples include owls, bats, and hedgehogs.",
+      "funFact": "Nocturnal animals often have much larger eyes relative to their body size, helping them see in very low light!"
+    },
+    {
+      "id": "animals-043",
+      "ageGroup": ["11-13"],
+      "question": "In a food web, what are organisms called that break down dead plants and animals?",
+      "options": ["Producers", "Primary consumers", "Decomposers", "Apex predators"],
+      "correctIndex": 2,
+      "explanation": "Decomposers like bacteria and fungi break down dead organisms and return nutrients to the soil, which helps new plants grow.",
+      "funFact": "Without decomposers, dead material would pile up everywhere, and plants would run out of nutrients within a few years!"
+    },
+    {
+      "id": "animals-044",
+      "ageGroup": ["11-13"],
+      "question": "Which venomous snake, found in India, is known as the 'King Cobra'?",
+      "options": ["Ophiophagus hannah", "Naja naja", "Bungarus caeruleus", "Daboia russelii"],
+      "correctIndex": 0,
+      "explanation": "The King Cobra's scientific name is Ophiophagus hannah. It is the world's longest venomous snake and is found in forests across India and Southeast Asia.",
+      "funFact": "King Cobras mainly eat other snakes, and the name Ophiophagus literally means 'snake-eater' in Greek!"
+    },
+    {
+      "id": "animals-045",
+      "ageGroup": ["11-13"],
+      "question": "What is 'symbiosis' in the animal kingdom?",
+      "options": ["Animals competing for food", "Animals migrating together", "Two different species living closely together in a long-term relationship", "Animals that hunt in packs"],
+      "correctIndex": 2,
+      "explanation": "Symbiosis is a close, long-term relationship between two different species. It can be beneficial to both (mutualism), one (commensalism), or harmful to one (parasitism).",
+      "funFact": "Clownfish and sea anemones are a famous example of symbiosis. The anemone protects the clownfish, and the clownfish keeps the anemone clean!"
+    },
+    {
+      "id": "animals-046",
+      "ageGroup": ["11-13"],
+      "question": "Which animal has the highest blood pressure of any living creature?",
+      "options": ["Blue whale", "Giraffe", "African elephant", "Saltwater crocodile"],
+      "correctIndex": 1,
+      "explanation": "Giraffes have the highest blood pressure of any land animal because their hearts must pump blood all the way up their long necks to their brains.",
+      "funFact": "A giraffe's heart weighs about 11 kilograms and is about 60 centimeters long to generate enough pressure to push blood up to its head!"
+    },
+    {
+      "id": "animals-047",
+      "ageGroup": ["11-13"],
+      "question": "What adaptation do Arctic foxes have that changes with the seasons?",
+      "options": ["Their tail length changes", "Their fur colour changes from white in winter to brown in summer", "They grow extra legs in winter", "Their diet switches between fish and plants"],
+      "correctIndex": 1,
+      "explanation": "Arctic foxes change their fur colour with the seasons. They have white fur in winter for snow camouflage and brown or grey fur in summer to blend with rocks and tundra.",
+      "funFact": "Arctic foxes can survive temperatures as low as minus 70 degrees Celsius without even starting to shiver!"
+    },
+    {
+      "id": "animals-048",
+      "ageGroup": ["11-13"],
+      "question": "What is the term for an animal at the top of a food chain with no natural predators?",
+      "options": ["Keystone species", "Apex predator", "Primary consumer", "Tertiary herbivore"],
+      "correctIndex": 1,
+      "explanation": "An apex predator is at the top of the food chain and has no natural predators. Examples include tigers, great white sharks, and eagles.",
+      "funFact": "Removing apex predators from an ecosystem can cause a chain reaction called a trophic cascade that changes the entire environment!"
+    },
+    {
+      "id": "animals-049",
+      "ageGroup": ["11-13"],
+      "question": "Which deep-sea creature produces its own light through bioluminescence?",
+      "options": ["Great white shark", "Manta ray", "Anglerfish", "Blue whale"],
+      "correctIndex": 2,
+      "explanation": "Anglerfish produce light using a bioluminescent lure on their head to attract prey in the pitch-dark deep ocean.",
+      "funFact": "About 90% of all creatures living in the deep sea can produce some form of their own light through bioluminescence!"
+    },
+    {
+      "id": "animals-050",
+      "ageGroup": ["11-13", "8-10"],
+      "question": "What special ability do some species of lizards have when caught by a predator?",
+      "options": ["They spray venom", "They change colour instantly", "They detach their tail and regrow it later", "They release a loud scream"],
+      "correctIndex": 2,
+      "explanation": "Many lizard species can detach their tail when grabbed by a predator. The tail continues to wiggle, distracting the predator while the lizard escapes. The tail eventually regrows.",
+      "funFact": "The detached tail can keep wiggling for up to 30 minutes, giving the lizard plenty of time to escape!"
+    }
+  ]
+}

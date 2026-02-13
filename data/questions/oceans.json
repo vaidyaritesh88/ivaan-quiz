@@ -1,0 +1,455 @@
+{
+  "topic": "oceans",
+  "questions": [
+    {
+      "id": "oceans-001",
+      "ageGroup": ["5-7"],
+      "question": "Which is the largest ocean in the world?",
+      "options": ["Atlantic Ocean", "Indian Ocean", "Pacific Ocean", "Arctic Ocean"],
+      "correctIndex": 2,
+      "explanation": "The Pacific Ocean is the largest ocean, covering more area than all the land on Earth combined!",
+      "funFact": "The Pacific Ocean is so big that it contains more than half of all the water on Earth!"
+    },
+    {
+      "id": "oceans-002",
+      "ageGroup": ["5-7"],
+      "question": "How many oceans are there on Earth?",
+      "options": ["3", "4", "5", "7"],
+      "correctIndex": 2,
+      "explanation": "There are 5 oceans: Pacific, Atlantic, Indian, Southern (Antarctic), and Arctic.",
+      "funFact": "Together, all five oceans cover more than 70% of the Earth's surface. That means most of our planet is water!"
+    },
+    {
+      "id": "oceans-003",
+      "ageGroup": ["5-7"],
+      "question": "Which is the smallest ocean in the world?",
+      "options": ["Indian Ocean", "Southern Ocean", "Arctic Ocean", "Atlantic Ocean"],
+      "correctIndex": 2,
+      "explanation": "The Arctic Ocean is the smallest and shallowest of the five oceans. It is located around the North Pole.",
+      "funFact": "The Arctic Ocean is mostly covered with ice for much of the year, and polar bears live on that ice!"
+    },
+    {
+      "id": "oceans-004",
+      "ageGroup": ["5-7"],
+      "question": "Which ocean is named after a country?",
+      "options": ["Pacific Ocean", "Atlantic Ocean", "Indian Ocean", "Arctic Ocean"],
+      "correctIndex": 2,
+      "explanation": "The Indian Ocean is named after India. It is the third-largest ocean in the world.",
+      "funFact": "The Indian Ocean is the warmest ocean in the world. Its warm waters are home to beautiful coral reefs!"
+    },
+    {
+      "id": "oceans-005",
+      "ageGroup": ["5-7"],
+      "question": "Which ocean touches the west coast of India?",
+      "options": ["Pacific Ocean", "Atlantic Ocean", "Arabian Sea (Indian Ocean)", "Arctic Ocean"],
+      "correctIndex": 2,
+      "explanation": "The Arabian Sea, which is part of the Indian Ocean, touches the west coast of India.",
+      "funFact": "The Arabian Sea gets its name because it connects India to the Arabian Peninsula, and traders have sailed across it for thousands of years!"
+    },
+    {
+      "id": "oceans-006",
+      "ageGroup": ["5-7"],
+      "question": "What is the largest animal in the ocean?",
+      "options": ["Great White Shark", "Blue Whale", "Giant Squid", "Elephant Seal"],
+      "correctIndex": 1,
+      "explanation": "The Blue Whale is the largest animal in the ocean and the largest animal that has ever lived on Earth!",
+      "funFact": "A Blue Whale's heart is so big that a small child could crawl through its arteries!"
+    },
+    {
+      "id": "oceans-007",
+      "ageGroup": ["5-7"],
+      "question": "What colour does the ocean usually look from above?",
+      "options": ["Green", "Blue", "White", "Brown"],
+      "correctIndex": 1,
+      "explanation": "The ocean usually looks blue because water absorbs red light and reflects blue light from the sun.",
+      "funFact": "In some places, the ocean can look green, turquoise, or even dark black depending on what is in the water and how deep it is!"
+    },
+    {
+      "id": "oceans-008",
+      "ageGroup": ["5-7"],
+      "question": "Is ocean water salty or sweet?",
+      "options": ["Sweet", "Salty", "Sour", "It has no taste"],
+      "correctIndex": 1,
+      "explanation": "Ocean water is salty! The salt comes from rocks on land that slowly dissolve and wash into the sea.",
+      "funFact": "If you took all the salt out of the ocean and spread it on land, it would make a layer more than 150 metres thick!"
+    },
+    {
+      "id": "oceans-009",
+      "ageGroup": ["5-7"],
+      "question": "Which of these animals lives in the ocean?",
+      "options": ["Elephant", "Dolphin", "Giraffe", "Parrot"],
+      "correctIndex": 1,
+      "explanation": "Dolphins live in the ocean! They are very smart mammals that breathe air but spend their whole lives in water.",
+      "funFact": "Dolphins sleep with one eye open! Half their brain stays awake so they can keep breathing and watch for danger."
+    },
+    {
+      "id": "oceans-010",
+      "ageGroup": ["5-7"],
+      "question": "Which ocean is at the bottom of the Earth, near Antarctica?",
+      "options": ["Arctic Ocean", "Pacific Ocean", "Southern Ocean", "Atlantic Ocean"],
+      "correctIndex": 2,
+      "explanation": "The Southern Ocean (also called the Antarctic Ocean) surrounds Antarctica at the bottom of the Earth.",
+      "funFact": "The Southern Ocean is home to penguins, seals, and huge icebergs that can be as big as entire countries!"
+    },
+    {
+      "id": "oceans-011",
+      "ageGroup": ["5-7"],
+      "question": "What do we call a baby whale?",
+      "options": ["Puppy", "Kitten", "Calf", "Cub"],
+      "correctIndex": 2,
+      "explanation": "A baby whale is called a calf, just like a baby cow! Whale mothers take great care of their calves.",
+      "funFact": "A baby Blue Whale drinks about 380 litres of its mother's milk every day and gains almost 90 kilograms each day!"
+    },
+    {
+      "id": "oceans-012",
+      "ageGroup": ["5-7"],
+      "question": "Which ocean is the second largest in the world?",
+      "options": ["Indian Ocean", "Arctic Ocean", "Southern Ocean", "Atlantic Ocean"],
+      "correctIndex": 3,
+      "explanation": "The Atlantic Ocean is the second-largest ocean. It separates the Americas from Europe and Africa.",
+      "funFact": "The Atlantic Ocean is getting wider by about 2.5 centimetres every year because the continents are slowly moving apart!"
+    },
+    {
+      "id": "oceans-013",
+      "ageGroup": ["5-7"],
+      "question": "Which sea is on the east coast of India?",
+      "options": ["Arabian Sea", "Red Sea", "Bay of Bengal", "Mediterranean Sea"],
+      "correctIndex": 2,
+      "explanation": "The Bay of Bengal is on the east coast of India. It is the largest bay in the world!",
+      "funFact": "The Bay of Bengal is home to the Sundarbans, the largest mangrove forest in the world, where Royal Bengal Tigers swim in salty water!"
+    },
+    {
+      "id": "oceans-014",
+      "ageGroup": ["5-7"],
+      "question": "How many arms does an octopus have?",
+      "options": ["6", "8", "10", "12"],
+      "correctIndex": 1,
+      "explanation": "An octopus has 8 arms! Each arm has suckers on it that can taste and grip things.",
+      "funFact": "An octopus has three hearts and blue blood! Two hearts pump blood to the gills and one pumps it to the rest of the body."
+    },
+    {
+      "id": "oceans-015",
+      "ageGroup": ["5-7"],
+      "question": "What is the deepest ocean in the world?",
+      "options": ["Atlantic Ocean", "Indian Ocean", "Arctic Ocean", "Pacific Ocean"],
+      "correctIndex": 3,
+      "explanation": "The Pacific Ocean is the deepest ocean. Its deepest point, the Mariana Trench, goes down almost 11 kilometres!",
+      "funFact": "If you put Mount Everest at the bottom of the Mariana Trench, the top of the mountain would still be more than 2 kilometres underwater!"
+    },
+    {
+      "id": "oceans-016",
+      "ageGroup": ["5-7"],
+      "question": "What do sea turtles eat?",
+      "options": ["Only fish", "Only seaweed", "Jellyfish, seaweed, and small sea creatures", "Only crabs"],
+      "correctIndex": 2,
+      "explanation": "Sea turtles eat different things depending on the species, including jellyfish, seaweed, and small sea creatures.",
+      "funFact": "Leatherback sea turtles love eating jellyfish! Sadly, they sometimes mistake floating plastic bags for jellyfish, which is why we should not litter."
+    },
+    {
+      "id": "oceans-017",
+      "ageGroup": ["5-7"],
+      "question": "What is a group of fish swimming together called?",
+      "options": ["A herd", "A flock", "A school", "A pack"],
+      "correctIndex": 2,
+      "explanation": "A group of fish swimming together is called a school. Fish swim in schools to stay safe from predators.",
+      "funFact": "Some schools of fish can have millions of fish in them! They move together so smoothly that they almost look like one giant creature."
+    },
+    {
+      "id": "oceans-018",
+      "ageGroup": ["5-7", "8-10"],
+      "question": "What are coral reefs made of?",
+      "options": ["Rocks", "Tiny living animals called coral polyps", "Colourful plants", "Sand and shells"],
+      "correctIndex": 1,
+      "explanation": "Coral reefs are made of tiny living animals called coral polyps. Over many years, their hard skeletons build up to form reefs.",
+      "funFact": "Coral reefs are called the rainforests of the sea because even though they cover less than 1% of the ocean floor, they are home to about 25% of all marine species!"
+    },
+    {
+      "id": "oceans-019",
+      "ageGroup": ["5-7"],
+      "question": "Which of these is NOT an ocean?",
+      "options": ["Pacific Ocean", "Atlantic Ocean", "Mediterranean Sea", "Indian Ocean"],
+      "correctIndex": 2,
+      "explanation": "The Mediterranean Sea is a sea, not an ocean! It is located between Europe, Africa, and Asia.",
+      "funFact": "The word Mediterranean means 'middle of the land' in Latin because the ancient Romans thought it was in the centre of the world!"
+    },
+    {
+      "id": "oceans-020",
+      "ageGroup": ["5-7"],
+      "question": "What do sharks use to breathe underwater?",
+      "options": ["Lungs", "Nose", "Gills", "Skin"],
+      "correctIndex": 2,
+      "explanation": "Sharks breathe using gills, which take in oxygen from the water as it flows over them.",
+      "funFact": "Some sharks have to keep swimming their whole lives to push water over their gills. If they stop, they cannot breathe!"
+    },
+    {
+      "id": "oceans-021",
+      "ageGroup": ["8-10"],
+      "question": "What is the name of the deepest part of the ocean?",
+      "options": ["Tonga Trench", "Mariana Trench", "Java Trench", "Puerto Rico Trench"],
+      "correctIndex": 1,
+      "explanation": "The Mariana Trench in the Pacific Ocean is the deepest known part of the ocean, reaching nearly 11,000 metres deep.",
+      "funFact": "The Mariana Trench is so deep that if you dropped a steel ball into it, the ball would take over an hour to reach the bottom!"
+    },
+    {
+      "id": "oceans-022",
+      "ageGroup": ["8-10"],
+      "question": "What causes ocean tides?",
+      "options": ["Wind blowing across the water", "The gravitational pull of the Moon and Sun", "Earthquakes under the sea", "Rivers flowing into the ocean"],
+      "correctIndex": 1,
+      "explanation": "Ocean tides are mainly caused by the gravitational pull of the Moon and the Sun on Earth's water.",
+      "funFact": "The Bay of Fundy in Canada has the highest tides in the world. The water level can change by up to 16 metres between high and low tide!"
+    },
+    {
+      "id": "oceans-023",
+      "ageGroup": ["8-10"],
+      "question": "What is the Great Barrier Reef?",
+      "options": ["A mountain range under the ocean", "The world's largest coral reef system", "A deep ocean trench", "A chain of volcanic islands"],
+      "correctIndex": 1,
+      "explanation": "The Great Barrier Reef off the coast of Australia is the world's largest coral reef system, stretching over 2,300 kilometres.",
+      "funFact": "The Great Barrier Reef is so large that it can be seen from outer space! It is home to over 1,500 species of fish."
+    },
+    {
+      "id": "oceans-024",
+      "ageGroup": ["8-10"],
+      "question": "What is the Gulf Stream?",
+      "options": ["A river in the ocean floor", "A warm ocean current in the Atlantic Ocean", "A type of tropical storm", "A deep-sea canyon"],
+      "correctIndex": 1,
+      "explanation": "The Gulf Stream is a powerful warm ocean current that flows from the Gulf of Mexico across the Atlantic Ocean toward Europe.",
+      "funFact": "The Gulf Stream carries so much warm water that it helps keep countries like the United Kingdom and Ireland much warmer than they would normally be!"
+    },
+    {
+      "id": "oceans-025",
+      "ageGroup": ["8-10"],
+      "question": "Which zone of the ocean gets the most sunlight?",
+      "options": ["Midnight Zone", "Twilight Zone", "Sunlight Zone", "Abyss Zone"],
+      "correctIndex": 2,
+      "explanation": "The Sunlight Zone (also called the Epipelagic Zone) is the top layer of the ocean, reaching down to about 200 metres. It gets the most sunlight.",
+      "funFact": "Even though the Sunlight Zone is only a small fraction of the ocean's depth, most ocean life lives here because sunlight allows plants and algae to grow!"
+    },
+    {
+      "id": "oceans-026",
+      "ageGroup": ["8-10"],
+      "question": "What are underwater mountains that rise above the ocean surface called?",
+      "options": ["Seamounts", "Trenches", "Islands", "Ridges"],
+      "correctIndex": 2,
+      "explanation": "When underwater mountains (seamounts) rise above the ocean surface, they become islands. Many islands, like Hawaii, were formed this way by volcanic activity.",
+      "funFact": "Hawaii's Mauna Kea is actually taller than Mount Everest if measured from its base on the ocean floor. It stands over 10,000 metres from base to peak!"
+    },
+    {
+      "id": "oceans-027",
+      "ageGroup": ["8-10"],
+      "question": "What is a tsunami?",
+      "options": ["A very strong wind over the ocean", "A giant wave caused by an underwater earthquake or volcanic eruption", "A deep ocean current", "A whirlpool in the ocean"],
+      "correctIndex": 1,
+      "explanation": "A tsunami is a series of giant waves usually caused by earthquakes, volcanic eruptions, or landslides under the ocean.",
+      "funFact": "In the deep ocean, a tsunami can travel as fast as a jet plane, at over 700 kilometres per hour, but it may only be a few centimetres tall!"
+    },
+    {
+      "id": "oceans-028",
+      "ageGroup": ["8-10"],
+      "question": "Which ocean animal can change its colour to blend in with its surroundings?",
+      "options": ["Dolphin", "Octopus", "Whale Shark", "Sea Turtle"],
+      "correctIndex": 1,
+      "explanation": "Octopuses can quickly change their colour, pattern, and even texture to blend in with their surroundings for camouflage.",
+      "funFact": "An octopus can change colour in just 0.3 seconds! They use special cells called chromatophores in their skin to create incredible disguises."
+    },
+    {
+      "id": "oceans-029",
+      "ageGroup": ["8-10"],
+      "question": "What is the Mid-Atlantic Ridge?",
+      "options": ["A coral reef in the Atlantic", "An underwater mountain range running through the Atlantic Ocean", "A deep trench in the Atlantic", "A chain of islands in the Atlantic"],
+      "correctIndex": 1,
+      "explanation": "The Mid-Atlantic Ridge is a massive underwater mountain range that runs down the middle of the Atlantic Ocean. It was formed where tectonic plates are pulling apart.",
+      "funFact": "The Mid-Atlantic Ridge is the longest mountain range on Earth, stretching over 16,000 kilometres. Most of it is hidden deep underwater!"
+    },
+    {
+      "id": "oceans-030",
+      "ageGroup": ["8-10"],
+      "question": "What percentage of the Earth's surface is covered by oceans?",
+      "options": ["About 50%", "About 60%", "About 71%", "About 85%"],
+      "correctIndex": 2,
+      "explanation": "About 71% of Earth's surface is covered by oceans. That is why Earth is sometimes called the Blue Planet!",
+      "funFact": "We have explored less than 20% of the ocean floor. We actually know more about the surface of the Moon than about the bottom of our own oceans!"
+    },
+    {
+      "id": "oceans-031",
+      "ageGroup": ["8-10"],
+      "question": "Which famous sea is so salty that people can easily float in it?",
+      "options": ["Red Sea", "Dead Sea", "Caspian Sea", "Black Sea"],
+      "correctIndex": 1,
+      "explanation": "The Dead Sea, located between Israel and Jordan, is so salty that people float on its surface without even trying.",
+      "funFact": "The Dead Sea is almost 10 times saltier than regular ocean water! It is called 'dead' because almost no fish or plants can live in such salty water."
+    },
+    {
+      "id": "oceans-032",
+      "ageGroup": ["8-10", "11-13"],
+      "question": "What is bioluminescence in the ocean?",
+      "options": ["Sunlight reflecting off waves", "The ability of some sea creatures to produce their own light", "Moonlight shining on the water", "Glow from underwater volcanoes"],
+      "correctIndex": 1,
+      "explanation": "Bioluminescence is the ability of certain marine organisms to produce their own light through chemical reactions in their bodies.",
+      "funFact": "About 80% of creatures living in the deep ocean can produce their own light! Some use it to attract prey, find mates, or confuse predators."
+    },
+    {
+      "id": "oceans-033",
+      "ageGroup": ["8-10"],
+      "question": "What type of whale is known for its long, beautiful songs?",
+      "options": ["Blue Whale", "Sperm Whale", "Humpback Whale", "Beluga Whale"],
+      "correctIndex": 2,
+      "explanation": "Humpback Whales are famous for their long, complex songs that can last for hours. Only male humpbacks sing these songs.",
+      "funFact": "A Humpback Whale's song can travel thousands of kilometres through the ocean! All the males in one area sing the same song, and the song changes every year."
+    },
+    {
+      "id": "oceans-034",
+      "ageGroup": ["8-10"],
+      "question": "What is the Ring of Fire?",
+      "options": ["A circle of coral reefs", "An area of frequent earthquakes and volcanic eruptions around the Pacific Ocean", "A warm ocean current", "A circle of tropical islands"],
+      "correctIndex": 1,
+      "explanation": "The Ring of Fire is a horseshoe-shaped area around the Pacific Ocean where many earthquakes and volcanic eruptions happen.",
+      "funFact": "About 75% of the world's active volcanoes are located along the Ring of Fire, and about 90% of the world's earthquakes happen there!"
+    },
+    {
+      "id": "oceans-035",
+      "ageGroup": ["8-10"],
+      "question": "What is the Great Pacific Garbage Patch?",
+      "options": ["A recycling centre in the Pacific", "A large area of floating plastic and trash in the Pacific Ocean", "A patch of seaweed in the Pacific", "A group of rocky islands"],
+      "correctIndex": 1,
+      "explanation": "The Great Pacific Garbage Patch is a huge collection of floating plastic and marine debris in the North Pacific Ocean, gathered together by ocean currents.",
+      "funFact": "The Great Pacific Garbage Patch is estimated to be twice the size of Texas! Most of the debris is tiny pieces of microplastic that are hard to see."
+    },
+    {
+      "id": "oceans-036",
+      "ageGroup": ["8-10"],
+      "question": "Which of the following animals is a mammal, not a fish?",
+      "options": ["Clownfish", "Whale Shark", "Sea Horse", "Seal"],
+      "correctIndex": 3,
+      "explanation": "Seals are marine mammals. They breathe air, are warm-blooded, and feed their babies milk, just like other mammals.",
+      "funFact": "Seals can hold their breath for up to 2 hours while diving! Elephant Seals can dive more than 1,500 metres deep to find food."
+    },
+    {
+      "id": "oceans-037",
+      "ageGroup": ["8-10", "11-13"],
+      "question": "What is plankton?",
+      "options": ["A type of seaweed", "Tiny organisms that drift in the ocean and form the base of the food chain", "Baby fish", "Small rocks on the ocean floor"],
+      "correctIndex": 1,
+      "explanation": "Plankton are tiny organisms, both plant-like (phytoplankton) and animal-like (zooplankton), that drift in the ocean. They form the base of the ocean food chain.",
+      "funFact": "Phytoplankton produce about 50% of all the oxygen on Earth through photosynthesis. Every other breath you take comes from these tiny ocean organisms!"
+    },
+    {
+      "id": "oceans-038",
+      "ageGroup": ["8-10"],
+      "question": "Which Indian island group is known for its beautiful coral reefs?",
+      "options": ["Andaman and Nicobar Islands", "Lakshadweep Islands", "Both of these", "Neither of these"],
+      "correctIndex": 2,
+      "explanation": "Both the Andaman and Nicobar Islands and the Lakshadweep Islands have beautiful coral reefs. Lakshadweep is actually a group of coral atolls!",
+      "funFact": "Lakshadweep means 'a hundred thousand islands' in Sanskrit. These islands are actually the tops of ancient coral reefs that grew up from the ocean floor!"
+    },
+    {
+      "id": "oceans-039",
+      "ageGroup": ["11-13"],
+      "question": "What is ocean acidification?",
+      "options": ["The ocean becoming fresher due to ice melting", "The ocean absorbing excess carbon dioxide, making it more acidic", "Pollution from factories flowing into the ocean", "Volcanic eruptions releasing acid into the sea"],
+      "correctIndex": 1,
+      "explanation": "Ocean acidification occurs when the ocean absorbs excess carbon dioxide (CO2) from the atmosphere, which reacts with seawater to form carbonic acid, lowering the ocean's pH.",
+      "funFact": "Since the Industrial Revolution, the ocean has become about 30% more acidic. This makes it harder for shellfish, corals, and some plankton to build their shells and skeletons!"
+    },
+    {
+      "id": "oceans-040",
+      "ageGroup": ["11-13"],
+      "question": "Who was the first person to reach the bottom of the Mariana Trench?",
+      "options": ["James Cameron", "Jacques Cousteau", "Jacques Piccard and Don Walsh", "Robert Ballard"],
+      "correctIndex": 2,
+      "explanation": "In 1960, Jacques Piccard and Don Walsh descended to the bottom of the Mariana Trench in the bathyscaphe Trieste, reaching a depth of about 10,916 metres.",
+      "funFact": "When Piccard and Walsh reached the bottom, they were amazed to see a flatfish swimming. This proved that life exists even at the most extreme depths of the ocean!"
+    },
+    {
+      "id": "oceans-041",
+      "ageGroup": ["11-13"],
+      "question": "What is a hydrothermal vent?",
+      "options": ["A hole in the ocean floor that releases cold fresh water", "A crack in the ocean floor that releases superheated mineral-rich water", "An underwater volcano that erupts regularly", "A deep ocean cave system"],
+      "correctIndex": 1,
+      "explanation": "Hydrothermal vents are cracks in the ocean floor where seawater seeps down, gets superheated by magma, and shoots back up loaded with minerals.",
+      "funFact": "Water coming out of hydrothermal vents can be over 400 degrees Celsius! Unique ecosystems thrive there, powered by chemicals instead of sunlight."
+    },
+    {
+      "id": "oceans-042",
+      "ageGroup": ["11-13"],
+      "question": "What is thermohaline circulation?",
+      "options": ["Waves caused by underwater earthquakes", "A global system of deep ocean currents driven by differences in water temperature and salinity", "The circular pattern of surface waves", "Water movement caused by tides"],
+      "correctIndex": 1,
+      "explanation": "Thermohaline circulation is a global system of deep ocean currents driven by differences in water density, which is affected by temperature (thermo) and salt content (haline).",
+      "funFact": "Thermohaline circulation is sometimes called the global ocean conveyor belt. It takes about 1,000 years for water to complete one full loop around the world!"
+    },
+    {
+      "id": "oceans-043",
+      "ageGroup": ["11-13"],
+      "question": "What causes a spring tide?",
+      "options": ["Strong winds during the spring season", "The Sun, Moon, and Earth lining up during full and new moons", "Warm water from spring rivers entering the ocean", "Underwater volcanic activity in spring"],
+      "correctIndex": 1,
+      "explanation": "Spring tides occur when the Sun, Moon, and Earth are aligned (during full and new moons), combining their gravitational pull to create extra high and extra low tides.",
+      "funFact": "Spring tides have nothing to do with the spring season! The name comes from the German word 'springen' meaning to leap, because the water seems to leap up higher."
+    },
+    {
+      "id": "oceans-044",
+      "ageGroup": ["11-13"],
+      "question": "What is the abyssal zone of the ocean?",
+      "options": ["The surface layer warmed by the sun", "The zone between 200-1,000 metres deep", "The deep ocean zone between about 4,000-6,000 metres deep", "The zone inside ocean trenches"],
+      "correctIndex": 2,
+      "explanation": "The abyssal zone lies between roughly 4,000 and 6,000 metres deep. It is completely dark, near freezing, and under immense pressure.",
+      "funFact": "The abyssal zone covers about 60% of Earth's surface, making it the largest habitat on the planet. Yet it remains one of the least explored places on Earth!"
+    },
+    {
+      "id": "oceans-045",
+      "ageGroup": ["11-13"],
+      "question": "What is El Nino?",
+      "options": ["A type of tropical fish found in the Pacific", "A periodic warming of sea surface temperatures in the central and eastern Pacific Ocean", "A permanent warm current near Australia", "A hurricane that forms near the equator"],
+      "correctIndex": 1,
+      "explanation": "El Nino is a climate pattern where sea surface temperatures in the central and eastern Pacific Ocean become unusually warm, affecting weather patterns worldwide.",
+      "funFact": "El Nino means 'The Little Boy' or 'Christ Child' in Spanish because South American fishermen noticed the warm waters often appeared around Christmas time!"
+    },
+    {
+      "id": "oceans-046",
+      "ageGroup": ["11-13"],
+      "question": "What is the continental shelf?",
+      "options": ["The deepest part of the ocean floor", "The gently sloping underwater edge of a continent", "A flat area in the middle of the ocean", "The ridge between two tectonic plates"],
+      "correctIndex": 1,
+      "explanation": "The continental shelf is the gently sloping underwater edge of a continent that extends from the shoreline to where the ocean floor drops steeply into the deep ocean.",
+      "funFact": "Even though continental shelves make up only about 8% of the ocean floor, they are incredibly important. About 90% of all fish caught commercially come from waters above the continental shelf!"
+    },
+    {
+      "id": "oceans-047",
+      "ageGroup": ["11-13"],
+      "question": "What role do mangrove forests play in the ocean ecosystem?",
+      "options": ["They produce most of the ocean's oxygen", "They act as nurseries for marine life and protect coastlines from erosion and storms", "They filter salt out of ocean water", "They create coral reefs"],
+      "correctIndex": 1,
+      "explanation": "Mangrove forests grow along tropical coastlines and serve as nurseries for young fish and other marine life. Their roots also protect shorelines from erosion, waves, and storm surges.",
+      "funFact": "India's Sundarbans is the largest mangrove forest in the world, covering about 10,000 square kilometres across India and Bangladesh. It is home to the famous Bengal Tiger!"
+    },
+    {
+      "id": "oceans-048",
+      "ageGroup": ["11-13"],
+      "question": "Who is known as the father of modern oceanography?",
+      "options": ["Charles Darwin", "Jacques Cousteau", "Matthew Fontaine Maury", "Alexander von Humboldt"],
+      "correctIndex": 2,
+      "explanation": "Matthew Fontaine Maury, a 19th-century American naval officer, is often called the father of modern oceanography. He created detailed maps of ocean winds and currents.",
+      "funFact": "Maury's work mapping ocean currents saved ships many days of travel time. His book 'The Physical Geography of the Sea' published in 1855 was the first major textbook on oceanography!"
+    },
+    {
+      "id": "oceans-049",
+      "ageGroup": ["11-13"],
+      "question": "What is coral bleaching?",
+      "options": ["Coral turning white because humans paint it", "Coral expelling the algae living in it due to stress from warm water, causing it to turn white", "Coral naturally changing colour with the seasons", "Coral absorbing too much sunlight"],
+      "correctIndex": 1,
+      "explanation": "Coral bleaching happens when stressed corals (usually from warm water) expel the colourful algae (zooxanthellae) living in their tissues, turning the coral white.",
+      "funFact": "The algae that live inside coral provide up to 90% of the coral's energy through photosynthesis. Without them, the coral can starve and die if conditions do not improve!"
+    },
+    {
+      "id": "oceans-050",
+      "ageGroup": ["11-13", "8-10"],
+      "question": "What is the Sargasso Sea unique for?",
+      "options": ["It is the saltiest sea in the world", "It is the only sea with no land boundaries, defined by ocean currents", "It is the smallest sea on Earth", "It freezes completely every winter"],
+      "correctIndex": 1,
+      "explanation": "The Sargasso Sea in the North Atlantic is the only sea in the world that has no land boundaries. It is defined by four ocean currents that circulate around it.",
+      "funFact": "The Sargasso Sea is named after Sargassum, a type of floating seaweed that covers its surface. European eels travel thousands of kilometres to lay their eggs there!"
+    }
+  ]
+}
