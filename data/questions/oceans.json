@@ -450,6 +450,231 @@
       "correctIndex": 1,
       "explanation": "The Sargasso Sea in the North Atlantic is the only sea in the world that has no land boundaries. It is defined by four ocean currents that circulate around it.",
       "funFact": "The Sargasso Sea is named after Sargassum, a type of floating seaweed that covers its surface. European eels travel thousands of kilometres to lay their eggs there!"
+    },
+    {
+      "id": "oceans-051",
+      "ageGroup": ["5-7"],
+      "question": "What is the hard, protective home that a hermit crab carries on its back?",
+      "options": ["A rock", "A shell from another animal", "A piece of coral", "A coconut"],
+      "correctIndex": 1,
+      "explanation": "Hermit crabs do not grow their own shells. Instead, they find empty shells from other animals, like snails, and carry them on their backs for protection.",
+      "funFact": "When a hermit crab outgrows its shell, it has to find a bigger one! Sometimes hermit crabs line up by size and swap shells in a chain so everyone gets an upgrade."
+    },
+    {
+      "id": "oceans-052",
+      "ageGroup": ["5-7"],
+      "question": "What do we call the place where the ocean meets the land?",
+      "options": ["A mountain", "A coast", "A valley", "A desert"],
+      "correctIndex": 1,
+      "explanation": "The coast is the place where the ocean meets the land. Beaches, cliffs, and rocky shores are all types of coastline.",
+      "funFact": "If you added up all the coastlines in the world, they would stretch over 1.6 million kilometres. That is enough to go around the Earth more than 40 times!"
+    },
+    {
+      "id": "oceans-053",
+      "ageGroup": ["5-7"],
+      "question": "How do dolphins talk to each other?",
+      "options": ["By changing colour", "By making clicks and whistles", "By waving their fins", "By blowing bubbles"],
+      "correctIndex": 1,
+      "explanation": "Dolphins communicate with each other using a variety of clicks, whistles, and squeaks. Each dolphin even has its own special whistle, like a name!",
+      "funFact": "Scientists have discovered that every dolphin develops its own unique signature whistle as a baby. Other dolphins use that whistle to call them, just like calling someone by name!"
+    },
+    {
+      "id": "oceans-054",
+      "ageGroup": ["5-7"],
+      "question": "What is the biggest type of shark?",
+      "options": ["Great White Shark", "Hammerhead Shark", "Whale Shark", "Tiger Shark"],
+      "correctIndex": 2,
+      "explanation": "The Whale Shark is the biggest shark and the biggest fish in the world. It can grow up to 12 metres long or even more!",
+      "funFact": "Even though Whale Sharks are enormous, they are very gentle and eat only tiny plankton and small fish. They are sometimes called gentle giants of the sea!"
+    },
+    {
+      "id": "oceans-055",
+      "ageGroup": ["5-7"],
+      "question": "What ocean animal has a body shaped like a star?",
+      "options": ["Jellyfish", "Starfish", "Seahorse", "Pufferfish"],
+      "correctIndex": 1,
+      "explanation": "A starfish, also called a sea star, has a body shaped like a star. Most starfish have five arms, but some can have up to 40!",
+      "funFact": "If a starfish loses one of its arms, it can grow a brand new one! Some starfish can even regrow their entire body from just one arm."
+    },
+    {
+      "id": "oceans-056",
+      "ageGroup": ["5-7"],
+      "question": "What do whales spray out of the hole on top of their heads?",
+      "options": ["Ocean water", "Warm air and a little bit of water", "Ink", "Sand"],
+      "correctIndex": 1,
+      "explanation": "Whales breathe through a blowhole on top of their heads. When they come to the surface, they blow out warm air that mixes with cool air and looks like a big spray or mist.",
+      "funFact": "A Blue Whale's blowhole spray can shoot up to 9 metres in the air. That is almost as tall as a three-storey building!"
+    },
+    {
+      "id": "oceans-057",
+      "ageGroup": ["5-7"],
+      "question": "What are the tiny, colourful fish that live inside sea anemones?",
+      "options": ["Goldfish", "Clownfish", "Swordfish", "Flying fish"],
+      "correctIndex": 1,
+      "explanation": "Clownfish live inside sea anemones. The anemone's stinging tentacles protect the clownfish, and in return, the clownfish keeps the anemone clean.",
+      "funFact": "Clownfish have a special slimy coating on their bodies that protects them from the anemone's sting. Without this coating, the anemone would sting them just like any other fish!"
+    },
+    {
+      "id": "oceans-058",
+      "ageGroup": ["5-7"],
+      "question": "Where do penguins live in the wild?",
+      "options": ["The North Pole", "In warm tropical oceans", "In the Southern Hemisphere, mostly near Antarctica", "In rivers and lakes"],
+      "correctIndex": 2,
+      "explanation": "Penguins live in the Southern Hemisphere, with many species found near Antarctica. They are excellent swimmers even though they cannot fly!",
+      "funFact": "Emperor Penguins can hold their breath for over 20 minutes and dive more than 500 metres deep to catch fish. That is deeper than most submarines go!"
+    },
+    {
+      "id": "oceans-059",
+      "ageGroup": ["8-10"],
+      "question": "What is the Twilight Zone of the ocean?",
+      "options": ["The zone right at the surface", "The zone between 200 and 1,000 metres deep where very little light reaches", "The zone at the very bottom of the ocean", "The zone where ocean meets freshwater"],
+      "correctIndex": 1,
+      "explanation": "The Twilight Zone, also called the Mesopelagic Zone, lies between 200 and 1,000 metres deep. Only a tiny amount of sunlight reaches this zone, creating a dim, twilight-like environment.",
+      "funFact": "Scientists estimate there may be more fish in the Twilight Zone than in all the rest of the ocean combined. Many of these fish migrate to the surface at night to feed!"
+    },
+    {
+      "id": "oceans-060",
+      "ageGroup": ["8-10"],
+      "question": "What is a kelp forest?",
+      "options": ["A forest of trees growing in shallow water", "A dense underwater area of tall seaweed called kelp", "A type of coral reef", "Seaweed floating on the surface"],
+      "correctIndex": 1,
+      "explanation": "Kelp forests are dense underwater areas of tall brown seaweed called kelp. They grow in cool, shallow waters and provide shelter and food for many marine animals.",
+      "funFact": "Giant kelp can grow up to 60 centimetres in a single day, making it one of the fastest growing organisms on Earth! Some kelp forests can be as tall as a 15-storey building."
+    },
+    {
+      "id": "oceans-061",
+      "ageGroup": ["8-10"],
+      "question": "Which strait separates Asia from North America?",
+      "options": ["Strait of Gibraltar", "Strait of Malacca", "Bering Strait", "Strait of Hormuz"],
+      "correctIndex": 2,
+      "explanation": "The Bering Strait separates Asia (Russia) from North America (Alaska). It is only about 85 kilometres wide at its narrowest point.",
+      "funFact": "During the last Ice Age, the Bering Strait was dry land because sea levels were much lower. Ancient humans are believed to have walked across this land bridge from Asia to North America!"
+    },
+    {
+      "id": "oceans-062",
+      "ageGroup": ["8-10"],
+      "question": "What causes waves in the ocean?",
+      "options": ["Fish swimming near the surface", "Wind blowing across the surface of the water", "The Moon pulling the water", "Heat from the Sun"],
+      "correctIndex": 1,
+      "explanation": "Most ocean waves are caused by wind blowing across the surface of the water. The stronger the wind blows and the longer it blows, the bigger the waves become.",
+      "funFact": "The tallest wave ever recorded by a buoy was about 19 metres high in the North Atlantic Ocean in 2013. That is taller than a six-storey building!"
+    },
+    {
+      "id": "oceans-063",
+      "ageGroup": ["8-10"],
+      "question": "How long can a sea turtle hold its breath underwater?",
+      "options": ["About 5 minutes", "About 30 minutes", "Up to 5 hours", "Up to 24 hours"],
+      "correctIndex": 2,
+      "explanation": "Sea turtles can hold their breath for up to 5 hours while resting or sleeping underwater, though they usually come up more often when they are active.",
+      "funFact": "Sea turtles have been around for over 100 million years, which means they lived alongside the dinosaurs! They are one of the oldest groups of reptiles on Earth."
+    },
+    {
+      "id": "oceans-064",
+      "ageGroup": ["8-10"],
+      "question": "What is an ocean current?",
+      "options": ["A wave that crashes on the shore", "A continuous flow of water in a certain direction through the ocean", "A whirlpool at the bottom of the sea", "The tide going in and out"],
+      "correctIndex": 1,
+      "explanation": "An ocean current is a continuous, directed flow of ocean water. Currents are caused by wind, differences in water temperature and salinity, and the rotation of the Earth.",
+      "funFact": "Ocean currents move huge amounts of water around the planet. The Antarctic Circumpolar Current carries 100 times more water than all the rivers in the world combined!"
+    },
+    {
+      "id": "oceans-065",
+      "ageGroup": ["8-10"],
+      "question": "What are microplastics?",
+      "options": ["Very tiny pieces of plastic less than 5 millimetres in size", "Plastic toys shaped like sea creatures", "Biodegradable plastic bags", "Plastic that dissolves in salt water"],
+      "correctIndex": 0,
+      "explanation": "Microplastics are tiny pieces of plastic less than 5 millimetres in size. They come from larger plastic items breaking down or from products like cosmetics and synthetic clothing.",
+      "funFact": "Scientists have found microplastics everywhere in the ocean, from the surface to the bottom of the Mariana Trench. They have even been found inside deep-sea creatures and Arctic ice!"
+    },
+    {
+      "id": "oceans-066",
+      "ageGroup": ["8-10"],
+      "question": "What is an atoll?",
+      "options": ["A type of whale", "A deep ocean trench", "A ring-shaped coral reef surrounding a lagoon", "An underwater cave"],
+      "correctIndex": 2,
+      "explanation": "An atoll is a ring-shaped coral reef, island, or chain of islands that surrounds a shallow lagoon. Atolls form when coral grows around a volcanic island that later sinks below the surface.",
+      "funFact": "The Maldives in the Indian Ocean is made up of 26 atolls with over 1,000 coral islands. The entire country is less than 2.4 metres above sea level, making it the flattest country on Earth!"
+    },
+    {
+      "id": "oceans-067",
+      "ageGroup": ["11-13"],
+      "question": "What are chemosynthetic organisms?",
+      "options": ["Organisms that get energy from sunlight", "Organisms that get energy from chemical reactions rather than sunlight", "Organisms that eat other deep-sea creatures", "Organisms that produce electricity"],
+      "correctIndex": 1,
+      "explanation": "Chemosynthetic organisms produce energy through chemical reactions, often using hydrogen sulphide or methane, instead of relying on sunlight like plants do through photosynthesis.",
+      "funFact": "Entire ecosystems around hydrothermal vents are powered by chemosynthesis. Giant tube worms living near these vents can grow up to 2 metres long and have no mouth or stomach. They rely entirely on chemosynthetic bacteria living inside them!"
+    },
+    {
+      "id": "oceans-068",
+      "ageGroup": ["11-13"],
+      "question": "What is the scientific term for the salt content of ocean water?",
+      "options": ["Acidity", "Alkalinity", "Salinity", "Density"],
+      "correctIndex": 2,
+      "explanation": "Salinity is the scientific term for the concentration of dissolved salts in water. The average salinity of ocean water is about 35 parts per thousand, meaning every kilogram of seawater contains about 35 grams of salt.",
+      "funFact": "The saltiest body of water on Earth is not the Dead Sea but actually Don Juan Pond in Antarctica, which has a salinity of over 400 parts per thousand. It is so salty that it never freezes, even at minus 50 degrees Celsius!"
+    },
+    {
+      "id": "oceans-069",
+      "ageGroup": ["11-13"],
+      "question": "What is a marine protected area (MPA)?",
+      "options": ["An aquarium that rescues injured sea animals", "A section of the ocean where human activity is restricted to protect ecosystems", "A beach that is closed to tourists", "A harbour where ships are repaired"],
+      "correctIndex": 1,
+      "explanation": "A Marine Protected Area is a clearly defined section of the ocean where human activities such as fishing, drilling, and development are regulated or restricted to conserve marine ecosystems and biodiversity.",
+      "funFact": "As of recent years, only about 8% of the world's oceans are designated as marine protected areas. Scientists recommend protecting at least 30% of the ocean by 2030 to maintain healthy marine ecosystems!"
+    },
+    {
+      "id": "oceans-070",
+      "ageGroup": ["11-13"],
+      "question": "How do tectonic plates create mid-ocean ridges?",
+      "options": ["Two plates collide and push upward", "Two plates slide past each other horizontally", "Two plates pull apart and magma rises to fill the gap", "A single plate folds over on itself"],
+      "correctIndex": 2,
+      "explanation": "Mid-ocean ridges form at divergent plate boundaries where two tectonic plates pull apart. As they separate, magma rises from beneath the Earth's crust to fill the gap, creating new ocean floor.",
+      "funFact": "The process of new ocean floor being created at mid-ocean ridges is called seafloor spreading. It was first proposed by Harry Hess in the 1960s and helped prove the theory of plate tectonics!"
+    },
+    {
+      "id": "oceans-071",
+      "ageGroup": ["11-13"],
+      "question": "What is the role of the ocean in regulating Earth's climate?",
+      "options": ["The ocean has very little effect on climate", "The ocean absorbs and distributes heat and absorbs carbon dioxide, regulating global temperatures", "The ocean only affects the climate of coastal areas", "The ocean makes the climate warmer everywhere"],
+      "correctIndex": 1,
+      "explanation": "The ocean plays a crucial role in regulating Earth's climate by absorbing about 90% of excess heat and roughly 25% of carbon dioxide produced by human activities. Ocean currents also distribute heat around the planet.",
+      "funFact": "The top 3 metres of the ocean hold as much heat energy as the entire atmosphere! Without the ocean absorbing excess heat, average global temperatures would be much higher than they are today."
+    },
+    {
+      "id": "oceans-072",
+      "ageGroup": ["11-13"],
+      "question": "What is an anoxic dead zone in the ocean?",
+      "options": ["An area with no marine life due to extreme cold", "An area with very low oxygen levels where most marine life cannot survive", "A region with extremely high salinity", "The deepest part of an ocean trench"],
+      "correctIndex": 1,
+      "explanation": "Anoxic dead zones are areas in the ocean with very low dissolved oxygen levels (hypoxia). They are often caused by excess nutrients from agricultural runoff that trigger algal blooms, which consume oxygen as they decompose.",
+      "funFact": "One of the largest dead zones in the world forms every summer in the Gulf of Mexico, caused by fertiliser runoff from farms along the Mississippi River. It can grow to the size of the state of New Jersey!"
+    },
+    {
+      "id": "oceans-073",
+      "ageGroup": ["11-13"],
+      "question": "What is the Coriolis effect and how does it influence ocean currents?",
+      "options": ["It is the warming of water near the equator that drives currents", "It is the deflection of moving objects caused by Earth's rotation, causing currents to curve", "It is the gravitational pull of the Moon on ocean water", "It is the effect of wind speed on wave height"],
+      "correctIndex": 1,
+      "explanation": "The Coriolis effect is caused by Earth's rotation. It deflects moving objects, including ocean currents, to the right in the Northern Hemisphere and to the left in the Southern Hemisphere, creating large circular current patterns called gyres.",
+      "funFact": "The Coriolis effect is the reason that hurricanes spin counterclockwise in the Northern Hemisphere and clockwise in the Southern Hemisphere. Right on the equator, the Coriolis effect is zero!"
+    },
+    {
+      "id": "oceans-074",
+      "ageGroup": ["11-13"],
+      "question": "What are submarine canyons?",
+      "options": ["Caves formed inside coral reefs", "Deep, V-shaped valleys cut into the continental shelf and slope", "Tunnels dug by marine animals", "Flat plains on the deep ocean floor"],
+      "correctIndex": 1,
+      "explanation": "Submarine canyons are deep, steep-walled valleys cut into the continental shelf and slope. They are often formed by turbidity currents, which are underwater landslides of sediment, or by ancient rivers when sea levels were lower.",
+      "funFact": "The Monterey Canyon off the coast of California is as deep and large as the Grand Canyon! It plunges nearly 2,000 metres below the ocean surface and is home to a rich variety of marine life."
+    },
+    {
+      "id": "oceans-075",
+      "ageGroup": ["11-13"],
+      "question": "How does sea level rise from climate change threaten coastal ecosystems?",
+      "options": ["It only affects human buildings, not natural ecosystems", "It can flood wetlands, erode beaches, increase saltwater intrusion, and destroy habitats", "It makes the ocean cleaner and healthier", "It only raises sea levels by a few millimetres so it has no real effect"],
+      "correctIndex": 1,
+      "explanation": "Sea level rise caused by melting ice sheets and thermal expansion of warming water threatens coastal ecosystems by flooding wetlands and marshes, eroding beaches, increasing saltwater intrusion into freshwater habitats, and destroying nesting areas for sea turtles and shorebirds.",
+      "funFact": "Global sea levels have risen about 20 centimetres since 1900 and the rate is accelerating. Some low-lying island nations like Tuvalu and the Marshall Islands may become uninhabitable within this century if the trend continues!"
     }
   ]
 }

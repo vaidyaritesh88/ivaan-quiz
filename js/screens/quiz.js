@@ -1,4 +1,4 @@
-import { loadQuestions } from '../data/loader.js';
+import { loadQuestions, loadAllQuestions } from '../data/loader.js';
 import { generateMathQuestions } from '../data/math-generator.js';
 import { shuffle, pickRandom } from '../utils/shuffle.js';
 
@@ -31,6 +31,9 @@ export async function init({ showScreen }, data = {}) {
 
   if (topic.type === 'generated') {
     questions = generateMathQuestions(ageGroup, questionCount);
+  } else if (topic.type === 'mixed') {
+    const allQuestions = await loadAllQuestions(ageGroup);
+    questions = pickRandom(allQuestions, Math.min(questionCount, allQuestions.length));
   } else {
     const allQuestions = await loadQuestions(topic.dataFile, ageGroup, topic.id);
     questions = pickRandom(allQuestions, Math.min(questionCount, allQuestions.length));
@@ -40,7 +43,7 @@ export async function init({ showScreen }, data = {}) {
   quizConfig.questionCount = questions.length;
 
   // Shuffle options for static questions (math already shuffled)
-  if (topic.type === 'static') {
+  if (topic.type === 'static' || topic.type === 'mixed') {
     questions = questions.map(q => {
       const indexed = q.options.map((opt, i) => ({ opt, isCorrect: i === q.correctIndex }));
       const shuffled = shuffle(indexed);

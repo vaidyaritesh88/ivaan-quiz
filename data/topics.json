@@ -36,13 +36,13 @@
       "dataFile": "questions/animals.json"
     },
     {
-      "id": "indian-monuments",
-      "name": "Indian Monuments",
+      "id": "famous-monuments",
+      "name": "Famous Monuments",
       "emoji": "\ud83c\udfdb\ufe0f",
       "color": "#E67E22",
-      "tagline": "Amazing structures!",
+      "tagline": "Wonders of the world!",
       "type": "static",
-      "dataFile": "questions/indian-monuments.json"
+      "dataFile": "questions/famous-monuments.json"
     },
     {
       "id": "indian-states",
@@ -70,6 +70,14 @@
       "tagline": "Great people of India!",
       "type": "static",
       "dataFile": "questions/indian-personalities.json"
+    },
+    {
+      "id": "overall",
+      "name": "Overall Mix",
+      "emoji": "\ud83c\udfaf",
+      "color": "#8E44AD",
+      "tagline": "Test everything you know!",
+      "type": "mixed"
     }
   ]
 }

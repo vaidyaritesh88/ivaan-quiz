@@ -1,4 +1,4 @@
-const CACHE_NAME = 'ivaan-quiz-v1';
+const CACHE_NAME = 'ivaan-quiz-v3';
 
 const ASSETS = [
   './',
@@ -20,7 +20,7 @@ const ASSETS = [
   './data/questions/authors.json',
   './data/questions/space.json',
   './data/questions/animals.json',
-  './data/questions/indian-monuments.json',
+  './data/questions/famous-monuments.json',
   './data/questions/indian-states.json',
   './data/questions/oceans.json',
   './data/questions/indian-personalities.json',
@@ -47,11 +47,19 @@ self.addEventListener('activate', (event) => {
   self.clients.claim();
 });
 
-// Fetch: cache-first strategy
+// Fetch: network-first strategy (try network, fall back to cache)
 self.addEventListener('fetch', (event) => {
   event.respondWith(
-    caches.match(event.request).then((cached) => {
-      return cached || fetch(event.request);
-    })
+    fetch(event.request)
+      .then((response) => {
+        // Update cache with fresh response
+        const clone = response.clone();
+        caches.open(CACHE_NAME).then((cache) => cache.put(event.request, clone));
+        return response;
+      })
+      .catch(() => {
+        // Network failed, serve from cache
+        return caches.match(event.request);
+      })
   );
 });

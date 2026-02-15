@@ -450,6 +450,231 @@
       "correctIndex": 1,
       "explanation": "BR Ambedkar was born into an untouchable Dalit family and faced severe caste discrimination. Despite this, he earned multiple doctorates abroad and shaped modern India's Constitution and laws.",
       "funFact": "Ambedkar's personal library had over 50,000 books, making it one of the largest private libraries in the world at that time!"
+    },
+    {
+      "id": "indian-personalities-051",
+      "ageGroup": ["5-7"],
+      "question": "Which Indian leader is called 'Bapu' by everyone?",
+      "options": ["Jawaharlal Nehru", "Mahatma Gandhi", "Sardar Patel", "Bhagat Singh"],
+      "correctIndex": 1,
+      "explanation": "Mahatma Gandhi is lovingly called 'Bapu,' which means 'father' in Gujarati. People call him this because he is the Father of the Nation.",
+      "funFact": "Gandhi always walked with a simple wooden walking stick and wore clothes made from cloth he spun himself on a charkha!"
+    },
+    {
+      "id": "indian-personalities-052",
+      "ageGroup": ["5-7"],
+      "question": "Which Indian captain led the cricket team to win the 2011 World Cup?",
+      "options": ["Sachin Tendulkar", "Virat Kohli", "MS Dhoni", "Rohit Sharma"],
+      "correctIndex": 2,
+      "explanation": "MS Dhoni captained the Indian cricket team to victory in the 2011 Cricket World Cup. He hit the winning six in the final match!",
+      "funFact": "Before becoming a cricketer, Dhoni worked as a train ticket collector at a railway station in Jharkhand!"
+    },
+    {
+      "id": "indian-personalities-053",
+      "ageGroup": ["5-7"],
+      "question": "Who was India's first woman Prime Minister?",
+      "options": ["Sarojini Naidu", "Pratibha Patil", "Indira Gandhi", "Sonia Gandhi"],
+      "correctIndex": 2,
+      "explanation": "Indira Gandhi became India's first woman Prime Minister in 1966. She was the daughter of Jawaharlal Nehru and led the country for many years.",
+      "funFact": "Indira Gandhi's pet name as a child was 'Priyadarshini,' which means 'one who is pleasing to look at'!"
+    },
+    {
+      "id": "indian-personalities-054",
+      "ageGroup": ["5-7"],
+      "question": "Which Indian gymnast became famous for winning a bronze medal at the Olympics?",
+      "options": ["Dipa Karmakar", "PV Sindhu", "Saina Nehwal", "Mary Kom"],
+      "correctIndex": 0,
+      "explanation": "Dipa Karmakar is a famous Indian gymnast who came very close to winning a medal at the 2016 Olympics and inspired millions with her performances.",
+      "funFact": "Dipa was born with flat feet, which doctors said would make gymnastics very difficult, but she practised so hard that she overcame this challenge!"
+    },
+    {
+      "id": "indian-personalities-055",
+      "ageGroup": ["5-7"],
+      "question": "What animal did Jawaharlal Nehru love and keep at his home?",
+      "options": ["Dogs", "Cats", "Roses and pandas at the zoo", "Parrots"],
+      "correctIndex": 2,
+      "explanation": "Jawaharlal Nehru loved roses and always wore one on his jacket. He also loved animals and enjoyed visiting the zoo, especially to see pandas.",
+      "funFact": "Nehru received many gifts from world leaders, including a baby elephant and a panda, which he donated to Indian zoos for everyone to enjoy!"
+    },
+    {
+      "id": "indian-personalities-056",
+      "ageGroup": ["5-7"],
+      "question": "Which Indian king was known as 'Chhatrapati' and established a great kingdom in Maharashtra?",
+      "options": ["Akbar", "Shivaji Maharaj", "Ashoka", "Prithviraj Chauhan"],
+      "correctIndex": 1,
+      "explanation": "Chhatrapati Shivaji Maharaj built the great Maratha Empire in Maharashtra. He was a brave and clever king who cared for his people.",
+      "funFact": "Shivaji built over 300 forts across Maharashtra, many of them on top of tall mountains that are still standing today!"
+    },
+    {
+      "id": "indian-personalities-057",
+      "ageGroup": ["5-7"],
+      "question": "Which Indian woman wrestler won medals at the Olympics and Commonwealth Games?",
+      "options": ["Saina Nehwal", "Sakshi Malik", "PV Sindhu", "Hima Das"],
+      "correctIndex": 1,
+      "explanation": "Sakshi Malik won a bronze medal in wrestling at the 2016 Rio Olympics. She was the first Indian woman wrestler to win an Olympic medal.",
+      "funFact": "Sakshi started wrestling when she was just 12 years old at a local akhara (wrestling arena) in her village in Haryana!"
+    },
+    {
+      "id": "indian-personalities-058",
+      "ageGroup": ["5-7"],
+      "question": "Which great Indian emperor gave up war and violence after seeing the suffering it caused?",
+      "options": ["Akbar", "Chandragupta", "Ashoka", "Shivaji"],
+      "correctIndex": 2,
+      "explanation": "Emperor Ashoka gave up violence after the terrible Kalinga War and adopted Buddhism. He then spread messages of peace and kindness across his empire.",
+      "funFact": "The Ashoka Chakra on India's national flag is named after Emperor Ashoka, and the national emblem of India is also from his time!"
+    },
+    {
+      "id": "indian-personalities-059",
+      "ageGroup": ["8-10"],
+      "question": "Which Indian mathematician is known for his extraordinary contributions to number theory despite having no formal training?",
+      "options": ["Aryabhata", "Srinivasa Ramanujan", "Brahmagupta", "Shakuntala Devi"],
+      "correctIndex": 1,
+      "explanation": "Srinivasa Ramanujan was a self-taught mathematical genius from Tamil Nadu. He made amazing discoveries in number theory and infinite series.",
+      "funFact": "Ramanujan wrote letters to famous British mathematician GH Hardy, who was so amazed that he invited Ramanujan to Cambridge University in England!"
+    },
+    {
+      "id": "indian-personalities-060",
+      "ageGroup": ["8-10"],
+      "question": "Which Indian social reformer worked to abolish the practice of Sati and promote women's rights in the 1800s?",
+      "options": ["Swami Vivekananda", "Ishwar Chandra Vidyasagar", "Raja Ram Mohan Roy", "Dayananda Saraswati"],
+      "correctIndex": 2,
+      "explanation": "Raja Ram Mohan Roy is called the Father of the Indian Renaissance. He fought to ban Sati, the practice of burning widows, and worked to modernise Indian society.",
+      "funFact": "Raja Ram Mohan Roy could speak many languages including Bengali, Persian, Arabic, Sanskrit, English, French, Latin, Greek, and Hebrew!"
+    },
+    {
+      "id": "indian-personalities-061",
+      "ageGroup": ["8-10"],
+      "question": "Who was the revolutionary freedom fighter known by the name 'Chandrashekhar Azad'?",
+      "options": ["A soldier in the British army who switched sides", "A young revolutionary who vowed never to be captured alive by the British", "A spy who worked secretly for India", "A poet who wrote revolutionary songs"],
+      "correctIndex": 1,
+      "explanation": "Chandrashekhar Azad chose the name 'Azad' meaning 'free' because he vowed he would never be captured by the British. He was a brave revolutionary freedom fighter.",
+      "funFact": "When Azad was just 15, a magistrate asked his name, and he replied 'Azad' (free), his father's name as 'Swatantrata' (independence), and his address as 'jail'!"
+    },
+    {
+      "id": "indian-personalities-062",
+      "ageGroup": ["8-10"],
+      "question": "Which Indian chess player became the youngest ever World Chess Champion at age 18?",
+      "options": ["Viswanathan Anand", "D Gukesh", "Rameshbabu Praggnanandhaa", "Koneru Humpy"],
+      "correctIndex": 1,
+      "explanation": "D Gukesh became the youngest World Chess Champion in history in 2024 at the age of 18, defeating the reigning champion Ding Liren.",
+      "funFact": "Gukesh learned chess from his father when he was just 7 years old and became a Grandmaster at the age of 12!"
+    },
+    {
+      "id": "indian-personalities-063",
+      "ageGroup": ["8-10"],
+      "question": "Which Indian freedom fighter started the Arya Samaj to reform Hindu society?",
+      "options": ["Swami Vivekananda", "Dayananda Saraswati", "Raja Ram Mohan Roy", "Ramakrishna Paramahamsa"],
+      "correctIndex": 1,
+      "explanation": "Swami Dayananda Saraswati founded the Arya Samaj in 1875 to reform Hindu society. He fought against idol worship, caste discrimination, and untouchability.",
+      "funFact": "Dayananda Saraswati's birth name was Mool Shankar, and he left home at the age of 21 to become a wandering monk in search of truth!"
+    },
+    {
+      "id": "indian-personalities-064",
+      "ageGroup": ["8-10"],
+      "question": "Which Indian sprinter is known as the 'Dhing Express' for her achievements in athletics?",
+      "options": ["PT Usha", "Dutee Chand", "Hima Das", "Anju Bobby George"],
+      "correctIndex": 2,
+      "explanation": "Hima Das, from the village of Dhing in Assam, is called the 'Dhing Express.' She was the first Indian to win a gold medal at a World Athletics Championship event.",
+      "funFact": "Hima Das used to play football before her school teacher noticed her speed and encouraged her to try athletics instead!"
+    },
+    {
+      "id": "indian-personalities-065",
+      "ageGroup": ["8-10"],
+      "question": "Shakuntala Devi was famous for her incredible skill in which subject?",
+      "options": ["Science", "Mathematics", "Art", "Music"],
+      "correctIndex": 1,
+      "explanation": "Shakuntala Devi was called the 'Human Computer' because she could solve extremely difficult maths problems in her head faster than a computer.",
+      "funFact": "Shakuntala Devi once multiplied two 13-digit numbers in just 28 seconds, and her answer was confirmed correct by a computer at Imperial College London!"
+    },
+    {
+      "id": "indian-personalities-066",
+      "ageGroup": ["8-10"],
+      "question": "Which Indian leader is remembered for his role in the Kakori Train Robbery during the freedom struggle?",
+      "options": ["Bhagat Singh", "Ram Prasad Bismil", "Subhash Chandra Bose", "Chandrashekhar Azad"],
+      "correctIndex": 1,
+      "explanation": "Ram Prasad Bismil led the Kakori Train Robbery in 1925 to seize British government funds for the freedom movement. He was a poet and revolutionary.",
+      "funFact": "Bismil wrote the famous patriotic poem 'Sarfaroshi Ki Tamanna' (The Desire for Sacrifice), which became an anthem for revolutionaries!"
+    },
+    {
+      "id": "indian-personalities-067",
+      "ageGroup": ["11-13"],
+      "question": "Which Indian economist won the Nobel Prize in Economics for his work on welfare economics and famine?",
+      "options": ["Manmohan Singh", "Amartya Sen", "Raghuram Rajan", "Jagdish Bhagwati"],
+      "correctIndex": 1,
+      "explanation": "Amartya Sen won the Nobel Prize in Economics in 1998 for his contributions to welfare economics. His research showed that famines are caused by inequality, not just lack of food.",
+      "funFact": "Amartya Sen was given his first name by Rabindranath Tagore himself! 'Amartya' means 'immortal' in Sanskrit."
+    },
+    {
+      "id": "indian-personalities-068",
+      "ageGroup": ["11-13"],
+      "question": "Which Indian-born scientist won the Nobel Prize in Physics for his work on the structure of stars?",
+      "options": ["Satyendra Nath Bose", "CV Raman", "Subrahmanyan Chandrasekhar", "Homi Bhabha"],
+      "correctIndex": 2,
+      "explanation": "Subrahmanyan Chandrasekhar won the Nobel Prize in Physics in 1983 for his studies on the structure and evolution of stars. The 'Chandrasekhar limit' is named after him.",
+      "funFact": "NASA named its famous X-ray space telescope the 'Chandra X-ray Observatory' in his honour, and CV Raman was his uncle!"
+    },
+    {
+      "id": "indian-personalities-069",
+      "ageGroup": ["11-13"],
+      "question": "Which Indian-American scientist won the Nobel Prize in Medicine for his work on understanding how cells communicate?",
+      "options": ["Venkatraman Ramakrishnan", "Har Gobind Khorana", "Subrahmanyan Chandrasekhar", "CV Raman"],
+      "correctIndex": 1,
+      "explanation": "Har Gobind Khorana won the Nobel Prize in Physiology or Medicine in 1968 for cracking the genetic code, showing how DNA instructions are read to make proteins.",
+      "funFact": "Khorana was born in a small village in Punjab that had no proper school. He studied under a tree and went on to become one of the greatest scientists ever!"
+    },
+    {
+      "id": "indian-personalities-070",
+      "ageGroup": ["11-13"],
+      "question": "What was the main purpose of Gandhi's Champaran Satyagraha of 1917?",
+      "options": ["To protest the salt tax", "To demand independence from Britain", "To fight for the rights of indigo farmers exploited by British planters", "To protest the partition of Bengal"],
+      "correctIndex": 2,
+      "explanation": "The Champaran Satyagraha was Gandhi's first major civil disobedience movement in India. He fought for the rights of farmers who were forced to grow indigo by British planters.",
+      "funFact": "The Champaran movement was so successful that it made Gandhi a national hero overnight and established satyagraha as a powerful tool for fighting injustice!"
+    },
+    {
+      "id": "indian-personalities-071",
+      "ageGroup": ["11-13"],
+      "question": "Which Indian scientist made groundbreaking contributions to fibre optics and is known as the 'Father of Fibre Optics'?",
+      "options": ["CV Raman", "Narinder Singh Kapany", "Homi Bhabha", "Vikram Sarabhai"],
+      "correctIndex": 1,
+      "explanation": "Narinder Singh Kapany is widely recognised as the Father of Fibre Optics. His pioneering work in the 1950s made modern internet and telecommunications possible.",
+      "funFact": "Despite his revolutionary contribution to technology that powers the internet, Kapany never received the Nobel Prize, which many scientists consider a major oversight!"
+    },
+    {
+      "id": "indian-personalities-072",
+      "ageGroup": ["11-13"],
+      "question": "Which leader drafted the 'Declaration of Purna Swaraj' (Complete Independence) adopted by the Indian National Congress in 1930?",
+      "options": ["Mahatma Gandhi", "Jawaharlal Nehru", "Subhash Chandra Bose", "Bhagat Singh"],
+      "correctIndex": 1,
+      "explanation": "Jawaharlal Nehru drafted the Declaration of Purna Swaraj, which was adopted on 26 January 1930. This is why India celebrates Republic Day on 26 January.",
+      "funFact": "The original declaration was read aloud on the banks of the Ravi River in Lahore, and thousands of people took a pledge to fight for complete independence!"
+    },
+    {
+      "id": "indian-personalities-073",
+      "ageGroup": ["11-13"],
+      "question": "Venkatraman Ramakrishnan won the Nobel Prize in Chemistry in 2009 for his studies on which cellular structure?",
+      "options": ["Mitochondria", "Cell membrane", "Ribosome", "Nucleus"],
+      "correctIndex": 2,
+      "explanation": "Venkatraman Ramakrishnan won the Nobel Prize in Chemistry for mapping the structure and function of the ribosome, the cellular machine that makes proteins in all living things.",
+      "funFact": "Ramakrishnan was so surprised when he got the Nobel Prize call that he initially thought it might be a prank!"
+    },
+    {
+      "id": "indian-personalities-074",
+      "ageGroup": ["11-13"],
+      "question": "Which Indian classical musician and sitar player became world-famous for introducing Indian music to the West?",
+      "options": ["Zakir Hussain", "Bismillah Khan", "Ravi Shankar", "Hariprasad Chaurasia"],
+      "correctIndex": 2,
+      "explanation": "Pandit Ravi Shankar was a legendary sitar player who introduced Indian classical music to Western audiences. He collaborated with famous musicians like George Harrison of The Beatles.",
+      "funFact": "Ravi Shankar performed at the famous Woodstock festival in 1969 and won three Grammy Awards during his career, the last one at the age of 91!"
+    },
+    {
+      "id": "indian-personalities-075",
+      "ageGroup": ["11-13"],
+      "question": "Which Indian leader established the Visva-Bharati University with the vision of combining Eastern and Western education?",
+      "options": ["Swami Vivekananda", "Rabindranath Tagore", "Jawaharlal Nehru", "Madan Mohan Malaviya"],
+      "correctIndex": 1,
+      "explanation": "Rabindranath Tagore founded Visva-Bharati University in Shantiniketan, West Bengal, in 1921. He envisioned a place where the best of Eastern and Western learning could come together.",
+      "funFact": "Tagore used the money he received from his Nobel Prize in Literature to fund the early years of the university, which still stands today as a central university of India!"
     }
   ]
 }

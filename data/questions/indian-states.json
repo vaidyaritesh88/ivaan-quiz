@@ -455,6 +455,231 @@
       "correctIndex": 1,
       "explanation": "Jharkhand (from Bihar), Chhattisgarh (from Madhya Pradesh), and Uttarakhand (from Uttar Pradesh) were all created in November 2000.",
       "funFact": "Chhattisgarh is called the 'Rice Bowl of India' because it produces a huge amount of rice, while Jharkhand sits on some of the richest mineral deposits in the country!"
+    },
+    {
+      "id": "indian-states-051",
+      "ageGroup": ["5-7"],
+      "question": "Which state is famous for its delicious Rosogolla sweet?",
+      "options": ["Bihar", "Odisha", "West Bengal", "Assam"],
+      "correctIndex": 2,
+      "explanation": "West Bengal is famous for Rosogolla, a soft, spongy white sweet made from milk. Kolkata is considered the home of this beloved dessert.",
+      "funFact": "There was a big friendly fight between West Bengal and Odisha over who invented the Rosogolla, and West Bengal got a special GI tag for it in 2017!"
+    },
+    {
+      "id": "indian-states-052",
+      "ageGroup": ["5-7"],
+      "question": "What is the capital of Chhattisgarh?",
+      "options": ["Bilaspur", "Raipur", "Durg", "Korba"],
+      "correctIndex": 1,
+      "explanation": "Raipur is the capital of Chhattisgarh. It is a growing city with many steel and iron industries.",
+      "funFact": "Chhattisgarh has one of the oldest rock paintings in India at Kabra Pahad, believed to be thousands of years old!"
+    },
+    {
+      "id": "indian-states-053",
+      "ageGroup": ["5-7"],
+      "question": "Which state is famous for the Garba dance during Navratri?",
+      "options": ["Rajasthan", "Maharashtra", "Gujarat", "Madhya Pradesh"],
+      "correctIndex": 2,
+      "explanation": "Gujarat is famous for the Garba dance, which is performed during the nine nights of the Navratri festival. People dance in circles wearing colourful clothes.",
+      "funFact": "Navratri celebrations in Gujarat can have thousands of people dancing Garba together in one place, making it one of the largest dance events in the world!"
+    },
+    {
+      "id": "indian-states-054",
+      "ageGroup": ["5-7"],
+      "question": "Which state is called 'God's Own Country'?",
+      "options": ["Goa", "Tamil Nadu", "Karnataka", "Kerala"],
+      "correctIndex": 3,
+      "explanation": "Kerala is called 'God's Own Country' because of its beautiful backwaters, beaches, hill stations, and lush green nature.",
+      "funFact": "Kerala has a boat race called Vallam Kali where long snake boats with over 100 rowers race each other on the backwaters!"
+    },
+    {
+      "id": "indian-states-055",
+      "ageGroup": ["5-7"],
+      "question": "What is the capital of Uttarakhand?",
+      "options": ["Haridwar", "Nainital", "Dehradun", "Rishikesh"],
+      "correctIndex": 2,
+      "explanation": "Dehradun is the capital of Uttarakhand. It is a city in a valley surrounded by the beautiful Himalayan mountains.",
+      "funFact": "Uttarakhand is called 'Dev Bhoomi' meaning 'Land of the Gods' because it has many holy temples and pilgrimage sites in the Himalayas!"
+    },
+    {
+      "id": "indian-states-056",
+      "ageGroup": ["5-7"],
+      "question": "Which state is famous for its Hyderabadi Biryani?",
+      "options": ["Karnataka", "Tamil Nadu", "Telangana", "Kerala"],
+      "correctIndex": 2,
+      "explanation": "Telangana, where the city of Hyderabad is located, is famous for its Hyderabadi Biryani. It is a spiced rice and meat dish loved across India.",
+      "funFact": "Hyderabadi Biryani was invented in the kitchens of the Nizam rulers of Hyderabad and it is said that no two families make it exactly the same way!"
+    },
+    {
+      "id": "indian-states-057",
+      "ageGroup": ["5-7"],
+      "question": "Which state celebrates the festival of Pongal with great joy?",
+      "options": ["Kerala", "Karnataka", "Andhra Pradesh", "Tamil Nadu"],
+      "correctIndex": 3,
+      "explanation": "Pongal is a harvest festival celebrated in Tamil Nadu every January. People cook sweet rice in new pots and let it overflow as a sign of plenty.",
+      "funFact": "During Pongal, cows and bulls are decorated with colourful beads and bells and given special treats because they help farmers in the fields!"
+    },
+    {
+      "id": "indian-states-058",
+      "ageGroup": ["5-7"],
+      "question": "What is the capital of Manipur?",
+      "options": ["Churachandpur", "Imphal", "Thoubal", "Bishnupur"],
+      "correctIndex": 1,
+      "explanation": "Imphal is the capital of Manipur. It is a beautiful city surrounded by hills in northeast India.",
+      "funFact": "Manipur has a floating lake called Loktak Lake, where fishermen live on small floating islands made of plants called phumdis!"
+    },
+    {
+      "id": "indian-states-059",
+      "ageGroup": ["8-10"],
+      "question": "Which national park in Madhya Pradesh is famous for its tiger population?",
+      "options": ["Gir National Park", "Jim Corbett National Park", "Bandhavgarh National Park", "Kaziranga National Park"],
+      "correctIndex": 2,
+      "explanation": "Bandhavgarh National Park in Madhya Pradesh is one of the best places in India to spot tigers. It has one of the highest densities of tigers in the country.",
+      "funFact": "Madhya Pradesh has the most tigers of any state in India and is often called the 'Tiger State'!"
+    },
+    {
+      "id": "indian-states-060",
+      "ageGroup": ["8-10"],
+      "question": "What is the state animal of Maharashtra?",
+      "options": ["Tiger", "Indian Giant Squirrel", "Leopard", "Blackbuck"],
+      "correctIndex": 1,
+      "explanation": "The Indian Giant Squirrel, also called the Shekru, is the state animal of Maharashtra. It is much larger than regular squirrels and has beautiful colourful fur.",
+      "funFact": "The Indian Giant Squirrel can be up to 1 metre long including its tail and comes in amazing colours like purple, orange, and maroon!"
+    },
+    {
+      "id": "indian-states-061",
+      "ageGroup": ["8-10"],
+      "question": "Which state is the largest producer of cotton in India?",
+      "options": ["Maharashtra", "Gujarat", "Rajasthan", "Madhya Pradesh"],
+      "correctIndex": 1,
+      "explanation": "Gujarat is the largest producer of cotton in India. The warm and dry climate of Gujarat is perfect for growing cotton.",
+      "funFact": "India is one of the biggest cotton producers in the world, and the famous fabric called 'khadi' that Mahatma Gandhi promoted was made from Indian cotton!"
+    },
+    {
+      "id": "indian-states-062",
+      "ageGroup": ["8-10"],
+      "question": "The Sundarbans mangrove forest is shared between West Bengal and which country?",
+      "options": ["Myanmar", "Nepal", "Bangladesh", "Sri Lanka"],
+      "correctIndex": 2,
+      "explanation": "The Sundarbans mangrove forest is shared between West Bengal in India and Bangladesh. It is the largest mangrove forest in the world.",
+      "funFact": "The Sundarbans is home to the famous Royal Bengal Tiger, which is the only tiger in the world that is known to swim in saltwater!"
+    },
+    {
+      "id": "indian-states-063",
+      "ageGroup": ["8-10"],
+      "question": "Which river is called the 'Lifeline of Rajasthan'?",
+      "options": ["Chambal", "Luni", "Indira Gandhi Canal", "Banas"],
+      "correctIndex": 2,
+      "explanation": "The Indira Gandhi Canal is called the 'Lifeline of Rajasthan' because it brings water from the Punjab rivers to the dry Thar Desert region of Rajasthan.",
+      "funFact": "The Indira Gandhi Canal is one of the longest canals in the world at about 650 kilometres and has turned desert land into green farmland!"
+    },
+    {
+      "id": "indian-states-064",
+      "ageGroup": ["8-10"],
+      "question": "What is the state bird of Karnataka?",
+      "options": ["Peacock", "Indian Roller", "Flamingo", "Hornbill"],
+      "correctIndex": 1,
+      "explanation": "The Indian Roller, locally known as Neelakantha, is the state bird of Karnataka. It has beautiful blue wings that flash when it flies.",
+      "funFact": "The Indian Roller is considered sacred in many parts of India, and seeing one during the festival of Dussehra is believed to bring good luck!"
+    },
+    {
+      "id": "indian-states-065",
+      "ageGroup": ["8-10"],
+      "question": "Which state is famous for the Sangai deer, also known as the 'dancing deer'?",
+      "options": ["Nagaland", "Manipur", "Tripura", "Mizoram"],
+      "correctIndex": 1,
+      "explanation": "The Sangai deer is the state animal of Manipur. It is called the 'dancing deer' because of its graceful walking style on the floating grasslands of Loktak Lake.",
+      "funFact": "The Sangai deer was thought to be extinct until it was rediscovered in 1953 in the Keibul Lamjao National Park, which is the only floating national park in the world!"
+    },
+    {
+      "id": "indian-states-066",
+      "ageGroup": ["8-10"],
+      "question": "Which state is the largest producer of coal in India?",
+      "options": ["West Bengal", "Odisha", "Jharkhand", "Chhattisgarh"],
+      "correctIndex": 2,
+      "explanation": "Jharkhand is the largest producer of coal in India. The Jharia coalfield in Jharkhand is the richest coalfield in the country.",
+      "funFact": "The name Jharkhand means 'Land of Forests' and the state sits on top of some of the most valuable mineral deposits in all of Asia!"
+    },
+    {
+      "id": "indian-states-067",
+      "ageGroup": ["11-13"],
+      "question": "Which state was the first to be formed on a linguistic basis in independent India?",
+      "options": ["Tamil Nadu", "Kerala", "Karnataka", "Andhra Pradesh"],
+      "correctIndex": 3,
+      "explanation": "Andhra Pradesh was the first state formed on a linguistic basis in 1953, after Potti Sriramulu fasted for the creation of a separate Telugu-speaking state.",
+      "funFact": "The formation of Andhra Pradesh led to the States Reorganisation Act of 1956, which redrew the entire map of India based on languages spoken by people!"
+    },
+    {
+      "id": "indian-states-068",
+      "ageGroup": ["11-13"],
+      "question": "Which state contributes the most to India's GDP?",
+      "options": ["Uttar Pradesh", "Tamil Nadu", "Maharashtra", "Karnataka"],
+      "correctIndex": 2,
+      "explanation": "Maharashtra contributes the most to India's GDP, accounting for about 14% of the national economy. Mumbai, the financial capital, drives much of this economic activity.",
+      "funFact": "Mumbai's Dalal Street is home to the Bombay Stock Exchange, which was established in 1875 and is the oldest stock exchange in Asia!"
+    },
+    {
+      "id": "indian-states-069",
+      "ageGroup": ["11-13"],
+      "question": "The Scheduled Tribe population is the highest in which Indian state by percentage?",
+      "options": ["Chhattisgarh", "Jharkhand", "Mizoram", "Meghalaya"],
+      "correctIndex": 2,
+      "explanation": "Mizoram has the highest percentage of Scheduled Tribe population at about 94% of its total population, according to the 2011 Census.",
+      "funFact": "The Mizo people have a community practice called 'Tlawmngaihna' which means selfless service to others, and it is considered the highest virtue in Mizo culture!"
+    },
+    {
+      "id": "indian-states-070",
+      "ageGroup": ["11-13"],
+      "question": "Which state is the largest producer of petroleum (crude oil) in India?",
+      "options": ["Gujarat", "Assam", "Rajasthan", "Maharashtra"],
+      "correctIndex": 2,
+      "explanation": "Rajasthan is currently the largest producer of crude oil in India, primarily from the Barmer-Sanchore basin discovered in 2004.",
+      "funFact": "India's first oil well was drilled in Digboi, Assam way back in 1889, making it one of the oldest oil-producing regions in the world!"
+    },
+    {
+      "id": "indian-states-071",
+      "ageGroup": ["11-13"],
+      "question": "Which state has the most number of districts in India?",
+      "options": ["Madhya Pradesh", "Uttar Pradesh", "Tamil Nadu", "Bihar"],
+      "correctIndex": 1,
+      "explanation": "Uttar Pradesh has the most number of districts in India with 75 districts. It is also the most populous state in India.",
+      "funFact": "Uttar Pradesh sends the most members to India's Parliament, with 80 Lok Sabha seats, making it the most politically influential state in elections!"
+    },
+    {
+      "id": "indian-states-072",
+      "ageGroup": ["11-13"],
+      "question": "The Konkan Railway, one of India's most scenic rail routes, passes through which states?",
+      "options": ["Maharashtra, Goa, Karnataka", "Gujarat, Maharashtra, Goa", "Karnataka, Kerala, Tamil Nadu", "Maharashtra, Karnataka, Kerala"],
+      "correctIndex": 0,
+      "explanation": "The Konkan Railway runs along the western coast through Maharashtra, Goa, and Karnataka. It passes through lush greenery, over rivers, and through many tunnels.",
+      "funFact": "The Konkan Railway has 2,000 bridges and 91 tunnels along its 740-kilometre route, and it crosses some of the tallest rail viaducts in Asia!"
+    },
+    {
+      "id": "indian-states-073",
+      "ageGroup": ["11-13"],
+      "question": "Which state has the Scheduled language Santali as one of its widely spoken tribal languages?",
+      "options": ["Odisha", "Jharkhand", "Chhattisgarh", "Madhya Pradesh"],
+      "correctIndex": 1,
+      "explanation": "Santali is widely spoken in Jharkhand, where the Santal tribe is one of the largest tribal communities. Santali was added to the Eighth Schedule of the Constitution in 2003.",
+      "funFact": "Santali has its own unique script called Ol Chiki, which was invented by Pandit Raghunath Murmu in 1925 and has 30 letters!"
+    },
+    {
+      "id": "indian-states-074",
+      "ageGroup": ["11-13"],
+      "question": "Which state was known as the 'Granary of India' due to its contribution to the Green Revolution?",
+      "options": ["Uttar Pradesh", "Haryana", "Punjab", "Madhya Pradesh"],
+      "correctIndex": 2,
+      "explanation": "Punjab is called the 'Granary of India' because of its enormous wheat and rice production. It played a key role in the Green Revolution of the 1960s that made India self-sufficient in food.",
+      "funFact": "Before the Green Revolution, India had to import food to feed its people, but Punjab's farmers helped India become one of the world's top food producers!"
+    },
+    {
+      "id": "indian-states-075",
+      "ageGroup": ["11-13"],
+      "question": "Which northeastern state has the highest per capita income in the northeast region?",
+      "options": ["Assam", "Sikkim", "Meghalaya", "Tripura"],
+      "correctIndex": 1,
+      "explanation": "Sikkim has the highest per capita income among the northeastern states, driven by tourism, hydroelectric power, and organic farming.",
+      "funFact": "Sikkim banned the use of all chemical fertilizers and pesticides in 2016, becoming the first fully organic state in the world and winning a UN Future Policy Gold Award!"
     }
   ]
 }

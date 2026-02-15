@@ -450,6 +450,231 @@
       "correctIndex": 2,
       "explanation": "The universe is estimated to be about 13.8 billion years old, based on observations of the cosmic microwave background radiation and the expansion rate of the universe.",
       "funFact": "The observable universe is about 93 billion light years across, which is much larger than 13.8 billion light years because space itself has been expanding!"
+    },
+    {
+      "id": "space-051",
+      "ageGroup": ["5-7"],
+      "question": "Why can we not hear any sounds in space?",
+      "options": ["Space is too cold", "There is no air for sound to travel through", "Our ears do not work in space", "Sound only travels downward"],
+      "correctIndex": 1,
+      "explanation": "Sound needs air or some material to travel through. Space is a vacuum with almost no air, so sound waves cannot travel there.",
+      "funFact": "Even if a huge star exploded right next to you in space, you would not hear a single thing!"
+    },
+    {
+      "id": "space-052",
+      "ageGroup": ["5-7"],
+      "question": "What is the shape of the Moon when it looks like a big bright circle?",
+      "options": ["New Moon", "Half Moon", "Full Moon", "Crescent Moon"],
+      "correctIndex": 2,
+      "explanation": "When the Moon looks like a complete bright circle in the sky, it is called a Full Moon. This happens when the Sun fully lights up the side of the Moon facing Earth.",
+      "funFact": "A Full Moon happens about once every 29 days, and some months have two Full Moons. The second one is called a Blue Moon!"
+    },
+    {
+      "id": "space-053",
+      "ageGroup": ["5-7"],
+      "question": "What do rockets need to escape Earth and fly into space?",
+      "options": ["Wings like an aeroplane", "Very powerful engines that push them up really fast", "A giant slingshot", "Balloons filled with helium"],
+      "correctIndex": 1,
+      "explanation": "Rockets use powerful engines that burn fuel to create a huge push called thrust. This thrust must be strong enough to overcome Earth's gravity.",
+      "funFact": "A rocket must travel faster than 40,000 kilometres per hour to escape Earth's gravity!"
+    },
+    {
+      "id": "space-054",
+      "ageGroup": ["5-7"],
+      "question": "Which planet is closest in size to Earth and sometimes called Earth's twin?",
+      "options": ["Mars", "Mercury", "Venus", "Neptune"],
+      "correctIndex": 2,
+      "explanation": "Venus is almost the same size as Earth, which is why it is sometimes called Earth's twin. But it is very different because it is extremely hot and has thick toxic clouds.",
+      "funFact": "A day on Venus is longer than a year on Venus! It takes Venus longer to spin once than to orbit the Sun."
+    },
+    {
+      "id": "space-055",
+      "ageGroup": ["5-7"],
+      "question": "What do stars look like when you see them twinkling at night?",
+      "options": ["Tiny points of light", "Big glowing balls", "Coloured squares", "Small moons"],
+      "correctIndex": 0,
+      "explanation": "Stars look like tiny twinkling points of light because they are extremely far away. They are actually giant balls of hot gas, but the great distance makes them appear very small.",
+      "funFact": "Stars do not actually twinkle! They appear to twinkle because Earth's atmosphere bends their light as it passes through."
+    },
+    {
+      "id": "space-056",
+      "ageGroup": ["5-7"],
+      "question": "What is the Moon covered with?",
+      "options": ["Water and oceans", "Green forests", "Dust and craters", "Snow and ice"],
+      "correctIndex": 2,
+      "explanation": "The Moon's surface is covered with grey dust and has many craters made by space rocks crashing into it over billions of years.",
+      "funFact": "The footprints left by astronauts on the Moon will stay there for millions of years because there is no wind or rain to wipe them away!"
+    },
+    {
+      "id": "space-057",
+      "ageGroup": ["5-7"],
+      "question": "What makes the Sun so bright and hot?",
+      "options": ["It is on fire like a campfire", "It is a giant light bulb", "It makes energy by squeezing tiny atoms together", "It is covered in lava"],
+      "correctIndex": 2,
+      "explanation": "The Sun produces energy through a process where tiny atoms of hydrogen are squeezed together to form helium. This releases a huge amount of light and heat.",
+      "funFact": "The temperature at the centre of the Sun is about 15 million degrees Celsius! That is much hotter than any fire on Earth."
+    },
+    {
+      "id": "space-058",
+      "ageGroup": ["5-7"],
+      "question": "Which is the smallest planet in our solar system?",
+      "options": ["Mars", "Venus", "Earth", "Mercury"],
+      "correctIndex": 3,
+      "explanation": "Mercury is the smallest planet in our solar system. It is only a little bigger than Earth's Moon.",
+      "funFact": "Mercury has no moons at all! It is one of only two planets in our solar system without any moons."
+    },
+    {
+      "id": "space-059",
+      "ageGroup": ["8-10"],
+      "question": "What is the Great Red Spot on Jupiter?",
+      "options": ["A volcano", "A giant storm that has lasted hundreds of years", "A crater from an asteroid", "A red-coloured ocean"],
+      "correctIndex": 1,
+      "explanation": "The Great Red Spot is a massive storm on Jupiter that has been raging for at least 350 years. It is so large that Earth could fit inside it.",
+      "funFact": "Winds inside the Great Red Spot can reach speeds of over 640 kilometres per hour, which is faster than any tornado on Earth!"
+    },
+    {
+      "id": "space-060",
+      "ageGroup": ["8-10"],
+      "question": "What is the difference between an asteroid and a comet?",
+      "options": ["Asteroids are bigger than comets", "Asteroids are rocky while comets are made of ice and dust", "Comets are found closer to the Sun", "There is no difference between them"],
+      "correctIndex": 1,
+      "explanation": "Asteroids are mainly made of rock and metal, while comets are made of ice, dust, and frozen gases. When comets get close to the Sun, the ice heats up and creates a glowing tail.",
+      "funFact": "Some comets take thousands of years to complete a single orbit around the Sun!"
+    },
+    {
+      "id": "space-061",
+      "ageGroup": ["8-10"],
+      "question": "What was the name of NASA's space telescope launched in 2021 to replace the Hubble?",
+      "options": ["Spitzer Telescope", "Kepler Telescope", "James Webb Space Telescope", "Chandra Telescope"],
+      "correctIndex": 2,
+      "explanation": "The James Webb Space Telescope was launched in December 2021. It is the most powerful space telescope ever built and can look deeper into space than Hubble.",
+      "funFact": "The James Webb Space Telescope has a gold-coated mirror that is 6.5 metres wide, and it orbits the Sun about 1.5 million kilometres from Earth!"
+    },
+    {
+      "id": "space-062",
+      "ageGroup": ["8-10"],
+      "question": "What is ISRO's Gaganyaan mission designed to do?",
+      "options": ["Send a rover to Mars", "Send Indian astronauts to space", "Land on the Moon again", "Launch a new satellite network"],
+      "correctIndex": 1,
+      "explanation": "Gaganyaan is India's first crewed spaceflight programme. It aims to send Indian astronauts, called vyomanauts, into orbit around Earth.",
+      "funFact": "Gaganyaan means 'Sky Vehicle' in Sanskrit! India would become only the fourth country to independently send humans into space."
+    },
+    {
+      "id": "space-063",
+      "ageGroup": ["8-10"],
+      "question": "Which planet has the longest day in our solar system?",
+      "options": ["Jupiter", "Venus", "Saturn", "Mercury"],
+      "correctIndex": 1,
+      "explanation": "Venus has the longest day of any planet. It takes about 243 Earth days for Venus to complete one full rotation on its axis.",
+      "funFact": "Venus also rotates in the opposite direction to most other planets, so if you could stand on Venus, the Sun would rise in the west and set in the east!"
+    },
+    {
+      "id": "space-064",
+      "ageGroup": ["8-10"],
+      "question": "What are the two tiny moons of Mars called?",
+      "options": ["Titan and Europa", "Phobos and Deimos", "Io and Ganymede", "Triton and Charon"],
+      "correctIndex": 1,
+      "explanation": "Mars has two small moons called Phobos and Deimos. They are much smaller than our Moon and are thought to be captured asteroids.",
+      "funFact": "Phobos is slowly getting closer to Mars and scientists think it will either crash into Mars or break apart into a ring in about 50 million years!"
+    },
+    {
+      "id": "space-065",
+      "ageGroup": ["8-10"],
+      "question": "What is the name of the force that pushes a rocket upward?",
+      "options": ["Gravity", "Drag", "Thrust", "Lift"],
+      "correctIndex": 2,
+      "explanation": "Thrust is the force created by a rocket's engines that pushes it upward. The engines burn fuel and push hot gas downward, which in turn pushes the rocket in the opposite direction.",
+      "funFact": "The Saturn V rocket, which carried astronauts to the Moon, produced 34.5 million newtons of thrust at launch, more than 30 times the force of a jumbo jet!"
+    },
+    {
+      "id": "space-066",
+      "ageGroup": ["8-10"],
+      "question": "What is a space probe?",
+      "options": ["An astronaut's tool", "An unmanned spacecraft sent to explore space", "A type of telescope", "A space station module"],
+      "correctIndex": 1,
+      "explanation": "A space probe is a robotic spacecraft that is sent to explore planets, moons, and other objects in space without any crew on board. It sends data back to scientists on Earth.",
+      "funFact": "NASA's New Horizons probe travelled for over 9 years and 5 billion kilometres to reach Pluto and send back the first close-up photos!"
+    },
+    {
+      "id": "space-067",
+      "ageGroup": ["11-13"],
+      "question": "What is the life cycle of a star like our Sun?",
+      "options": ["Nebula, main sequence star, red giant, white dwarf", "Nebula, red giant, black hole", "Main sequence star, supernova, neutron star", "Nebula, blue giant, supernova, black hole"],
+      "correctIndex": 0,
+      "explanation": "A Sun-like star is born in a nebula, spends most of its life as a main sequence star, then swells into a red giant, and finally sheds its outer layers to become a white dwarf.",
+      "funFact": "Our Sun is currently about halfway through its main sequence life and has about 5 billion more years before it becomes a red giant!"
+    },
+    {
+      "id": "space-068",
+      "ageGroup": ["11-13"],
+      "question": "What is an exoplanet?",
+      "options": ["A planet that has been destroyed", "A planet that orbits a star outside our solar system", "A dwarf planet in the Kuiper Belt", "A planet made entirely of gas"],
+      "correctIndex": 1,
+      "explanation": "An exoplanet is a planet that orbits a star other than our Sun. Thousands of exoplanets have been discovered, and some are in the habitable zone where liquid water could exist.",
+      "funFact": "The first exoplanet orbiting a Sun-like star was discovered in 1995, and since then over 5,000 exoplanets have been confirmed!"
+    },
+    {
+      "id": "space-069",
+      "ageGroup": ["11-13"],
+      "question": "According to Einstein's theory of special relativity, what happens to time for an object moving close to the speed of light?",
+      "options": ["Time speeds up", "Time slows down relative to a stationary observer", "Time stays the same", "Time moves backward"],
+      "correctIndex": 1,
+      "explanation": "According to special relativity, time passes more slowly for objects moving at speeds close to the speed of light compared to a stationary observer. This is called time dilation.",
+      "funFact": "GPS satellites have to account for time dilation! Their clocks tick slightly faster than clocks on Earth because of both their speed and weaker gravity."
+    },
+    {
+      "id": "space-070",
+      "ageGroup": ["11-13"],
+      "question": "What is the Hubble Space Telescope primarily used for?",
+      "options": ["Communicating with astronauts", "Observing distant galaxies, nebulae, and stars in visible and ultraviolet light", "Tracking weather on Earth", "Searching for radio signals from aliens"],
+      "correctIndex": 1,
+      "explanation": "The Hubble Space Telescope orbits Earth and captures incredibly detailed images of distant galaxies, nebulae, and stars. Being above the atmosphere gives it much clearer views than ground telescopes.",
+      "funFact": "Hubble has made over 1.5 million observations since its launch in 1990 and has helped scientists publish over 19,000 research papers!"
+    },
+    {
+      "id": "space-071",
+      "ageGroup": ["11-13"],
+      "question": "What is dark energy?",
+      "options": ["Energy produced by black holes", "A mysterious force causing the expansion of the universe to accelerate", "The energy inside dark matter", "Energy from dying stars"],
+      "correctIndex": 1,
+      "explanation": "Dark energy is a mysterious force that is causing the expansion of the universe to speed up rather than slow down. It makes up about 68% of the total energy content of the universe.",
+      "funFact": "Dark energy was discovered in 1998 when scientists noticed that distant supernovae were dimmer than expected, meaning the universe's expansion is accelerating!"
+    },
+    {
+      "id": "space-072",
+      "ageGroup": ["11-13"],
+      "question": "What is the Chandrasekhar limit?",
+      "options": ["The maximum distance a telescope can see", "The maximum mass a white dwarf star can have before it collapses", "The edge of the observable universe", "The closest a spacecraft can get to the Sun"],
+      "correctIndex": 1,
+      "explanation": "The Chandrasekhar limit is about 1.4 times the mass of our Sun. If a white dwarf exceeds this mass, it can no longer support itself and may explode as a Type Ia supernova.",
+      "funFact": "This limit is named after Indian-American astrophysicist Subrahmanyan Chandrasekhar, who calculated it when he was just 19 years old!"
+    },
+    {
+      "id": "space-073",
+      "ageGroup": ["11-13"],
+      "question": "What is a pulsar?",
+      "options": ["A planet that pulses with light", "A rapidly spinning neutron star that emits beams of radiation", "A type of galaxy", "A dying red giant star"],
+      "correctIndex": 1,
+      "explanation": "A pulsar is a rapidly rotating neutron star that emits beams of electromagnetic radiation from its magnetic poles. As it spins, the beams sweep across space like a lighthouse.",
+      "funFact": "Some pulsars spin hundreds of times per second! The fastest known pulsar rotates 716 times per second."
+    },
+    {
+      "id": "space-074",
+      "ageGroup": ["11-13"],
+      "question": "What is gravitational lensing?",
+      "options": ["A lens used in space telescopes", "The bending of light around a massive object due to gravity", "A technique for focusing laser beams in space", "The reflection of light off planetary rings"],
+      "correctIndex": 1,
+      "explanation": "Gravitational lensing occurs when the gravity of a massive object like a galaxy cluster bends the path of light from a more distant object behind it, acting like a magnifying glass.",
+      "funFact": "Einstein predicted gravitational lensing in 1936, and astronomers have used it to discover some of the most distant galaxies ever observed!"
+    },
+    {
+      "id": "space-075",
+      "ageGroup": ["11-13"],
+      "question": "What is the habitable zone around a star?",
+      "options": ["The area where astronauts can survive without spacesuits", "The range of orbits where liquid water could exist on a planet's surface", "The region where asteroids cannot enter", "The zone closest to the star where it is warmest"],
+      "correctIndex": 1,
+      "explanation": "The habitable zone, also called the Goldilocks zone, is the region around a star where conditions are just right for liquid water to exist on a planet's surface, which is considered essential for life.",
+      "funFact": "Earth sits comfortably in our Sun's habitable zone, but if it were just 5% closer or farther, conditions for life might be very different!"
     }
   ]
 }

@@ -450,6 +450,231 @@
       "correctIndex": 2,
       "explanation": "Many lizard species can detach their tail when grabbed by a predator. The tail continues to wiggle, distracting the predator while the lizard escapes. The tail eventually regrows.",
       "funFact": "The detached tail can keep wiggling for up to 30 minutes, giving the lizard plenty of time to escape!"
+    },
+    {
+      "id": "animals-051",
+      "ageGroup": ["5-7"],
+      "question": "What is a baby sheep called?",
+      "options": ["Kid", "Calf", "Lamb", "Pup"],
+      "correctIndex": 2,
+      "explanation": "A baby sheep is called a lamb. Lambs can stand up and walk just a few minutes after being born.",
+      "funFact": "Sheep can recognize up to 50 other sheep faces and remember them for years!"
+    },
+    {
+      "id": "animals-052",
+      "ageGroup": ["5-7"],
+      "question": "What sound does a lion make?",
+      "options": ["Bark", "Hiss", "Roar", "Chirp"],
+      "correctIndex": 2,
+      "explanation": "A lion makes a roaring sound. A lion's roar is so loud it can be heard from 8 kilometers away!",
+      "funFact": "Lions are the only cats that live in groups, called prides. A pride can have up to 30 lions!"
+    },
+    {
+      "id": "animals-053",
+      "ageGroup": ["5-7"],
+      "question": "Where do rabbits live?",
+      "options": ["In nests on trees", "In burrows underground", "In water", "On top of mountains"],
+      "correctIndex": 1,
+      "explanation": "Rabbits live in burrows underground. A group of connected rabbit burrows is called a warren.",
+      "funFact": "A rabbit's teeth never stop growing throughout its entire life, so they need to chew on things to keep them short!"
+    },
+    {
+      "id": "animals-054",
+      "ageGroup": ["5-7"],
+      "question": "Which animal has a very long neck?",
+      "options": ["Elephant", "Giraffe", "Bear", "Tiger"],
+      "correctIndex": 1,
+      "explanation": "Giraffes have very long necks that help them reach leaves high up in trees. They are the tallest animals on Earth!",
+      "funFact": "Even though a giraffe's neck is so long, it has the same number of neck bones as a human, just seven!"
+    },
+    {
+      "id": "animals-055",
+      "ageGroup": ["5-7"],
+      "question": "What is a baby duck called?",
+      "options": ["Chick", "Duckling", "Gosling", "Cygnet"],
+      "correctIndex": 1,
+      "explanation": "A baby duck is called a duckling. Ducklings follow their mother in a line everywhere she goes.",
+      "funFact": "Ducklings can swim from the very first day they hatch, and their fluffy feathers are naturally waterproof!"
+    },
+    {
+      "id": "animals-056",
+      "ageGroup": ["5-7"],
+      "question": "Which animal has a shell on its back?",
+      "options": ["Frog", "Snake", "Turtle", "Lizard"],
+      "correctIndex": 2,
+      "explanation": "Turtles have a hard shell on their back that protects them from predators. They can pull their head and legs inside the shell.",
+      "funFact": "Some turtles can live for over 100 years, making them one of the longest-living animals on Earth!"
+    },
+    {
+      "id": "animals-057",
+      "ageGroup": ["5-7"],
+      "question": "What does a caterpillar turn into?",
+      "options": ["A beetle", "A butterfly", "A spider", "A ladybug"],
+      "correctIndex": 1,
+      "explanation": "A caterpillar wraps itself in a cocoon or chrysalis and changes into a butterfly. This amazing change is called metamorphosis.",
+      "funFact": "Inside the chrysalis, the caterpillar's body breaks down almost completely before rebuilding into a butterfly!"
+    },
+    {
+      "id": "animals-058",
+      "ageGroup": ["5-7"],
+      "question": "Which farm animal gives us wool?",
+      "options": ["Cow", "Pig", "Sheep", "Horse"],
+      "correctIndex": 2,
+      "explanation": "Sheep give us wool. Farmers shear (cut) the wool off sheep once a year, usually in spring, and it grows back again.",
+      "funFact": "One sheep can produce enough wool in a year to make a whole warm sweater for a person!"
+    },
+    {
+      "id": "animals-059",
+      "ageGroup": ["8-10"],
+      "question": "Which animal is the largest living reptile?",
+      "options": ["Komodo dragon", "Green anaconda", "Saltwater crocodile", "Leatherback sea turtle"],
+      "correctIndex": 2,
+      "explanation": "The saltwater crocodile is the largest living reptile. Males can grow over 6 meters long and weigh more than 1,000 kilograms.",
+      "funFact": "Saltwater crocodiles have the strongest bite force ever measured in any living animal, powerful enough to crush bone!"
+    },
+    {
+      "id": "animals-060",
+      "ageGroup": ["8-10"],
+      "question": "What is the main reason many birds migrate south in winter?",
+      "options": ["To escape predators", "To find warmer weather and food", "To lay eggs in the ocean", "To find new mates"],
+      "correctIndex": 1,
+      "explanation": "Birds migrate south in winter mainly to find warmer weather and more food. When winter comes, insects and plants become scarce in cold regions.",
+      "funFact": "Bar-tailed godwits hold the record for the longest non-stop flight, travelling over 11,000 km from Alaska to New Zealand without resting!"
+    },
+    {
+      "id": "animals-061",
+      "ageGroup": ["8-10"],
+      "question": "What is the largest species of penguin?",
+      "options": ["King penguin", "Gentoo penguin", "Emperor penguin", "Rockhopper penguin"],
+      "correctIndex": 2,
+      "explanation": "The Emperor penguin is the largest penguin species, standing about 1.2 meters tall. They live in Antarctica and can survive temperatures of minus 60 degrees Celsius.",
+      "funFact": "Emperor penguin dads balance their egg on their feet for over two months in freezing cold while the mum goes to find food!"
+    },
+    {
+      "id": "animals-062",
+      "ageGroup": ["8-10"],
+      "question": "Which endangered animal is known as the 'sea cow'?",
+      "options": ["Walrus", "Manatee", "Sea lion", "Elephant seal"],
+      "correctIndex": 1,
+      "explanation": "Manatees are often called sea cows because they are large, gentle, slow-moving herbivores that graze on underwater plants.",
+      "funFact": "Manatees have no natural predators, but they are endangered mainly because of boat strikes and habitat loss!"
+    },
+    {
+      "id": "animals-063",
+      "ageGroup": ["8-10"],
+      "question": "How do porcupines defend themselves from predators?",
+      "options": ["They spray a smelly liquid", "They use sharp quills on their body", "They bite with venomous fangs", "They camouflage into the background"],
+      "correctIndex": 1,
+      "explanation": "Porcupines are covered in sharp quills (modified hairs) that stick into any predator that tries to attack them. The quills detach easily and are painful to remove.",
+      "funFact": "A single North American porcupine can have over 30,000 quills covering its body, and they grow back after being lost!"
+    },
+    {
+      "id": "animals-064",
+      "ageGroup": ["8-10"],
+      "question": "Which animal is known for building dams across rivers?",
+      "options": ["Otter", "Beaver", "Muskrat", "Platypus"],
+      "correctIndex": 1,
+      "explanation": "Beavers build dams across rivers using logs, branches, and mud. These dams create ponds where beavers build their homes called lodges.",
+      "funFact": "The largest beaver dam ever discovered is in Alberta, Canada, and it is over 850 meters long, visible even from space!"
+    },
+    {
+      "id": "animals-065",
+      "ageGroup": ["8-10"],
+      "question": "Which group of animals are 'cold-blooded'?",
+      "options": ["Mammals", "Birds", "Reptiles", "All animals with fur"],
+      "correctIndex": 2,
+      "explanation": "Reptiles are cold-blooded (ectothermic), meaning their body temperature depends on their surroundings. They bask in the sun to warm up.",
+      "funFact": "Being cold-blooded is actually an advantage because reptiles need about 10 times less food than a warm-blooded mammal of the same size!"
+    },
+    {
+      "id": "animals-066",
+      "ageGroup": ["8-10"],
+      "question": "What special adaptation do camels have on their feet for walking on sand?",
+      "options": ["Sticky pads", "Hooves like horses", "Wide, flat, padded feet", "Webbed toes like ducks"],
+      "correctIndex": 2,
+      "explanation": "Camels have wide, flat, padded feet that spread out when they step, acting like snowshoes on sand so they do not sink in.",
+      "funFact": "Camels can close their nostrils completely to keep sand out during desert sandstorms!"
+    },
+    {
+      "id": "animals-067",
+      "ageGroup": ["11-13"],
+      "question": "What is a 'keystone species' in an ecosystem?",
+      "options": ["The most numerous species in an area", "A species that other species depend on disproportionately", "The largest predator in a region", "A species that recently arrived in an ecosystem"],
+      "correctIndex": 1,
+      "explanation": "A keystone species is one that has a disproportionately large impact on its ecosystem relative to its numbers. Removing it causes major changes to the entire ecosystem.",
+      "funFact": "Sea otters are a keystone species because they eat sea urchins that would otherwise destroy entire kelp forests!"
+    },
+    {
+      "id": "animals-068",
+      "ageGroup": ["11-13"],
+      "question": "What is the term for animals that have a backbone?",
+      "options": ["Invertebrates", "Vertebrates", "Arthropods", "Molluscs"],
+      "correctIndex": 1,
+      "explanation": "Animals with a backbone (spinal column) are called vertebrates. This group includes fish, amphibians, reptiles, birds, and mammals.",
+      "funFact": "Only about 5% of all known animal species are vertebrates. The other 95% are invertebrates like insects, spiders, and worms!"
+    },
+    {
+      "id": "animals-069",
+      "ageGroup": ["11-13"],
+      "question": "What is 'convergent evolution'?",
+      "options": ["When two species evolve from the same ancestor", "When unrelated species develop similar traits independently", "When a species splits into two new species", "When a species stops evolving entirely"],
+      "correctIndex": 1,
+      "explanation": "Convergent evolution occurs when unrelated species independently evolve similar features because they face similar environmental challenges. For example, dolphins and sharks both developed streamlined bodies for swimming, but they are not closely related.",
+      "funFact": "The eyes of octopuses and humans evolved completely independently but are remarkably similar in structure!"
+    },
+    {
+      "id": "animals-070",
+      "ageGroup": ["11-13"],
+      "question": "What is the primary cause of coral reef bleaching?",
+      "options": ["Overfishing by humans", "Rising ocean temperatures", "Oil spills", "Noise pollution from ships"],
+      "correctIndex": 1,
+      "explanation": "Coral bleaching is primarily caused by rising ocean temperatures due to climate change. When water gets too warm, corals expel the colourful algae living inside them, turning white.",
+      "funFact": "Coral reefs cover less than 1% of the ocean floor but support about 25% of all marine species!"
+    },
+    {
+      "id": "animals-071",
+      "ageGroup": ["11-13"],
+      "question": "What is 'aposematism' in the animal kingdom?",
+      "options": ["Using camouflage to hide from predators", "Warning colouration that signals danger to predators", "Mimicking another species' appearance", "Releasing pheromones to attract mates"],
+      "correctIndex": 1,
+      "explanation": "Aposematism is when animals use bright, warning colours to signal to predators that they are toxic or dangerous. Poison dart frogs are a classic example with their vivid colours.",
+      "funFact": "The golden poison dart frog is so toxic that one frog contains enough poison to kill 10 adult humans!"
+    },
+    {
+      "id": "animals-072",
+      "ageGroup": ["11-13"],
+      "question": "Which phenomenon describes a non-harmful species copying the appearance of a harmful one?",
+      "options": ["Camouflage", "Batesian mimicry", "Aposematism", "Commensalism"],
+      "correctIndex": 1,
+      "explanation": "Batesian mimicry is when a harmless species evolves to look like a harmful or toxic species to avoid being eaten. For example, harmless hoverflies mimic the yellow and black stripes of stinging wasps.",
+      "funFact": "The milk snake, which is completely harmless, mimics the red, yellow, and black bands of the deadly coral snake to scare away predators!"
+    },
+    {
+      "id": "animals-073",
+      "ageGroup": ["11-13"],
+      "question": "What does the term 'endemic species' mean?",
+      "options": ["A species that migrates across continents", "A species found only in one specific geographic area", "A species that is endangered globally", "A species introduced by humans to a new area"],
+      "correctIndex": 1,
+      "explanation": "An endemic species is one that is naturally found only in a particular geographic area and nowhere else on Earth. For example, lemurs are endemic to Madagascar.",
+      "funFact": "Madagascar has over 11,000 endemic plant species and nearly all of its reptile and amphibian species are found nowhere else on Earth!"
+    },
+    {
+      "id": "animals-074",
+      "ageGroup": ["11-13"],
+      "question": "What is 'mutualism' in ecology?",
+      "options": ["One organism benefits and the other is harmed", "Both organisms benefit from the relationship", "One organism benefits and the other is unaffected", "Both organisms compete for the same resources"],
+      "correctIndex": 1,
+      "explanation": "Mutualism is a type of symbiotic relationship where both organisms involved benefit from the interaction. For example, bees get nectar from flowers while pollinating them.",
+      "funFact": "Oxpecker birds ride on the backs of large African mammals like zebras and buffalo, eating ticks and parasites, which benefits both the bird and the host animal!"
+    },
+    {
+      "id": "animals-075",
+      "ageGroup": ["11-13"],
+      "question": "What is a 'trophic cascade' in an ecosystem?",
+      "options": ["A waterfall created by animal dams", "An ecological process triggered by adding or removing top predators", "The migration of animals down a food chain", "A disease that spreads through a food web"],
+      "correctIndex": 1,
+      "explanation": "A trophic cascade is a powerful ecological process that starts at the top of the food chain and tumbles down to the bottom. When top predators are removed or added, it causes dramatic changes throughout the ecosystem.",
+      "funFact": "When wolves were reintroduced to Yellowstone National Park in 1995, they changed the behaviour of elk so much that rivers actually shifted their courses because more plants grew along the banks!"
     }
   ]
 }

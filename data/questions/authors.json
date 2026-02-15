@@ -450,6 +450,231 @@
       "correctIndex": 1,
       "explanation": "Sarojini Naidu was a celebrated Indian poet who wrote beautiful poems in English. Her collections include 'The Golden Threshold' and 'The Bird of Time'.",
       "funFact": "Sarojini Naidu was also a freedom fighter and became the first woman Governor of an Indian state (Uttar Pradesh)!"
+    },
+    {
+      "id": "authors-051",
+      "ageGroup": ["5-7"],
+      "question": "Who wrote 'Goodnight Moon'?",
+      "options": ["Margaret Wise Brown", "Dr. Seuss", "Eric Carle", "Beatrix Potter"],
+      "correctIndex": 0,
+      "explanation": "Margaret Wise Brown wrote 'Goodnight Moon', a gentle bedtime story where a little bunny says goodnight to everything in his room.",
+      "funFact": "Margaret Wise Brown wrote the entire book in just one sitting, and it has been a favourite bedtime story for over 75 years!"
+    },
+    {
+      "id": "authors-052",
+      "ageGroup": ["5-7"],
+      "question": "Who wrote the story of 'Pinocchio'?",
+      "options": ["Roald Dahl", "Carlo Collodi", "Hans Christian Andersen", "Eric Carle"],
+      "correctIndex": 1,
+      "explanation": "Carlo Collodi wrote 'The Adventures of Pinocchio', about a wooden puppet who dreams of becoming a real boy.",
+      "funFact": "Carlo Collodi was actually a pen name. His real name was Carlo Lorenzini, and he named himself after the small Italian town where his mother grew up!"
+    },
+    {
+      "id": "authors-053",
+      "ageGroup": ["5-7"],
+      "question": "Who wrote 'If You Give a Mouse a Cookie'?",
+      "options": ["Laura Numeroff", "Dr. Seuss", "Julia Donaldson", "Maurice Sendak"],
+      "correctIndex": 0,
+      "explanation": "Laura Numeroff wrote 'If You Give a Mouse a Cookie', a funny circular story about a mouse who always wants one more thing.",
+      "funFact": "Laura Numeroff got the idea for the book while on a long car ride with a friend, and they made up the story together to pass the time!"
+    },
+    {
+      "id": "authors-054",
+      "ageGroup": ["5-7"],
+      "question": "Who wrote 'The Snowy Day'?",
+      "options": ["Eric Carle", "Ezra Jack Keats", "Maurice Sendak", "Dr. Seuss"],
+      "correctIndex": 1,
+      "explanation": "Ezra Jack Keats wrote 'The Snowy Day', a picture book about a little boy named Peter who explores his neighbourhood after a snowfall.",
+      "funFact": "The Snowy Day was one of the first widely popular picture books to feature an African American child as the main character!"
+    },
+    {
+      "id": "authors-055",
+      "ageGroup": ["5-7"],
+      "question": "Who wrote 'Brown Bear, Brown Bear, What Do You See?'?",
+      "options": ["Eric Carle", "Bill Martin Jr.", "Dr. Seuss", "Julia Donaldson"],
+      "correctIndex": 1,
+      "explanation": "Bill Martin Jr. wrote the words of 'Brown Bear, Brown Bear, What Do You See?', while Eric Carle created the colourful pictures.",
+      "funFact": "Bill Martin Jr. wrote the whole story on a bus ride after he thought of the rhythm in his head, and it took him less than an hour!"
+    },
+    {
+      "id": "authors-056",
+      "ageGroup": ["5-7"],
+      "question": "Which author wrote stories about Peppa Pig?",
+      "options": ["Roald Dahl", "Neville Astley and Mark Baker", "Beatrix Potter", "Julia Donaldson"],
+      "correctIndex": 1,
+      "explanation": "Neville Astley and Mark Baker created Peppa Pig, the lovable little pig who enjoys jumping in muddy puddles with her family.",
+      "funFact": "Peppa Pig is popular in over 180 countries and has been translated into more than 40 languages!"
+    },
+    {
+      "id": "authors-057",
+      "ageGroup": ["5-7"],
+      "question": "Who wrote 'Chicka Chicka Boom Boom'?",
+      "options": ["Dr. Seuss", "Bill Martin Jr. and John Archambault", "Eric Carle", "Shel Silverstein"],
+      "correctIndex": 1,
+      "explanation": "Bill Martin Jr. and John Archambault wrote 'Chicka Chicka Boom Boom', a fun alphabet rhyming book where letters race up a coconut tree.",
+      "funFact": "The book is so catchy that many teachers use it as a song to help children learn the alphabet!"
+    },
+    {
+      "id": "authors-058",
+      "ageGroup": ["5-7"],
+      "question": "Who wrote 'Corduroy', the story about a teddy bear in a shop?",
+      "options": ["Don Freeman", "A.A. Milne", "Beatrix Potter", "Maurice Sendak"],
+      "correctIndex": 0,
+      "explanation": "Don Freeman wrote 'Corduroy', a heartwarming story about a stuffed bear in a department store who is waiting for someone to take him home.",
+      "funFact": "Don Freeman got the idea for Corduroy while watching a little girl and her mother in a laundromat in New York City!"
+    },
+    {
+      "id": "authors-059",
+      "ageGroup": ["8-10"],
+      "question": "Who wrote 'The Secret Garden'?",
+      "options": ["Louisa May Alcott", "Frances Hodgson Burnett", "L.M. Montgomery", "Enid Blyton"],
+      "correctIndex": 1,
+      "explanation": "Frances Hodgson Burnett wrote 'The Secret Garden', about a spoiled girl named Mary who discovers a hidden garden and learns to be kind.",
+      "funFact": "Frances Hodgson Burnett was born in England but moved to America when she was 16, and she loved gardening just like her characters!"
+    },
+    {
+      "id": "authors-060",
+      "ageGroup": ["8-10"],
+      "question": "Who wrote 'Anne of Green Gables'?",
+      "options": ["Enid Blyton", "Louisa May Alcott", "L.M. Montgomery", "Frances Hodgson Burnett"],
+      "correctIndex": 2,
+      "explanation": "L.M. Montgomery wrote 'Anne of Green Gables', about a red-haired orphan girl named Anne Shirley who is adopted by siblings on Prince Edward Island in Canada.",
+      "funFact": "L.M. Montgomery was inspired by a newspaper article about a couple who wanted to adopt a boy but got a girl by mistake!"
+    },
+    {
+      "id": "authors-061",
+      "ageGroup": ["8-10"],
+      "question": "Who wrote 'Little Women'?",
+      "options": ["Jane Austen", "Charlotte Bronte", "Louisa May Alcott", "L.M. Montgomery"],
+      "correctIndex": 2,
+      "explanation": "Louisa May Alcott wrote 'Little Women', based on her own life growing up with three sisters in Massachusetts, USA.",
+      "funFact": "Louisa May Alcott did not want to write a book for girls at first, but her publisher convinced her, and it became one of the most loved books ever!"
+    },
+    {
+      "id": "authors-062",
+      "ageGroup": ["8-10"],
+      "question": "Who wrote 'The Hunger Games'?",
+      "options": ["Veronica Roth", "Suzanne Collins", "J.K. Rowling", "Rick Riordan"],
+      "correctIndex": 1,
+      "explanation": "Suzanne Collins wrote 'The Hunger Games' trilogy, about a brave girl named Katniss Everdeen who must fight for survival in a dystopian future.",
+      "funFact": "Suzanne Collins got the idea for The Hunger Games while flipping between reality TV shows and news coverage of a real war on television!"
+    },
+    {
+      "id": "authors-063",
+      "ageGroup": ["8-10"],
+      "question": "Who wrote 'Wonder'?",
+      "options": ["Jeff Kinney", "R.J. Palacio", "Roald Dahl", "Rick Riordan"],
+      "correctIndex": 1,
+      "explanation": "R.J. Palacio wrote 'Wonder', a touching story about a boy named Auggie who has a facial difference and starts going to school for the first time.",
+      "funFact": "R.J. Palacio was inspired to write 'Wonder' after an incident where her son started crying when he saw a child with a facial difference at an ice cream shop!"
+    },
+    {
+      "id": "authors-064",
+      "ageGroup": ["8-10"],
+      "question": "Who wrote 'A Wrinkle in Time'?",
+      "options": ["C.S. Lewis", "Madeleine L'Engle", "J.K. Rowling", "Ursula K. Le Guin"],
+      "correctIndex": 1,
+      "explanation": "Madeleine L'Engle wrote 'A Wrinkle in Time', a science fantasy novel about a girl named Meg who travels through space and time to rescue her father.",
+      "funFact": "The book was rejected by 26 publishers before it was finally published. It then went on to win the Newbery Medal!"
+    },
+    {
+      "id": "authors-065",
+      "ageGroup": ["8-10"],
+      "question": "Who wrote 'Matilda' and 'Charlie and the Chocolate Factory'?",
+      "options": ["Enid Blyton", "C.S. Lewis", "Roald Dahl", "J.K. Rowling"],
+      "correctIndex": 2,
+      "explanation": "Roald Dahl wrote both 'Matilda' and 'Charlie and the Chocolate Factory', two of the most beloved children's books in the world.",
+      "funFact": "Roald Dahl kept a ball made of the silver foil from every chocolate bar he ever ate. He really, really loved chocolate!"
+    },
+    {
+      "id": "authors-066",
+      "ageGroup": ["8-10"],
+      "question": "Who wrote 'Peter Pan'?",
+      "options": ["Lewis Carroll", "J.M. Barrie", "Robert Louis Stevenson", "Kenneth Grahame"],
+      "correctIndex": 1,
+      "explanation": "J.M. Barrie wrote 'Peter Pan', the story of a boy who never grows up and lives in a magical place called Neverland.",
+      "funFact": "J.M. Barrie gave the rights to Peter Pan to Great Ormond Street Hospital in London, so the hospital earns money every time the story is used!"
+    },
+    {
+      "id": "authors-067",
+      "ageGroup": ["11-13"],
+      "question": "Who wrote 'To Kill a Mockingbird'?",
+      "options": ["Ernest Hemingway", "Harper Lee", "Mark Twain", "John Steinbeck"],
+      "correctIndex": 1,
+      "explanation": "Harper Lee wrote 'To Kill a Mockingbird', a novel about racial injustice in the American South, told through the eyes of a young girl named Scout.",
+      "funFact": "Harper Lee's childhood friend was Truman Capote, and the character Dill in the book is based on him!"
+    },
+    {
+      "id": "authors-068",
+      "ageGroup": ["11-13"],
+      "question": "Which Indian author wrote 'The God of Small Things'?",
+      "options": ["Arundhati Roy", "Jhumpa Lahiri", "Vikram Seth", "Salman Rushdie"],
+      "correctIndex": 0,
+      "explanation": "Arundhati Roy wrote 'The God of Small Things', set in Kerala, India. It won the Man Booker Prize in 1997.",
+      "funFact": "Arundhati Roy studied architecture before becoming a writer, and 'The God of Small Things' took her four years to complete!"
+    },
+    {
+      "id": "authors-069",
+      "ageGroup": ["11-13"],
+      "question": "Who wrote the epic poem 'Paradise Lost'?",
+      "options": ["William Shakespeare", "John Milton", "Geoffrey Chaucer", "William Wordsworth"],
+      "correctIndex": 1,
+      "explanation": "John Milton wrote 'Paradise Lost', a long poem about the fall of Satan and the story of Adam and Eve. It is one of the greatest works in English literature.",
+      "funFact": "John Milton was completely blind when he wrote most of 'Paradise Lost'. He dictated the entire poem to his daughters and assistants!"
+    },
+    {
+      "id": "authors-070",
+      "ageGroup": ["11-13"],
+      "question": "Who wrote 'The Diary of a Young Girl', a famous diary from World War II?",
+      "options": ["Helen Keller", "Anne Frank", "Malala Yousafzai", "Mary Shelley"],
+      "correctIndex": 1,
+      "explanation": "Anne Frank wrote her diary while hiding from the Nazis in Amsterdam during World War II. It has been translated into over 70 languages.",
+      "funFact": "Anne Frank named her diary 'Kitty' and wrote in it as if she was writing letters to a friend!"
+    },
+    {
+      "id": "authors-071",
+      "ageGroup": ["11-13"],
+      "question": "Which poet wrote 'The Road Not Taken'?",
+      "options": ["William Wordsworth", "Robert Frost", "John Keats", "Walt Whitman"],
+      "correctIndex": 1,
+      "explanation": "Robert Frost wrote 'The Road Not Taken', one of the most famous poems in the English language, about choosing between two paths in a forest.",
+      "funFact": "Robert Frost actually wrote the poem as a joke for his friend Edward Thomas, who could never decide which path to take on their walks together!"
+    },
+    {
+      "id": "authors-072",
+      "ageGroup": ["11-13"],
+      "question": "Who wrote 'A Suitable Boy', one of the longest novels in English?",
+      "options": ["Salman Rushdie", "Vikram Seth", "R.K. Narayan", "Amitav Ghosh"],
+      "correctIndex": 1,
+      "explanation": "Vikram Seth wrote 'A Suitable Boy', a massive novel set in post-independence India about a mother searching for a husband for her daughter.",
+      "funFact": "A Suitable Boy has 1,349 pages and over 591,000 words, making it one of the longest novels ever published in a single volume in English!"
+    },
+    {
+      "id": "authors-073",
+      "ageGroup": ["11-13"],
+      "question": "Who wrote the play 'Waiting for Godot'?",
+      "options": ["Oscar Wilde", "Samuel Beckett", "George Bernard Shaw", "Arthur Miller"],
+      "correctIndex": 1,
+      "explanation": "Samuel Beckett wrote 'Waiting for Godot', a famous play where two characters wait endlessly for someone named Godot who never arrives.",
+      "funFact": "Samuel Beckett won the Nobel Prize in Literature in 1969. He originally wrote 'Waiting for Godot' in French and then translated it into English himself!"
+    },
+    {
+      "id": "authors-074",
+      "ageGroup": ["11-13"],
+      "question": "Which Nobel Prize-winning author wrote 'One Hundred Years of Solitude'?",
+      "options": ["Pablo Neruda", "Gabriel Garcia Marquez", "Mario Vargas Llosa", "Jorge Luis Borges"],
+      "correctIndex": 1,
+      "explanation": "Gabriel Garcia Marquez wrote 'One Hundred Years of Solitude', a magical realism novel about seven generations of the Buendia family in a fictional Colombian town.",
+      "funFact": "Gabriel Garcia Marquez sold his car to support his family while he spent 18 months writing 'One Hundred Years of Solitude'!"
+    },
+    {
+      "id": "authors-075",
+      "ageGroup": ["11-13"],
+      "question": "Who wrote 'Hamlet' and 'Macbeth'?",
+      "options": ["Christopher Marlowe", "William Shakespeare", "Ben Jonson", "John Milton"],
+      "correctIndex": 1,
+      "explanation": "William Shakespeare wrote both 'Hamlet' and 'Macbeth', two of the most famous tragedies in all of literature.",
+      "funFact": "Many actors believe that saying the name 'Macbeth' inside a theatre brings bad luck, so they call it 'The Scottish Play' instead!"
     }
   ]
 }

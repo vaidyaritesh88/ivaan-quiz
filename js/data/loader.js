@@ -46,3 +46,21 @@ export async function loadQuestions(dataFile, ageGroup, topicId) {
 
   return questions;
 }
+
+/**
+ * Load questions from ALL static topics, filtered by age group.
+ * Used by the "Overall Mix" topic.
+ */
+export async function loadAllQuestions(ageGroup) {
+  const topicsData = await loadTopics();
+  const staticTopics = topicsData.topics.filter(t => t.type === 'static');
+
+  let allQuestions = [];
+  for (const topic of staticTopics) {
+    const data = await loadJSON(`data/${topic.dataFile}`);
+    const filtered = data.questions.filter(q => q.ageGroup.includes(ageGroup));
+    allQuestions = [...allQuestions, ...filtered];
+  }
+
+  return allQuestions;
+}

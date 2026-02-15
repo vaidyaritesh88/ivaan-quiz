@@ -1,0 +1,680 @@
+{
+  "topic": "famous-monuments",
+  "questions": [
+    {
+      "id": "famous-monuments-001",
+      "ageGroup": ["5-7"],
+      "question": "In which country is the Eiffel Tower located?",
+      "options": ["Italy", "France", "England", "Spain"],
+      "correctIndex": 1,
+      "explanation": "The Eiffel Tower is located in Paris, France. It was built in 1889 and is one of the most visited monuments in the world.",
+      "funFact": "The Eiffel Tower grows about 15 centimetres taller in summer because the iron expands in the heat!"
+    },
+    {
+      "id": "famous-monuments-002",
+      "ageGroup": ["5-7"],
+      "question": "What is the Great Wall of China famous for?",
+      "options": ["Being the tallest building", "Being the longest wall ever built", "Being made of gold", "Being underwater"],
+      "correctIndex": 1,
+      "explanation": "The Great Wall of China is the longest wall ever built, stretching over 21,000 kilometres across China.",
+      "funFact": "The Great Wall is so long that it would take about 18 months to walk from one end to the other!"
+    },
+    {
+      "id": "famous-monuments-003",
+      "ageGroup": ["5-7"],
+      "question": "In which country are the Pyramids of Giza?",
+      "options": ["India", "Mexico", "Egypt", "China"],
+      "correctIndex": 2,
+      "explanation": "The Pyramids of Giza are in Egypt. They were built as tombs for the ancient Egyptian pharaohs over 4,500 years ago.",
+      "funFact": "The Great Pyramid of Giza was the tallest building in the world for over 3,800 years!"
+    },
+    {
+      "id": "famous-monuments-004",
+      "ageGroup": ["5-7"],
+      "question": "The Statue of Liberty is a famous monument in which country?",
+      "options": ["France", "United States of America", "England", "Canada"],
+      "correctIndex": 1,
+      "explanation": "The Statue of Liberty stands in New York City, USA. It was a gift from France to the United States in 1886.",
+      "funFact": "The Statue of Liberty wears a size 879 shoe! Her feet are over 7.5 metres long."
+    },
+    {
+      "id": "famous-monuments-005",
+      "ageGroup": ["5-7"],
+      "question": "What colour is the Taj Mahal?",
+      "options": ["Red", "Yellow", "White", "Blue"],
+      "correctIndex": 2,
+      "explanation": "The Taj Mahal in Agra, India, is made of beautiful white marble. It was built by Emperor Shah Jahan in memory of his wife.",
+      "funFact": "The Taj Mahal changes colour throughout the day — pinkish in the morning, white in the afternoon, and golden at night!"
+    },
+    {
+      "id": "famous-monuments-006",
+      "ageGroup": ["5-7"],
+      "question": "The Colosseum is an ancient arena located in which city?",
+      "options": ["Athens", "Rome", "Paris", "London"],
+      "correctIndex": 1,
+      "explanation": "The Colosseum is in Rome, Italy. It was built nearly 2,000 years ago and could hold about 50,000 spectators.",
+      "funFact": "The Colosseum could be filled with water to stage mock sea battles!"
+    },
+    {
+      "id": "famous-monuments-007",
+      "ageGroup": ["5-7"],
+      "question": "Which famous clock tower is in London, England?",
+      "options": ["Eiffel Tower", "Big Ben", "Leaning Tower", "CN Tower"],
+      "correctIndex": 1,
+      "explanation": "Big Ben is the famous clock tower at the Palace of Westminster in London. The name actually refers to the great bell inside the tower.",
+      "funFact": "Big Ben's clock is so accurate that a penny is placed on top of the pendulum to adjust the time when needed!"
+    },
+    {
+      "id": "famous-monuments-008",
+      "ageGroup": ["5-7"],
+      "question": "Which tower in Italy is famous for leaning to one side?",
+      "options": ["Eiffel Tower", "Big Ben", "Leaning Tower of Pisa", "Tower of London"],
+      "correctIndex": 2,
+      "explanation": "The Leaning Tower of Pisa in Italy started tilting during construction because the ground underneath was too soft on one side.",
+      "funFact": "The tower leans about 4 degrees to one side. Engineers worked for years to stop it from leaning further and falling over!"
+    },
+    {
+      "id": "famous-monuments-009",
+      "ageGroup": ["5-7"],
+      "question": "The Sydney Opera House is in which country?",
+      "options": ["England", "New Zealand", "Australia", "Canada"],
+      "correctIndex": 2,
+      "explanation": "The Sydney Opera House is in Sydney, Australia. Its roof looks like giant white sails or shells.",
+      "funFact": "The Sydney Opera House has over 1 million roof tiles, and they were all made in Sweden!"
+    },
+    {
+      "id": "famous-monuments-010",
+      "ageGroup": ["5-7"],
+      "question": "What is the name of the giant statue of Jesus in Rio de Janeiro, Brazil?",
+      "options": ["Statue of Liberty", "Christ the Redeemer", "The Thinker", "David"],
+      "correctIndex": 1,
+      "explanation": "Christ the Redeemer is a huge statue of Jesus Christ that stands on top of Mount Corcovado in Rio de Janeiro, Brazil.",
+      "funFact": "Christ the Redeemer is 30 metres tall with arms stretching 28 metres wide — that is about as wide as a basketball court!"
+    },
+    {
+      "id": "famous-monuments-011",
+      "ageGroup": ["5-7"],
+      "question": "Stonehenge is a circle of giant stones in which country?",
+      "options": ["France", "Germany", "England", "Scotland"],
+      "correctIndex": 2,
+      "explanation": "Stonehenge is in Wiltshire, England. It is a circle of huge standing stones that is about 5,000 years old.",
+      "funFact": "Nobody knows for certain why Stonehenge was built! Some think it was a calendar, a temple, or a place for healing."
+    },
+    {
+      "id": "famous-monuments-012",
+      "ageGroup": ["5-7"],
+      "question": "Which of these is the tallest building in the world?",
+      "options": ["Eiffel Tower", "Empire State Building", "Burj Khalifa", "Big Ben"],
+      "correctIndex": 2,
+      "explanation": "The Burj Khalifa in Dubai, UAE, is the tallest building in the world at 828 metres. That is more than twice the height of the Empire State Building!",
+      "funFact": "The Burj Khalifa is so tall that you can watch the sunset from the ground floor and then take the elevator to the top to watch it set again!"
+    },
+    {
+      "id": "famous-monuments-013",
+      "ageGroup": ["5-7"],
+      "question": "The ancient city of Petra is carved into rock cliffs in which country?",
+      "options": ["Egypt", "Jordan", "India", "Turkey"],
+      "correctIndex": 1,
+      "explanation": "Petra is an ancient city in Jordan where buildings were carved directly into pink and red rock cliffs over 2,000 years ago.",
+      "funFact": "Petra is sometimes called the 'Rose City' because the rock it is carved from changes colour from pink to red throughout the day!"
+    },
+    {
+      "id": "famous-monuments-014",
+      "ageGroup": ["5-7"],
+      "question": "What shape are the Egyptian Pyramids?",
+      "options": ["Round", "Triangular (pyramid shape)", "Square", "Oval"],
+      "correctIndex": 1,
+      "explanation": "The Egyptian Pyramids have a pyramid shape with a square base and four triangular sides that meet at a point on top.",
+      "funFact": "The ancient Egyptians built the pyramids without any modern machines — they used ramps, levers, and millions of stone blocks!"
+    },
+    {
+      "id": "famous-monuments-015",
+      "ageGroup": ["5-7"],
+      "question": "The Statue of Liberty holds a torch in one hand. What does she hold in the other?",
+      "options": ["A sword", "A book", "A flag", "A shield"],
+      "correctIndex": 1,
+      "explanation": "The Statue of Liberty holds a tablet (book) in her left hand with the date July 4, 1776 — American Independence Day — written on it.",
+      "funFact": "The Statue of Liberty is green now, but when it was first built, it was shiny copper-brown like a new penny!"
+    },
+    {
+      "id": "famous-monuments-016",
+      "ageGroup": ["5-7"],
+      "question": "Which monument has the face of a lion and the body of a lion, sitting near the Pyramids?",
+      "options": ["The Colosseum", "The Sphinx", "Stonehenge", "Petra"],
+      "correctIndex": 1,
+      "explanation": "The Great Sphinx of Giza has the body of a lion and the face of a human. It sits near the Pyramids in Egypt and is over 4,500 years old.",
+      "funFact": "The Sphinx's nose is missing! Nobody knows exactly how it was lost, but it has been missing for hundreds of years."
+    },
+    {
+      "id": "famous-monuments-017",
+      "ageGroup": ["5-7"],
+      "question": "Angkor Wat is the largest religious monument in the world. In which country is it?",
+      "options": ["Thailand", "Cambodia", "India", "Vietnam"],
+      "correctIndex": 1,
+      "explanation": "Angkor Wat is in Siem Reap, Cambodia. It was originally built as a Hindu temple in the 12th century.",
+      "funFact": "Angkor Wat appears on Cambodia's national flag — it is the only building in the world that appears on a country's flag!"
+    },
+    {
+      "id": "famous-monuments-018",
+      "ageGroup": ["5-7"],
+      "question": "What is the Eiffel Tower made of?",
+      "options": ["Wood", "Gold", "Iron", "Stone"],
+      "correctIndex": 2,
+      "explanation": "The Eiffel Tower is made of iron. It weighs about 7,300 tonnes and uses over 18,000 iron pieces held together by 2.5 million rivets.",
+      "funFact": "The Eiffel Tower is repainted every 7 years, and it takes about 60 tonnes of paint each time!"
+    },
+    {
+      "id": "famous-monuments-019",
+      "ageGroup": ["5-7"],
+      "question": "The Forbidden City was the home of Chinese emperors. In which city is it?",
+      "options": ["Shanghai", "Beijing", "Tokyo", "Bangkok"],
+      "correctIndex": 1,
+      "explanation": "The Forbidden City is in Beijing, China. It was the palace of Chinese emperors for almost 500 years and has 980 buildings.",
+      "funFact": "The Forbidden City has 9,999 rooms! The number 9 was considered lucky by the Chinese emperors."
+    },
+    {
+      "id": "famous-monuments-020",
+      "ageGroup": ["5-7"],
+      "question": "Which ancient wonder had beautiful Hanging Gardens?",
+      "options": ["Rome", "Egypt", "Babylon", "Greece"],
+      "correctIndex": 2,
+      "explanation": "The Hanging Gardens of Babylon were one of the Seven Wonders of the Ancient World, believed to have been in ancient Babylon (modern-day Iraq).",
+      "funFact": "Some scientists think the Hanging Gardens might not have actually existed — they could be a legend passed down through stories!"
+    },
+    {
+      "id": "famous-monuments-021",
+      "ageGroup": ["5-7", "8-10"],
+      "question": "Machu Picchu is an ancient Inca city high in the mountains of which country?",
+      "options": ["Brazil", "Mexico", "Peru", "Argentina"],
+      "correctIndex": 2,
+      "explanation": "Machu Picchu is in the Andes Mountains of Peru. It was built by the Inca people around 1450 and sits at 2,430 metres above sea level.",
+      "funFact": "Machu Picchu was hidden from the outside world for hundreds of years until an American explorer named Hiram Bingham found it in 1911!"
+    },
+    {
+      "id": "famous-monuments-022",
+      "ageGroup": ["5-7"],
+      "question": "The Parthenon is an ancient temple in which city?",
+      "options": ["Rome", "Athens", "Cairo", "Istanbul"],
+      "correctIndex": 1,
+      "explanation": "The Parthenon is on top of the Acropolis hill in Athens, Greece. It was built about 2,500 years ago as a temple to the goddess Athena.",
+      "funFact": "The Parthenon was once painted in bright colours — red, blue, and gold — but the paint wore off over thousands of years!"
+    },
+    {
+      "id": "famous-monuments-023",
+      "ageGroup": ["5-7"],
+      "question": "Easter Island is famous for its giant stone statues called Moai. Where is Easter Island?",
+      "options": ["Near Australia", "In the Pacific Ocean", "In the Atlantic Ocean", "Near India"],
+      "correctIndex": 1,
+      "explanation": "Easter Island is a remote island in the southeastern Pacific Ocean, belonging to Chile. The Moai statues were carved by the Rapa Nui people.",
+      "funFact": "There are nearly 900 Moai statues on Easter Island, and the tallest one is about 10 metres high — as tall as a three-storey building!"
+    },
+    {
+      "id": "famous-monuments-024",
+      "ageGroup": ["5-7"],
+      "question": "The Gateway of India is located in which Indian city?",
+      "options": ["Delhi", "Chennai", "Kolkata", "Mumbai"],
+      "correctIndex": 3,
+      "explanation": "The Gateway of India is located in Mumbai, Maharashtra. It stands on the waterfront at Apollo Bunder, facing the Arabian Sea.",
+      "funFact": "The Gateway of India was built to welcome King George V and Queen Mary when they visited India in 1911!"
+    },
+    {
+      "id": "famous-monuments-025",
+      "ageGroup": ["5-7"],
+      "question": "What is the name of the famous bridge with two towers in London?",
+      "options": ["Golden Gate Bridge", "Tower Bridge", "London Bridge", "Brooklyn Bridge"],
+      "correctIndex": 1,
+      "explanation": "Tower Bridge is a famous bridge in London with two tall towers connected by walkways. It can open in the middle to let tall ships pass through.",
+      "funFact": "Tower Bridge opens about 800 times a year to let ships pass through!"
+    },
+    {
+      "id": "famous-monuments-026",
+      "ageGroup": ["8-10"],
+      "question": "The Chichen Itza pyramid is an ancient Mayan monument in which country?",
+      "options": ["Peru", "Mexico", "Guatemala", "Colombia"],
+      "correctIndex": 1,
+      "explanation": "Chichen Itza is in the Yucatan Peninsula of Mexico. The main pyramid, El Castillo, was built by the ancient Maya civilization around 1000 CE.",
+      "funFact": "During the spring and autumn equinoxes, shadows on El Castillo create the illusion of a serpent slithering down the pyramid steps!"
+    },
+    {
+      "id": "famous-monuments-027",
+      "ageGroup": ["8-10"],
+      "question": "How tall is the Eiffel Tower?",
+      "options": ["200 metres", "330 metres", "500 metres", "100 metres"],
+      "correctIndex": 1,
+      "explanation": "The Eiffel Tower is approximately 330 metres tall (including antennas). When it was built in 1889, it was the tallest structure in the world.",
+      "funFact": "Gustave Eiffel had a secret apartment at the very top of the tower where he entertained famous guests like Thomas Edison!"
+    },
+    {
+      "id": "famous-monuments-028",
+      "ageGroup": ["8-10"],
+      "question": "The Acropolis of Athens contains which famous ancient temple?",
+      "options": ["The Colosseum", "The Parthenon", "The Pantheon", "The Forum"],
+      "correctIndex": 1,
+      "explanation": "The Acropolis of Athens contains the Parthenon, a temple dedicated to the Greek goddess Athena. It was built between 447 and 432 BCE.",
+      "funFact": "The word 'Acropolis' means 'high city' in Greek because it sits on a rocky hill 150 metres above the city!"
+    },
+    {
+      "id": "famous-monuments-029",
+      "ageGroup": ["8-10"],
+      "question": "Which country gifted the Statue of Liberty to the United States?",
+      "options": ["England", "Germany", "France", "Spain"],
+      "correctIndex": 2,
+      "explanation": "France gifted the Statue of Liberty to the United States in 1886 as a symbol of friendship and shared values of freedom and democracy.",
+      "funFact": "The statue was shipped from France to America in 350 separate pieces packed in 214 crates, and it took 4 months to reassemble!"
+    },
+    {
+      "id": "famous-monuments-030",
+      "ageGroup": ["8-10"],
+      "question": "The Great Wall of China was built primarily to protect against what?",
+      "options": ["Earthquakes", "Floods", "Invading armies from the north", "Wild animals"],
+      "correctIndex": 2,
+      "explanation": "The Great Wall was built over many centuries to protect China from invasions by nomadic groups from the north, including the Mongols.",
+      "funFact": "The Great Wall is NOT visible from space with the naked eye, despite the popular myth — it is too narrow to see from orbit!"
+    },
+    {
+      "id": "famous-monuments-031",
+      "ageGroup": ["8-10"],
+      "question": "Which pharaoh is the Great Pyramid of Giza believed to have been built for?",
+      "options": ["Tutankhamun", "Khufu (Cheops)", "Ramesses II", "Cleopatra"],
+      "correctIndex": 1,
+      "explanation": "The Great Pyramid of Giza was built for Pharaoh Khufu (also known as Cheops) around 2560 BCE. It took about 20 years to build.",
+      "funFact": "The Great Pyramid contains about 2.3 million stone blocks, each weighing an average of 2.5 tonnes — as heavy as a large car!"
+    },
+    {
+      "id": "famous-monuments-032",
+      "ageGroup": ["8-10"],
+      "question": "What events took place in the Colosseum in ancient Rome?",
+      "options": ["Royal weddings", "Gladiator fights and public spectacles", "Scientific experiments", "Religious ceremonies only"],
+      "correctIndex": 1,
+      "explanation": "The Colosseum hosted gladiator fights, animal hunts, and other public spectacles. It could hold up to 50,000 spectators.",
+      "funFact": "The Colosseum had a huge retractable awning called the 'velarium' that could be pulled over the arena to shade spectators from the sun!"
+    },
+    {
+      "id": "famous-monuments-033",
+      "ageGroup": ["8-10"],
+      "question": "The Hagia Sophia in Istanbul was originally built as what?",
+      "options": ["A palace", "A Christian cathedral", "A mosque", "A library"],
+      "correctIndex": 1,
+      "explanation": "The Hagia Sophia was originally built as a Christian cathedral in 537 CE. It later became a mosque, then a museum, and is now a mosque again.",
+      "funFact": "The dome of the Hagia Sophia was so large that people in the 6th century believed it was hung from heaven by a golden chain!"
+    },
+    {
+      "id": "famous-monuments-034",
+      "ageGroup": ["8-10"],
+      "question": "The Golden Gate Bridge is a famous red bridge in which American city?",
+      "options": ["New York", "Los Angeles", "San Francisco", "Chicago"],
+      "correctIndex": 2,
+      "explanation": "The Golden Gate Bridge is in San Francisco, California. Despite its name, the bridge is painted 'International Orange,' not gold.",
+      "funFact": "The Golden Gate Bridge uses enough cable wire to wrap around the Earth three times — about 129,000 kilometres!"
+    },
+    {
+      "id": "famous-monuments-035",
+      "ageGroup": ["8-10"],
+      "question": "Mont-Saint-Michel is a medieval island abbey in which country?",
+      "options": ["England", "Spain", "Italy", "France"],
+      "correctIndex": 3,
+      "explanation": "Mont-Saint-Michel is a tidal island in Normandy, France, with a stunning medieval abbey on top. It has been a pilgrimage site for over 1,000 years.",
+      "funFact": "At high tide, Mont-Saint-Michel is completely surrounded by water and looks like a floating castle!"
+    },
+    {
+      "id": "famous-monuments-036",
+      "ageGroup": ["8-10"],
+      "question": "The Terracotta Army is a collection of thousands of clay soldiers found in which country?",
+      "options": ["Japan", "India", "China", "Egypt"],
+      "correctIndex": 2,
+      "explanation": "The Terracotta Army was found near Xi'an, China. It was buried with Emperor Qin Shi Huang around 210 BCE to protect him in the afterlife.",
+      "funFact": "There are over 8,000 terracotta soldiers, and no two faces are exactly alike — each one was individually crafted!"
+    },
+    {
+      "id": "famous-monuments-037",
+      "ageGroup": ["8-10"],
+      "question": "What is the Sagrada Familia in Barcelona, Spain?",
+      "options": ["A Roman arena", "A medieval castle", "A church that has been under construction since 1882", "An ancient temple"],
+      "correctIndex": 2,
+      "explanation": "The Sagrada Familia is a large church in Barcelona designed by architect Antoni Gaudi. Construction began in 1882 and is still ongoing.",
+      "funFact": "When finally completed, the Sagrada Familia will have 18 towers, and the tallest will reach 172 metres — making it the tallest church in the world!"
+    },
+    {
+      "id": "famous-monuments-038",
+      "ageGroup": ["8-10"],
+      "question": "The Moai statues of Easter Island were carved from what material?",
+      "options": ["Marble", "Granite", "Volcanic rock", "Sandstone"],
+      "correctIndex": 2,
+      "explanation": "The Moai statues were carved from volcanic rock, specifically from the Rano Raraku volcano crater on Easter Island.",
+      "funFact": "The largest Moai ever attempted was over 21 metres tall but was never finished — it still lies in the quarry where it was being carved!"
+    },
+    {
+      "id": "famous-monuments-039",
+      "ageGroup": ["8-10"],
+      "question": "The Alhambra is a beautiful palace and fortress in which country?",
+      "options": ["Morocco", "Turkey", "Spain", "Portugal"],
+      "correctIndex": 2,
+      "explanation": "The Alhambra is in Granada, Spain. It was built by the Moorish rulers in the 13th and 14th centuries and is known for its stunning Islamic architecture.",
+      "funFact": "The name Alhambra means 'The Red One' in Arabic because the walls of the fortress glow red in the setting sun!"
+    },
+    {
+      "id": "famous-monuments-040",
+      "ageGroup": ["8-10"],
+      "question": "Which ancient Roman building has a famous dome with a hole in the top?",
+      "options": ["The Colosseum", "The Pantheon", "The Forum", "The Arch of Titus"],
+      "correctIndex": 1,
+      "explanation": "The Pantheon in Rome has a large circular opening in the top of its dome called an 'oculus.' It was built around 125 CE.",
+      "funFact": "The Pantheon's dome is still the largest unreinforced concrete dome in the world, nearly 2,000 years after it was built!"
+    },
+    {
+      "id": "famous-monuments-041",
+      "ageGroup": ["8-10"],
+      "question": "The Taj Mahal was built by Emperor Shah Jahan. Why did he build it?",
+      "options": ["As his royal palace", "In memory of his wife Mumtaz Mahal", "As a place of worship", "To celebrate a military victory"],
+      "correctIndex": 1,
+      "explanation": "Shah Jahan built the Taj Mahal between 1632 and 1653 in memory of his beloved wife Mumtaz Mahal, who died during childbirth.",
+      "funFact": "More than 20,000 workers and 1,000 elephants helped build the Taj Mahal, and it took about 22 years to finish!"
+    },
+    {
+      "id": "famous-monuments-042",
+      "ageGroup": ["8-10"],
+      "question": "Neuschwanstein Castle, which inspired the Disney castle, is in which country?",
+      "options": ["France", "Austria", "Germany", "Switzerland"],
+      "correctIndex": 2,
+      "explanation": "Neuschwanstein Castle is in Bavaria, Germany. It was built by King Ludwig II in the 19th century and inspired Sleeping Beauty Castle at Disneyland.",
+      "funFact": "King Ludwig II only lived in the castle for 172 days before he died, even though it took 17 years to build!"
+    },
+    {
+      "id": "famous-monuments-043",
+      "ageGroup": ["8-10"],
+      "question": "What is the Kremlin in Moscow, Russia?",
+      "options": ["A museum", "A fortified complex that is the seat of Russian government", "A cathedral", "A shopping centre"],
+      "correctIndex": 1,
+      "explanation": "The Kremlin is a fortified complex in the heart of Moscow that serves as the official residence of the President of Russia. It contains palaces, cathedrals, and towers.",
+      "funFact": "The Kremlin walls are over 2 kilometres long and have 20 towers, each with its own unique design!"
+    },
+    {
+      "id": "famous-monuments-044",
+      "ageGroup": ["8-10"],
+      "question": "The Great Sphinx of Giza has the body of a lion and the head of what?",
+      "options": ["An eagle", "A human (pharaoh)", "A cat", "A crocodile"],
+      "correctIndex": 1,
+      "explanation": "The Great Sphinx has the body of a lion and the head of a human, believed to represent Pharaoh Khafre. It is 73 metres long and 20 metres high.",
+      "funFact": "The Sphinx was once buried up to its shoulders in sand! It has been dug out and restored many times over thousands of years."
+    },
+    {
+      "id": "famous-monuments-045",
+      "ageGroup": ["8-10"],
+      "question": "The Palace of Versailles is a grand royal palace near which city?",
+      "options": ["London", "Madrid", "Paris", "Berlin"],
+      "correctIndex": 2,
+      "explanation": "The Palace of Versailles is near Paris, France. It was the home of French kings including Louis XIV, the Sun King.",
+      "funFact": "Versailles has 2,300 rooms, including the famous Hall of Mirrors which has 357 mirrors and 20,000 light bulbs!"
+    },
+    {
+      "id": "famous-monuments-046",
+      "ageGroup": ["8-10"],
+      "question": "The Blue Mosque, famous for its blue tiles, is in which city?",
+      "options": ["Cairo", "Dubai", "Istanbul", "Marrakech"],
+      "correctIndex": 2,
+      "explanation": "The Blue Mosque (Sultan Ahmed Mosque) is in Istanbul, Turkey. It was built between 1609 and 1616 and is famous for its beautiful blue interior tiles.",
+      "funFact": "The Blue Mosque has over 20,000 handmade ceramic tiles decorating its interior, all painted with blue floral patterns!"
+    },
+    {
+      "id": "famous-monuments-047",
+      "ageGroup": ["8-10"],
+      "question": "The Empire State Building was once the tallest building in the world. In which city is it?",
+      "options": ["Chicago", "Los Angeles", "New York City", "Miami"],
+      "correctIndex": 2,
+      "explanation": "The Empire State Building is in New York City. It was completed in 1931 and stood as the world's tallest building for nearly 40 years.",
+      "funFact": "The Empire State Building was built in just 410 days — that is just over a year — during the Great Depression!"
+    },
+    {
+      "id": "famous-monuments-048",
+      "ageGroup": ["8-10"],
+      "question": "Borobudur, the world's largest Buddhist temple, is located in which country?",
+      "options": ["Thailand", "Sri Lanka", "Indonesia", "Myanmar"],
+      "correctIndex": 2,
+      "explanation": "Borobudur is on the island of Java in Indonesia. It was built in the 9th century and has over 2,600 relief panels and 504 Buddha statues.",
+      "funFact": "Borobudur was buried under volcanic ash and jungle for centuries before it was rediscovered in 1814!"
+    },
+    {
+      "id": "famous-monuments-049",
+      "ageGroup": ["8-10"],
+      "question": "The Statue of Unity, the world's tallest statue, is in which country?",
+      "options": ["China", "India", "Japan", "Brazil"],
+      "correctIndex": 1,
+      "explanation": "The Statue of Unity is in Gujarat, India. At 182 metres, it is the tallest statue in the world, dedicated to Sardar Vallabhbhai Patel.",
+      "funFact": "The Statue of Unity is nearly twice as tall as the Statue of Liberty!"
+    },
+    {
+      "id": "famous-monuments-050",
+      "ageGroup": ["8-10"],
+      "question": "The Red Fort in Delhi is built from what material?",
+      "options": ["White marble", "Red sandstone", "Granite", "Brick"],
+      "correctIndex": 1,
+      "explanation": "The Red Fort is built using red sandstone. It was constructed by Mughal Emperor Shah Jahan in 1639 and served as the main residence of Mughal emperors.",
+      "funFact": "Every year on Independence Day, the Prime Minister of India hoists the national flag at the Red Fort!"
+    },
+    {
+      "id": "famous-monuments-051",
+      "ageGroup": ["11-13"],
+      "question": "The ancient city of Petra was built by which civilization?",
+      "options": ["Romans", "Egyptians", "Nabataeans", "Persians"],
+      "correctIndex": 2,
+      "explanation": "Petra was built by the Nabataeans, an ancient Arab people who controlled important trade routes. The city was carved into sandstone cliffs around 300 BCE.",
+      "funFact": "Petra has an advanced water system with dams, cisterns, and channels that could collect rainwater in the desert — a marvel of ancient engineering!"
+    },
+    {
+      "id": "famous-monuments-052",
+      "ageGroup": ["11-13"],
+      "question": "Which of the original Seven Wonders of the Ancient World still exists today?",
+      "options": ["Colossus of Rhodes", "Hanging Gardens of Babylon", "Great Pyramid of Giza", "Lighthouse of Alexandria"],
+      "correctIndex": 2,
+      "explanation": "The Great Pyramid of Giza is the only one of the original Seven Wonders of the Ancient World that still stands today.",
+      "funFact": "The original Seven Wonders list was created by ancient Greek travellers around 200 BCE as a kind of 'tourist guidebook'!"
+    },
+    {
+      "id": "famous-monuments-053",
+      "ageGroup": ["11-13"],
+      "question": "The Colosseum in Rome was built using which innovative construction technique?",
+      "options": ["Mud brick construction", "Roman concrete (opus caementicium)", "Wooden framework only", "Carved from a single rock"],
+      "correctIndex": 1,
+      "explanation": "The Colosseum was built using Roman concrete, one of the most durable building materials ever invented. It also used travertine stone and iron clamps.",
+      "funFact": "Roman concrete actually gets stronger over time, unlike modern concrete. Scientists discovered that seawater helps create crystals that reinforce the material!"
+    },
+    {
+      "id": "famous-monuments-054",
+      "ageGroup": ["11-13"],
+      "question": "What architectural style is the Taj Mahal an example of?",
+      "options": ["Gothic", "Mughal", "Baroque", "Classical Greek"],
+      "correctIndex": 1,
+      "explanation": "The Taj Mahal is a masterpiece of Mughal architecture, which blends Indian, Persian, and Islamic architectural styles.",
+      "funFact": "Over 28 types of precious and semi-precious stones were used to decorate the Taj Mahal using the pietra dura technique of inlaid gemstones!"
+    },
+    {
+      "id": "famous-monuments-055",
+      "ageGroup": ["11-13"],
+      "question": "Machu Picchu was 'rediscovered' by the outside world in which year?",
+      "options": ["1811", "1877", "1911", "1945"],
+      "correctIndex": 2,
+      "explanation": "American historian Hiram Bingham brought Machu Picchu to international attention in 1911, though local people always knew about it.",
+      "funFact": "Machu Picchu was built without mortar, wheels, or iron tools. The stones fit together so perfectly that you cannot fit a knife blade between them!"
+    },
+    {
+      "id": "famous-monuments-056",
+      "ageGroup": ["11-13"],
+      "question": "The Leaning Tower of Pisa began tilting during construction because of what?",
+      "options": ["An earthquake", "Soft ground on one side", "A design flaw in the foundation", "Heavy winds"],
+      "correctIndex": 1,
+      "explanation": "The tower began to lean because the soil beneath it was too soft on one side. Construction took 199 years (1173-1372) with breaks to let the foundation settle.",
+      "funFact": "During World War II, the Allies almost demolished the tower because Germans were using it as an observation post, but a retreat order saved it at the last moment!"
+    },
+    {
+      "id": "famous-monuments-057",
+      "ageGroup": ["11-13"],
+      "question": "What was the original purpose of the Great Wall of China's watchtowers?",
+      "options": ["Housing for soldiers", "Signal communication using smoke and fire", "Storing weapons", "Religious ceremonies"],
+      "correctIndex": 1,
+      "explanation": "The watchtowers along the Great Wall were used to send signals using smoke during the day and fire at night to warn of approaching enemies.",
+      "funFact": "Different numbers of smoke signals meant different things — one column of smoke meant a small enemy force, while five columns meant a massive invasion!"
+    },
+    {
+      "id": "famous-monuments-058",
+      "ageGroup": ["11-13"],
+      "question": "The Sydney Opera House was designed by which architect?",
+      "options": ["Frank Lloyd Wright", "Jorn Utzon", "Le Corbusier", "Zaha Hadid"],
+      "correctIndex": 1,
+      "explanation": "Danish architect Jorn Utzon designed the Sydney Opera House. His design won a competition in 1957 out of 233 entries from around the world.",
+      "funFact": "The project went massively over budget — originally estimated at $7 million, it ended up costing $102 million and took 16 years to complete!"
+    },
+    {
+      "id": "famous-monuments-059",
+      "ageGroup": ["11-13"],
+      "question": "Which architectural order are the columns of the Parthenon built in?",
+      "options": ["Ionic", "Corinthian", "Doric", "Tuscan"],
+      "correctIndex": 2,
+      "explanation": "The Parthenon's outer columns are of the Doric order, the simplest and oldest of the Greek column styles, characterised by plain capitals.",
+      "funFact": "The columns of the Parthenon are not perfectly straight — they bulge slightly in the middle (called entasis) to create an optical illusion of perfect straightness!"
+    },
+    {
+      "id": "famous-monuments-060",
+      "ageGroup": ["11-13"],
+      "question": "The Forbidden City in Beijing contains approximately how many rooms?",
+      "options": ["500", "2,000", "5,000", "9,000"],
+      "correctIndex": 3,
+      "explanation": "The Forbidden City has approximately 9,000 rooms spread across 980 buildings. It covers 72 hectares and was home to 24 emperors.",
+      "funFact": "No one was allowed to enter or leave the Forbidden City without the emperor's permission — anyone caught doing so could be executed!"
+    },
+    {
+      "id": "famous-monuments-061",
+      "ageGroup": ["11-13"],
+      "question": "Angkor Wat was originally dedicated to which Hindu god?",
+      "options": ["Shiva", "Brahma", "Vishnu", "Ganesha"],
+      "correctIndex": 2,
+      "explanation": "Angkor Wat was originally built as a Hindu temple dedicated to Vishnu by King Suryavarman II in the 12th century. It later became a Buddhist temple.",
+      "funFact": "Angkor Wat's moat is over 5 kilometres long and 190 metres wide. It was designed to represent the cosmic ocean in Hindu mythology!"
+    },
+    {
+      "id": "famous-monuments-062",
+      "ageGroup": ["11-13"],
+      "question": "What engineering challenge did the builders of the Burj Khalifa face in the desert?",
+      "options": ["Extreme cold temperatures", "Building on soft sandy soil with a high water table", "Lack of construction materials", "Frequent earthquakes"],
+      "correctIndex": 1,
+      "explanation": "The Burj Khalifa's foundation sits on soft desert soil, requiring 192 piles driven 50 metres deep into the ground, plus a massive concrete mat to support the tower.",
+      "funFact": "The Burj Khalifa has 163 floors and 57 elevators. One of the elevators is the fastest in the world, travelling at 10 metres per second!"
+    },
+    {
+      "id": "famous-monuments-063",
+      "ageGroup": ["11-13"],
+      "question": "The Christ the Redeemer statue in Brazil was built using which material?",
+      "options": ["Bronze", "Marble", "Reinforced concrete and soapstone", "Granite"],
+      "correctIndex": 2,
+      "explanation": "Christ the Redeemer is made of reinforced concrete and covered with approximately 6 million soapstone tiles. It was completed in 1931.",
+      "funFact": "Lightning strikes the statue about 3 to 5 times per year! In 2014, a lightning bolt chipped off the tip of one of its fingers."
+    },
+    {
+      "id": "famous-monuments-064",
+      "ageGroup": ["11-13"],
+      "question": "Which of these UNESCO World Heritage Sites is the most recently inscribed?",
+      "options": ["Machu Picchu (1983)", "Angkor Wat (1992)", "Taj Mahal (1983)", "Burj Khalifa (Not a UNESCO site)"],
+      "correctIndex": 3,
+      "explanation": "The Burj Khalifa is not a UNESCO World Heritage Site. While impressive, UNESCO sites are typically chosen for cultural or natural significance rather than modern height records.",
+      "funFact": "There are over 1,100 UNESCO World Heritage Sites across 167 countries. Italy has the most with 59 sites!"
+    },
+    {
+      "id": "famous-monuments-065",
+      "ageGroup": ["11-13"],
+      "question": "Stonehenge's massive stones were transported from how far away?",
+      "options": ["5 kilometres", "25 kilometres", "Up to 240 kilometres (from Wales)", "Over 1,000 kilometres"],
+      "correctIndex": 2,
+      "explanation": "The smaller 'bluestones' at Stonehenge were transported from the Preseli Hills in Wales, about 240 kilometres away. How ancient people moved them remains debated.",
+      "funFact": "The larger sarsen stones weigh up to 25 tonnes each, and scientists now believe they came from a site called West Woods, about 25 kilometres away!"
+    },
+    {
+      "id": "famous-monuments-066",
+      "ageGroup": ["11-13"],
+      "question": "The Palace of Versailles' Hall of Mirrors was significant because of what historical event?",
+      "options": ["Napoleon's coronation", "Signing of the Treaty of Versailles after World War I", "The French Revolution began there", "Louis XIV's wedding"],
+      "correctIndex": 1,
+      "explanation": "The Treaty of Versailles, which ended World War I, was signed in the Hall of Mirrors on June 28, 1919, making it one of history's most important rooms.",
+      "funFact": "The Hall of Mirrors contains 357 mirrors that reflect the light from 20,000 candles and 150 chandeliers, creating a dazzling display!"
+    },
+    {
+      "id": "famous-monuments-067",
+      "ageGroup": ["11-13"],
+      "question": "What makes Gaudi's Sagrada Familia unique in terms of its construction timeline?",
+      "options": ["It was built in just one year", "It has been under construction for over 140 years", "It was rebuilt three times", "It was completed before Gaudi designed it"],
+      "correctIndex": 1,
+      "explanation": "Construction of the Sagrada Familia began in 1882 and is expected to be completed around 2026. Gaudi knew he would not live to see it finished.",
+      "funFact": "When Gaudi died in 1926, only about 25% of the church was complete. He spent the last 15 years of his life working on nothing else!"
+    },
+    {
+      "id": "famous-monuments-068",
+      "ageGroup": ["11-13"],
+      "question": "The Terracotta Army was discovered accidentally by whom?",
+      "options": ["An archaeologist", "A government official", "Local farmers digging a well", "A construction crew"],
+      "correctIndex": 2,
+      "explanation": "The Terracotta Army was discovered in 1974 by local farmers who were digging a well near Xi'an, China. It is considered one of the greatest archaeological finds ever.",
+      "funFact": "Each terracotta warrior originally held real bronze weapons. Many of these weapons were still sharp after being buried for over 2,000 years!"
+    },
+    {
+      "id": "famous-monuments-069",
+      "ageGroup": ["11-13"],
+      "question": "The Alhambra in Spain is an outstanding example of which architectural tradition?",
+      "options": ["Roman architecture", "Gothic architecture", "Islamic Moorish architecture", "Byzantine architecture"],
+      "correctIndex": 2,
+      "explanation": "The Alhambra is a masterpiece of Islamic Moorish architecture, featuring intricate geometric patterns, arabesques, muqarnas (honeycomb vaulting), and calligraphy.",
+      "funFact": "The Alhambra's walls are decorated with over 10,000 inscriptions in Arabic, many of which are poems praising the beauty of the palace!"
+    },
+    {
+      "id": "famous-monuments-070",
+      "ageGroup": ["11-13"],
+      "question": "What is special about the construction of the Pantheon's dome in Rome?",
+      "options": ["It is made of glass", "It is the largest unreinforced concrete dome ever built", "It was built in a single day", "It is made of marble"],
+      "correctIndex": 1,
+      "explanation": "The Pantheon's dome, built around 125 CE, remains the world's largest unreinforced concrete dome at 43.3 metres in diameter — a feat not matched for 1,300 years.",
+      "funFact": "The dome gets thinner and lighter toward the top, and the concrete mix changes from heavy basalt at the bottom to lightweight pumice at the top!"
+    },
+    {
+      "id": "famous-monuments-071",
+      "ageGroup": ["11-13"],
+      "question": "The Konark Sun Temple in Odisha, India, is designed in the shape of what?",
+      "options": ["A lotus flower", "A giant chariot with wheels", "A pyramid", "A ship"],
+      "correctIndex": 1,
+      "explanation": "The Konark Sun Temple is designed as a gigantic chariot with 24 elaborately carved stone wheels, pulled by seven horses, dedicated to the Sun god Surya.",
+      "funFact": "The 24 wheels of the Konark Sun Temple actually work as sundials — you can tell the exact time of day using the shadow they cast!"
+    },
+    {
+      "id": "famous-monuments-072",
+      "ageGroup": ["11-13"],
+      "question": "The Hagia Sophia has served as a cathedral, a mosque, and a museum. In which year was it first built?",
+      "options": ["125 CE", "537 CE", "1054 CE", "1453 CE"],
+      "correctIndex": 1,
+      "explanation": "The Hagia Sophia was completed in 537 CE under Byzantine Emperor Justinian I. For nearly 1,000 years, it was the largest cathedral in the world.",
+      "funFact": "When Emperor Justinian first entered the completed Hagia Sophia, he reportedly exclaimed, 'Solomon, I have outdone thee!' referring to the biblical Temple of Solomon."
+    },
+    {
+      "id": "famous-monuments-073",
+      "ageGroup": ["11-13"],
+      "question": "Which of these pairs correctly matches a monument with its primary building material?",
+      "options": ["Colosseum — white marble only", "Machu Picchu — granite blocks without mortar", "Eiffel Tower — steel", "Burj Khalifa — pure glass"],
+      "correctIndex": 1,
+      "explanation": "Machu Picchu was built using granite blocks fitted together without mortar using a technique called ashlar. The stones fit so precisely they have survived earthquakes.",
+      "funFact": "Machu Picchu sits on two fault lines, and the Incas' dry-stone technique actually allows the walls to bounce during earthquakes and resettle!"
+    },
+    {
+      "id": "famous-monuments-074",
+      "ageGroup": ["11-13"],
+      "question": "The Statue of Liberty's crown has how many rays, and what do they represent?",
+      "options": ["5 rays for the 5 continents", "7 rays for the 7 continents and 7 seas", "12 rays for the 12 months", "50 rays for the 50 US states"],
+      "correctIndex": 1,
+      "explanation": "The crown has 7 rays representing the seven continents and seven seas of the world, symbolising liberty spreading across the globe.",
+      "funFact": "Visitors must climb 354 steps to reach the crown of the Statue of Liberty — that is equivalent to climbing a 20-storey building!"
+    },
+    {
+      "id": "famous-monuments-075",
+      "ageGroup": ["11-13"],
+      "question": "Which monument was intentionally designed so that during equinoxes, the shadows create a serpent effect on its staircase?",
+      "options": ["Stonehenge", "Konark Sun Temple", "El Castillo at Chichen Itza", "Great Pyramid of Giza"],
+      "correctIndex": 2,
+      "explanation": "El Castillo (Temple of Kukulcan) at Chichen Itza was designed so that during the spring and autumn equinoxes, shadows create the illusion of a serpent descending the pyramid.",
+      "funFact": "The pyramid has 365 steps in total — one for each day of the year — showing the Maya's incredible knowledge of astronomy and mathematics!"
+    }
+  ]
+}
